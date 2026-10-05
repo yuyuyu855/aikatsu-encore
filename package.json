@@ -1,0 +1,17 @@
+{
+  "name": "aikatsu-encore",
+  "private": true,
+  "packageManager": "pnpm@11.19.0",
+  "engines": { "node": ">=22.13.0" },
+  "scripts": {
+    "dev": "pnpm --filter @aikatsu/web dev",
+    "build": "pnpm typecheck && pnpm --filter @aikatsu/web build",
+    "typecheck": "pnpm -r typecheck",
+    "test": "pnpm --filter @aikatsu/domain test",
+    "test:e2e": "playwright test"
+  },
+  "devDependencies": {
+    "@playwright/test": "1.63.0",
+    "typescript": "5.9.3"
+  }
+}
