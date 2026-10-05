@@ -6,6 +6,8 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
+    "build:pages": "vite build --mode pages",
+    "preview:pages": "vite preview --mode pages --host 127.0.0.1 --port 4173 --strictPort",
     "typecheck": "tsc -p tsconfig.json && tsc -p tsconfig.node.json",
     "preview": "vite preview --host 127.0.0.1"
   },

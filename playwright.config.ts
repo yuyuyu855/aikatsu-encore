@@ -5,6 +5,7 @@ const systemChromium = process.env.PLAYWRIGHT_CHROMIUM_EXECUTABLE_PATH || '/usr/
 
 export default defineConfig({
   testDir: './apps/web/e2e',
+  testIgnore: '**/pages/**',
   fullyParallel: true,
   forbidOnly: Boolean(process.env.CI),
   retries: 0,

@@ -6,9 +6,12 @@
   "scripts": {
     "dev": "pnpm --filter @aikatsu/web dev",
     "build": "pnpm typecheck && pnpm --filter @aikatsu/web build",
+    "build:pages": "pnpm typecheck && pnpm --filter @aikatsu/web build:pages && node scripts/publish/verify-pages.mjs",
+    "preview:pages": "pnpm --filter @aikatsu/web preview:pages",
     "typecheck": "pnpm -r typecheck",
     "test": "pnpm -r test && node --test scripts/catalog/test/official.test.mjs",
     "test:e2e": "playwright test",
+    "test:e2e:pages": "pnpm build:pages && playwright test --config apps/web/e2e/pages/playwright.config.ts",
     "catalog:fetch": "node scripts/catalog/fetch-images.mjs",
     "catalog:validate": "node scripts/catalog/validate.mjs",
     "catalog:stage": "node scripts/catalog/stage.mjs"
