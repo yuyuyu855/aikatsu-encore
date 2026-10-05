@@ -4,6 +4,15 @@ export interface CatalogCard {
   name: string;
   rarity?: string;
   verificationStatus?: 'user-screenshot' | 'verified' | 'unverified';
+  setId?: string;
+  part?: string;
+  brand?: string;
+  category?: string;
+  appealPoints?: number;
+  imageUrl?: string;
+  imageBackUrl?: string;
+  status?: 'active' | 'retired';
+  source?: { url: string; acquiredAt: string; sourceSeriesId: string };
 }
 
 export interface Inventory {

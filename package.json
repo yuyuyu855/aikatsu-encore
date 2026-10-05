@@ -7,11 +7,17 @@
     "dev": "pnpm --filter @aikatsu/web dev",
     "build": "pnpm typecheck && pnpm --filter @aikatsu/web build",
     "typecheck": "pnpm -r typecheck",
-    "test": "pnpm --filter @aikatsu/domain test",
-    "test:e2e": "playwright test"
+    "test": "pnpm -r test && node --test scripts/catalog/test/official.test.mjs",
+    "test:e2e": "playwright test",
+    "catalog:fetch": "node scripts/catalog/fetch-images.mjs",
+    "catalog:validate": "node scripts/catalog/validate.mjs",
+    "catalog:stage": "node scripts/catalog/stage.mjs"
   },
   "devDependencies": {
     "@playwright/test": "1.63.0",
-    "typescript": "5.9.3"
+    "typescript": "5.9.3",
+    "cheerio": "1.2.0",
+    "image-size": "2.0.4",
+    "undici": "7.30.0"
   }
 }

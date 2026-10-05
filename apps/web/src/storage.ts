@@ -1,5 +1,5 @@
 import { emptyInventory, validateBackup, type Backup, type Inventory } from '@aikatsu/domain';
-import { SAMPLE_CATALOG } from './catalog';
+import { CATALOG_CARDS } from './catalog';
 
 const DATABASE = 'aikatsu-encore-local';
 const STORE = 'state';
@@ -7,7 +7,9 @@ const KEY = 'inventory';
 let databasePromise: Promise<IDBDatabase> | undefined;
 
 export function normalizeInventory(backup: Backup): Inventory[] {
-  return SAMPLE_CATALOG.map((card) => backup.inventory.find((item) => item.cardId === card.id) ?? emptyInventory(card.id));
+  const existing = new Map(backup.inventory.map((item) => [item.cardId, item]));
+  // The registry includes retired/nonvisible IDs: display filters never project saved state.
+  return CATALOG_CARDS.map((card) => existing.get(card.id) ?? emptyInventory(card.id));
 }
 
 function openDatabase(): Promise<IDBDatabase> {
@@ -46,12 +48,12 @@ export async function loadInventory(): Promise<Inventory[]> {
     transaction.onerror = () => reject(transaction.error ?? new Error('保存データを読み込めませんでした。'));
     transaction.oncomplete = () => {
       if (request.result === undefined) {
-        resolve(SAMPLE_CATALOG.map((card) => emptyInventory(card.id)));
+        resolve(CATALOG_CARDS.map((card) => emptyInventory(card.id)));
         return;
       }
-      const result = validateBackup(request.result, SAMPLE_CATALOG);
+      const result = validateBackup(request.result, CATALOG_CARDS);
       if (!result.ok) {
-        reject(new Error(`保存データに問題があります。上書きせず停止しました。${result.errors.join(' ')}`));
+        reject(new Error(`保存データに問題があります。上書きせず停止しました。未登録IDがある場合は新しいカタログへアプリを更新してください。${result.errors.join(' ')}`));
         return;
       }
       resolve(normalizeInventory(result.value));
@@ -62,7 +64,7 @@ export async function loadInventory(): Promise<Inventory[]> {
 /** A complete validated snapshot is replaced in one transaction. Resolve only on commit. */
 export async function saveInventory(inventory: Inventory[]): Promise<void> {
   const backup: Backup = { schemaVersion: 1, inventory };
-  const result = validateBackup(backup, SAMPLE_CATALOG);
+  const result = validateBackup(backup, CATALOG_CARDS);
   if (!result.ok) throw new Error(result.errors.join(' '));
   const database = await openDatabase();
   return new Promise((resolve, reject) => {

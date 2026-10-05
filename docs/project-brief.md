@@ -26,7 +26,9 @@
 表示例は `E1-01 PR オーロラキスキャミソール`、`E1-02 PR オーロラキスドレープスカート`。
 「85種中2種取得」は画像の表示値であり、公式の全カタログ数が85と確認できたわけではない。
 「配列」の意味、QRの実形式、カード番号とコードの対応は未検証。
-公式サイトもプロキシ403で、公式からの全件のカードデータと画像は取得できていない。
+初期の公式アクセスはプロキシ403だったが、2026-10-05の再取得で公開一覧をHTTP 200で確認した。
+第1弾85件とプロモーション22件、計107件および表裏214画像を取得・検証済み。
+全107件の名称・パーツ・APを公式画像から確認し、ブランド表示がない53件は未設定として保持する。
 第三者の公開実装には85件の候補データと97枠の別辞書があり、公式全件数の根拠にはしない。
 詳細は [aikatsu-research.md](aikatsu-research.md)。出典・検証状態と対象弾／プロモを分けて扱う。
 
@@ -44,7 +46,9 @@ QR読取は実物形式の調査を先行させ、未確認の対応辞書やダ
 
 TypeScript、pnpm workspace、React／Viteの `apps/web`、数量・スキーマ・純粋関数を担う
 `packages/domain` のローカルstarterを追加し、端末内のIndexedDBへ保存する。
-参考画像で表示を確認できたサンプル2カードのみを収録し、全カタログやQR対応辞書は未実装。
+`packages/catalog` に現在の公式公開107件と画像の出典・取得根拠を収録する。
+弾切替・動的集計・ローカル画像の表裏表示に対応し、旧2カードのIDと所持データを維持する。
+画像はGit管理外キャッシュで、再取得ツールを用意した。QR対応辞書は未実装。
 クラウドAPI・認証・共有・QR読取・PWAのService Workerは未実装。
 今回の端末内保存はローカルで試すための範囲であり、友人との最終共有方式を決めたものではない。
 実際の起動手順・テスト結果は [README](../README.md) と [local-development.md](local-development.md) を参照する。
@@ -76,9 +80,9 @@ Accessは具体的なメールアドレスの許可を候補とする。Freeで�
 - 要件整理・MVP設計: 本文書と [product-design.md](product-design.md) に反映済み。共有方式は未確定。
 - 実装指示: [implementation-plan.md](implementation-plan.md) に受入条件と現在のローカル実装範囲を記載。
 - 競合調査: [benchmark.md](benchmark.md) に集約済み。
-- ゲーム固有調査: [aikatsu-research.md](aikatsu-research.md) を作成済み。候補データの公式照合は未完了。
-- ローカルstarter: React／Vite、pnpm workspace、domain、IndexedDB保存を実装・検証済み。
-  frozen install、型チェックを含むビルド、domainテスト、system Chromiumでのブラウザテストが合格。
+- ゲーム固有調査: [aikatsu-research.md](aikatsu-research.md) を作成済み。公式公開一覧107件・表裏214画像の取得と画像からの名称等の補完を記録。コード対応は未検証。
+- ローカルstarter: React／Vite、pnpm workspace、domain、catalog、IndexedDB保存を実装。
+  frozen install、型チェックを含むビルド、domain／catalog／取得CLIの48テスト、system Chromiumのブラウザ12テストが合格。
   保存・再読み込み、無効な復元／保存中断時の既存データ保持、バックアップ復元、375px表示を確認済み。
   ローカル開発サーバーも起動確認済み。再現手順と詳細はREADME／local-developmentを参照する。
 - 再利用用install_script／start_skillはドラフト保存済み。公開は未実施。

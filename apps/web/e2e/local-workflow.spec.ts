@@ -1,45 +1,7 @@
-import { readFile } from 'node:fs/promises';
-import type { Page } from '@playwright/test';
 import { test, expect } from './fixtures';
-
-const card = (page: Page, number: string) => page.getByRole('article', { name: new RegExp(`^${number} `) });
-const quantity = (page: Page, number: string, kind: '所持' | '譲れる枚数') => card(page, number).getByLabel(`${number} ${kind}`, { exact: true });
-const change = (page: Page, number: string, kind: '所持' | '譲れる枚数', direction: '増やす' | '減らす') => card(page, number).getByRole('button', { name: `${number} ${kind}を${direction}`, exact: true });
-const wanted = (page: Page, number: string) => card(page, number).getByRole('checkbox', { name: `${number} 欲しい` });
-
-async function expectItem(page: Page, number: string, owned: number, offered: number, isWanted: boolean) {
-  await expect(quantity(page, number, '所持')).toHaveText(`${owned}枚`);
-  await expect(quantity(page, number, '譲れる枚数')).toHaveText(`${offered}枚`);
-  if (isWanted) await expect(wanted(page, number)).toBeChecked();
-  else await expect(wanted(page, number)).not.toBeChecked();
-}
-
-async function addOwned(page: Page, number: string, total: number) {
-  for (let owned = 1; owned <= total; owned++) {
-    await change(page, number, '所持', '増やす').click();
-    await expect(quantity(page, number, '所持')).toHaveText(`${owned}枚`);
-  }
-}
-
-async function exportBackup(page: Page) {
-  await page.getByRole('button', { name: 'バックアップ', exact: true }).click();
-  const downloadPending = page.waitForEvent('download');
-  await page.getByRole('button', { name: 'JSONをダウンロード' }).click();
-  const download = await downloadPending;
-  expect(download.suggestedFilename()).toMatch(/^encore-backup-.*\.json$/);
-  const path = await download.path();
-  expect(path).not.toBeNull();
-  return JSON.parse(await readFile(path!, 'utf8')) as {
-    schemaVersion: number;
-    inventory: { cardId: string; owned: number; offered: number; wanted: boolean }[];
-  };
-}
-
-async function importText(page: Page, text: string) {
-  await page.getByLabel('バックアップJSONファイル').setInputFiles({
-    name: 'restore.json', mimeType: 'application/json', buffer: Buffer.from(text),
-  });
-}
+import { card, quantity, change, wanted, expectItem, addOwned, exportBackup, importText } from './workflow-helpers';
+import cards from '../../../packages/catalog/data/cards.json' with { type: 'json' };
+import manifest from '../../../packages/catalog/data/manifest.json' with { type: 'json' };
 
 test.beforeEach(async ({ page }) => {
   await page.goto('/');
@@ -47,15 +9,20 @@ test.beforeEach(async ({ page }) => {
   await expect(change(page, 'E1-01', '所持', '増やす')).toBeEnabled();
 });
 
-test('shows the two sample cards in number order and a bounded catalog denominator', async ({ page }) => {
-  await expect(page.locator('.inventory-card')).toHaveCount(2);
+test('shows all 107 official cards in number order and the full catalog denominator', async ({ page }) => {
+  expect(cards).toHaveLength(107);
+  expect(manifest.sets.map((set) => set.count).sort((a, b) => a - b)).toEqual([22, 85]);
+  await expect(page.locator('.inventory-card')).toHaveCount(107);
   await expect(page.locator('.inventory-card').first()).toHaveAttribute('data-testid', 'card-e1-01');
-  await expect(page.locator('.inventory-card').last()).toHaveAttribute('data-testid', 'card-e1-02');
-  await expect(page.locator('.scope-label')).toContainText(/サンプル.*2種/);
-  await expect(page.getByRole('progressbar', { name: 'サンプル2種の所持種類率' })).toHaveAttribute('aria-valuemax', '2');
+  await expect(page.locator('.scope-label')).toContainText('全公開カード · 107 種');
+  await expect(page.getByRole('progressbar', { name: '全公開カードの所持種類率' })).toHaveAttribute('aria-valuemax', '107');
+  const numbers = await page.locator('.inventory-card .card-number').allTextContents();
+  expect(numbers).toEqual([...numbers].sort((a, b) => a.localeCompare(b, 'ja', { numeric: true })));
   await expectItem(page, 'E1-01', 0, 0, false);
   await expectItem(page, 'E1-02', 0, 0, false);
-  await page.screenshot({ path: '/tmp/aikatsu-local-desktop.png', fullPage: true });
+  await page.getByRole('searchbox', { name: 'カード名・番号で検索' }).fill('E1-01');
+  await expect.poll(() => card(page, 'E1-01').getByRole('img').evaluate((element: HTMLImageElement) => element.naturalWidth)).toBeGreaterThan(0);
+  await page.screenshot({ path: '/tmp/aikatsu-full-desktop.png', fullPage: true });
 });
 
 test('persists owned, offered, and wanted independently through IndexedDB reload', async ({ page }) => {
@@ -116,10 +83,11 @@ test('searches names and numbers and filters owned, unowned, offered, and wanted
   await expect(page.getByText('一致するカードがありません')).toBeVisible();
   await search.fill('');
   const filter = page.getByRole('combobox', { name: 'カードの絞り込み' });
-  for (const [value, number] of [['owned', 'E1-01'], ['unowned', 'E1-02'], ['offered', 'E1-01'], ['wanted', 'E1-02']]) {
-    await filter.selectOption(value!);
-    await expect(page.locator('.inventory-card')).toHaveCount(1);
-    await expect(card(page, number!)).toBeVisible();
+  for (const [value, number, count] of [['owned', 'E1-01', 1], ['unowned', 'E1-02', 106], ['offered', 'E1-01', 1], ['wanted', 'E1-02', 1]] as const) {
+    await filter.selectOption(value);
+    await expect(page.locator('.inventory-card')).toHaveCount(count);
+    await expect(card(page, number)).toBeVisible();
+    await expect(page.getByRole('progressbar')).toHaveAttribute('aria-valuemax', '107');
   }
   await page.getByRole('button', { name: '譲・求', exact: true }).click();
   await expect(page.locator('.inventory-card')).toHaveCount(2);
@@ -156,10 +124,13 @@ test('exports JSON, rejects every invalid entry, and confirms complete replaceme
   await expect(wanted(page, 'E1-02')).toBeChecked();
   const backup = await exportBackup(page);
   expect(backup.schemaVersion).toBe(1);
-  expect(backup.inventory).toEqual([
+  expect(backup.inventory).toHaveLength(107);
+  expect(new Set(backup.inventory.map((item) => item.cardId))).toEqual(new Set(cards.map((item) => item.id)));
+  expect(backup.inventory.filter((item) => item.cardId === 'e1-01' || item.cardId === 'e1-02')).toEqual([
     { cardId: 'e1-01', owned: 1, offered: 0, wanted: false },
     { cardId: 'e1-02', owned: 0, offered: 0, wanted: true },
   ]);
+  expect(backup.inventory.filter((item) => item.cardId !== 'e1-01' && item.cardId !== 'e1-02').every((item) => item.owned === 0 && item.offered === 0 && !item.wanted)).toBe(true);
   const valid = { ...backup, inventory: [
     { cardId: 'e1-01', owned: 3, offered: 1, wanted: true },
     { cardId: 'e1-02', owned: 2, offered: 0, wanted: false },
@@ -203,11 +174,13 @@ test('exports JSON, rejects every invalid entry, and confirms complete replaceme
 
 test('keeps card and backup controls usable without horizontal overflow on a small phone', async ({ page }) => {
   await page.setViewportSize({ width: 375, height: 812 });
+  await page.getByRole('searchbox', { name: 'カード名・番号で検索' }).fill('E1-01');
   await addOwned(page, 'E1-01', 1);
   await wanted(page, 'E1-01').click();
   await expect(wanted(page, 'E1-01')).toBeChecked();
   expect(await page.evaluate(() => document.documentElement.scrollWidth <= window.innerWidth)).toBe(true);
-  await page.screenshot({ path: '/tmp/aikatsu-local-mobile.png', fullPage: true });
+  await expect.poll(() => card(page, 'E1-01').getByRole('img').evaluate((element: HTMLImageElement) => element.naturalWidth)).toBeGreaterThan(0);
+  await page.screenshot({ path: '/tmp/aikatsu-full-mobile.png', fullPage: true });
   await page.getByRole('button', { name: 'バックアップ', exact: true }).click();
   await expect(page.getByRole('button', { name: 'JSONをダウンロード' })).toBeVisible();
   await expect(page.getByLabel('バックアップJSONファイル')).toBeEnabled();

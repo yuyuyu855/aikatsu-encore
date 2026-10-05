@@ -1,0 +1,2265 @@
+{
+  "e1-01": {
+    "name": "オーロラキスキャミソール",
+    "part": "トップス",
+    "brand": "Angely Sugar",
+    "appealPoints": 1100,
+    "verifiedFields": [
+      "name",
+      "part",
+      "appealPoints",
+      "brand"
+    ],
+    "uncertainFields": [],
+    "category": null,
+    "source": {
+      "kind": "official-card-image",
+      "method": "visual-transcription",
+      "url": "https://dcd.aikatsu.com/encore/images/cardlist/card/E1-01_PR.webp",
+      "sha256": "7978dfe3dba880444e0af3d42d2e50b5218078e556f99cdd6096ffae4655aa44",
+      "acquiredAt": "2026-10-05T06:05:00.290700+00:00"
+    }
+  },
+  "e1-02": {
+    "name": "オーロラキスドレープスカート",
+    "part": "ボトムス",
+    "brand": "Angely Sugar",
+    "appealPoints": 1000,
+    "verifiedFields": [
+      "name",
+      "part",
+      "appealPoints",
+      "brand"
+    ],
+    "uncertainFields": [],
+    "category": null,
+    "source": {
+      "kind": "official-card-image",
+      "method": "visual-transcription",
+      "url": "https://dcd.aikatsu.com/encore/images/cardlist/card/E1-02_PR.webp",
+      "sha256": "b8653eab805ac10381f53636b94a679b6e0069d21fb546a319ce6c22b5dae771",
+      "acquiredAt": "2026-10-05T06:05:00.291775+00:00"
+    }
+  },
+  "e1-03": {
+    "name": "オーロラキスバレエシューズ",
+    "part": "シューズ",
+    "brand": "Angely Sugar",
+    "appealPoints": 950,
+    "verifiedFields": [
+      "name",
+      "part",
+      "appealPoints",
+      "brand"
+    ],
+    "uncertainFields": [],
+    "category": null,
+    "source": {
+      "kind": "official-card-image",
+      "method": "visual-transcription",
+      "url": "https://dcd.aikatsu.com/encore/images/cardlist/card/E1-03_PR.webp",
+      "sha256": "325aca33c72df15502ea438de7e3cf66d4e741e020fb973ed18f49aff09ec129",
+      "acquiredAt": "2026-10-05T06:05:01.487234+00:00"
+    }
+  },
+  "e1-04": {
+    "name": "オーロラキスリボン",
+    "part": "アクセサリー",
+    "brand": "Angely Sugar",
+    "appealPoints": 600,
+    "verifiedFields": [
+      "name",
+      "part",
+      "appealPoints",
+      "brand"
+    ],
+    "uncertainFields": [],
+    "category": null,
+    "source": {
+      "kind": "official-card-image",
+      "method": "visual-transcription",
+      "url": "https://dcd.aikatsu.com/encore/images/cardlist/card/E1-04_PR.webp",
+      "sha256": "2211848f40a5b2f115f71818cffc584fcf2a22ca9c245ef8417df3a56892e214",
+      "acquiredAt": "2026-10-05T06:05:02.197604+00:00"
+    }
+  },
+  "e1-05": {
+    "name": "アイスブルーフリルキャミソール",
+    "part": "トップス",
+    "brand": "Angely Sugar",
+    "appealPoints": 600,
+    "verifiedFields": [
+      "name",
+      "part",
+      "appealPoints",
+      "brand"
+    ],
+    "uncertainFields": [],
+    "category": null,
+    "source": {
+      "kind": "official-card-image",
+      "method": "visual-transcription",
+      "url": "https://dcd.aikatsu.com/encore/images/cardlist/card/E1-05_R.webp",
+      "sha256": "71e81714d8e12a184f4d2ea48f3405ae3986bcee94158f705944dbc2a8e53283",
+      "acquiredAt": "2026-10-05T06:05:03.000017+00:00"
+    }
+  },
+  "e1-06": {
+    "name": "アイスブルーフリルパニエ",
+    "part": "ボトムス",
+    "brand": "Angely Sugar",
+    "appealPoints": 750,
+    "verifiedFields": [
+      "name",
+      "part",
+      "appealPoints",
+      "brand"
+    ],
+    "uncertainFields": [],
+    "category": null,
+    "source": {
+      "kind": "official-card-image",
+      "method": "visual-transcription",
+      "url": "https://dcd.aikatsu.com/encore/images/cardlist/card/E1-06_R.webp",
+      "sha256": "bea9e269b1b984e4dd4c73170b8dd79ed5077a70fdf3d1ee08dba642c4e8b4db",
+      "acquiredAt": "2026-10-05T06:05:03.493593+00:00"
+    }
+  },
+  "e1-07": {
+    "name": "アイスブルーシューズ",
+    "part": "シューズ",
+    "brand": "Angely Sugar",
+    "appealPoints": 750,
+    "verifiedFields": [
+      "name",
+      "part",
+      "appealPoints",
+      "brand"
+    ],
+    "uncertainFields": [],
+    "category": null,
+    "source": {
+      "kind": "official-card-image",
+      "method": "visual-transcription",
+      "url": "https://dcd.aikatsu.com/encore/images/cardlist/card/E1-07_R.webp",
+      "sha256": "1b670c6eed03d280be5b6a7f28e4ad42240b6d31ea5b38ceead5181fb40d87ae",
+      "acquiredAt": "2026-10-05T06:05:03.868231+00:00"
+    }
+  },
+  "e1-08": {
+    "name": "ジュエルつきパープルリボン",
+    "part": "アクセサリー",
+    "brand": null,
+    "appealPoints": 450,
+    "verifiedFields": [
+      "name",
+      "part",
+      "appealPoints"
+    ],
+    "uncertainFields": [
+      "brand"
+    ],
+    "category": null,
+    "source": {
+      "kind": "official-card-image",
+      "method": "visual-transcription",
+      "url": "https://dcd.aikatsu.com/encore/images/cardlist/card/E1-08_R.webp",
+      "sha256": "f2a410195cdde976064c2ec58657da77569bab038d70491def2eea0a7e860c9a",
+      "acquiredAt": "2026-10-05T06:05:04.231285+00:00"
+    },
+    "note": "No printed brand logo on examined front and back images."
+  },
+  "e1-09": {
+    "name": "小花柄イエローワンピ",
+    "part": "トップス＆ボトムス",
+    "brand": "Angely Sugar",
+    "appealPoints": 1450,
+    "verifiedFields": [
+      "name",
+      "part",
+      "appealPoints",
+      "brand"
+    ],
+    "uncertainFields": [],
+    "category": null,
+    "source": {
+      "kind": "official-card-image",
+      "method": "visual-transcription",
+      "url": "https://dcd.aikatsu.com/encore/images/cardlist/card/E1-09_R.webp",
+      "sha256": "f20e990a455872da67c7ba167b8bab2ee49bbbfab43d7b54876de7cb9abfcebc",
+      "acquiredAt": "2026-10-05T06:05:04.762767+00:00"
+    }
+  },
+  "e1-10": {
+    "name": "ドリーミースタートップス",
+    "part": "トップス",
+    "brand": "Dreamy Crown",
+    "appealPoints": 750,
+    "verifiedFields": [
+      "name",
+      "part",
+      "appealPoints",
+      "brand"
+    ],
+    "uncertainFields": [],
+    "category": null,
+    "source": {
+      "kind": "official-card-image",
+      "method": "visual-transcription",
+      "url": "https://dcd.aikatsu.com/encore/images/cardlist/card/E1-10_R.webp",
+      "sha256": "96ffa9332c124ebb7556507e8b6310186d66eaa496a1ed45288a23be520bd207",
+      "acquiredAt": "2026-10-05T06:05:04.898922+00:00"
+    }
+  },
+  "e1-11": {
+    "name": "ドリーミースタースカート",
+    "part": "ボトムス",
+    "brand": "Dreamy Crown",
+    "appealPoints": 650,
+    "verifiedFields": [
+      "name",
+      "part",
+      "appealPoints",
+      "brand"
+    ],
+    "uncertainFields": [],
+    "category": null,
+    "source": {
+      "kind": "official-card-image",
+      "method": "visual-transcription",
+      "url": "https://dcd.aikatsu.com/encore/images/cardlist/card/E1-11_R.webp",
+      "sha256": "0c0ac772f2783a4b056370484a1c7520704f15f25fce39999b0a57ae7353ed98",
+      "acquiredAt": "2026-10-05T06:05:05.194806+00:00"
+    }
+  },
+  "e1-12": {
+    "name": "ドリーミースターパンプス",
+    "part": "シューズ",
+    "brand": "Dreamy Crown",
+    "appealPoints": 700,
+    "verifiedFields": [
+      "name",
+      "part",
+      "appealPoints",
+      "brand"
+    ],
+    "uncertainFields": [],
+    "category": null,
+    "source": {
+      "kind": "official-card-image",
+      "method": "visual-transcription",
+      "url": "https://dcd.aikatsu.com/encore/images/cardlist/card/E1-12_R.webp",
+      "sha256": "651579da02f72c6f8dce5db1427f37b6f55d363440b49118b68debf958dcebdf",
+      "acquiredAt": "2026-10-05T06:05:05.437398+00:00"
+    }
+  },
+  "e1-13": {
+    "name": "チャーミーリボントップス",
+    "part": "トップス",
+    "brand": "Maple Ribbon",
+    "appealPoints": 650,
+    "verifiedFields": [
+      "name",
+      "part",
+      "appealPoints",
+      "brand"
+    ],
+    "uncertainFields": [],
+    "category": null,
+    "source": {
+      "kind": "official-card-image",
+      "method": "visual-transcription",
+      "url": "https://dcd.aikatsu.com/encore/images/cardlist/card/E1-13_R.webp",
+      "sha256": "39e2b76e69be4d3d0824198a317d7f7dc101c3f631c064e013eaeb67b81296f8",
+      "acquiredAt": "2026-10-05T06:05:05.662342+00:00"
+    }
+  },
+  "e1-14": {
+    "name": "チャーミーリボンスカート",
+    "part": "ボトムス",
+    "brand": "Maple Ribbon",
+    "appealPoints": 700,
+    "verifiedFields": [
+      "name",
+      "part",
+      "appealPoints",
+      "brand"
+    ],
+    "uncertainFields": [],
+    "category": null,
+    "source": {
+      "kind": "official-card-image",
+      "method": "visual-transcription",
+      "url": "https://dcd.aikatsu.com/encore/images/cardlist/card/E1-14_R.webp",
+      "sha256": "25407cec5bd98f77e5a7453767dd277ca6bd5b1469e73943ba2958346fe1ecef",
+      "acquiredAt": "2026-10-05T06:05:05.916722+00:00"
+    }
+  },
+  "e1-15": {
+    "name": "チャーミーリボンサンダル",
+    "part": "シューズ",
+    "brand": "Maple Ribbon",
+    "appealPoints": 750,
+    "verifiedFields": [
+      "name",
+      "part",
+      "appealPoints",
+      "brand"
+    ],
+    "uncertainFields": [],
+    "category": null,
+    "source": {
+      "kind": "official-card-image",
+      "method": "visual-transcription",
+      "url": "https://dcd.aikatsu.com/encore/images/cardlist/card/E1-15_R.webp",
+      "sha256": "d31bba4123270b21bca1877cdbe02fe6ce0b39d88bda410482b5f198eca5a43e",
+      "acquiredAt": "2026-10-05T06:05:06.099275+00:00"
+    }
+  },
+  "e1-16": {
+    "name": "チャーミーリボンアクセ",
+    "part": "アクセサリー",
+    "brand": "Maple Ribbon",
+    "appealPoints": 450,
+    "verifiedFields": [
+      "name",
+      "part",
+      "appealPoints",
+      "brand"
+    ],
+    "uncertainFields": [],
+    "category": null,
+    "source": {
+      "kind": "official-card-image",
+      "method": "visual-transcription",
+      "url": "https://dcd.aikatsu.com/encore/images/cardlist/card/E1-16_R.webp",
+      "sha256": "d9e19b6cc973a6bd9a63fa1f15fb94c13c310fbbc3f7280b2fd54c2be4783666",
+      "acquiredAt": "2026-10-05T06:05:06.303162+00:00"
+    }
+  },
+  "e1-17": {
+    "name": "クリアネスイエロートップス",
+    "part": "トップス",
+    "brand": "Angely Sugar",
+    "appealPoints": 700,
+    "verifiedFields": [
+      "name",
+      "part",
+      "appealPoints",
+      "brand"
+    ],
+    "uncertainFields": [],
+    "category": null,
+    "source": {
+      "kind": "official-card-image",
+      "method": "visual-transcription",
+      "url": "https://dcd.aikatsu.com/encore/images/cardlist/card/E1-17_R.webp",
+      "sha256": "04126f383c3b89b3bfc9ce52c5aa913204b4da6682a04bd086a5f434b2767778",
+      "acquiredAt": "2026-10-05T06:05:06.588330+00:00"
+    }
+  },
+  "e1-18": {
+    "name": "クリアネスイエロースカート",
+    "part": "ボトムス",
+    "brand": "Angely Sugar",
+    "appealPoints": 750,
+    "verifiedFields": [
+      "name",
+      "part",
+      "appealPoints",
+      "brand"
+    ],
+    "uncertainFields": [],
+    "category": null,
+    "source": {
+      "kind": "official-card-image",
+      "method": "visual-transcription",
+      "url": "https://dcd.aikatsu.com/encore/images/cardlist/card/E1-18_R.webp",
+      "sha256": "0b5a2322b556b089a8d11478063362adcb5744aa76207595c282b8d4d8f8af73",
+      "acquiredAt": "2026-10-05T06:05:06.756681+00:00"
+    }
+  },
+  "e1-19": {
+    "name": "クリアネスイエローパンプス",
+    "part": "シューズ",
+    "brand": "Angely Sugar",
+    "appealPoints": 650,
+    "verifiedFields": [
+      "name",
+      "part",
+      "appealPoints",
+      "brand"
+    ],
+    "uncertainFields": [],
+    "category": null,
+    "source": {
+      "kind": "official-card-image",
+      "method": "visual-transcription",
+      "url": "https://dcd.aikatsu.com/encore/images/cardlist/card/E1-19_R.webp",
+      "sha256": "20a5ac76a8cdb76d97ebe3e5e5cb7e58c22149852701fa5641b10ec9e7debfdd",
+      "acquiredAt": "2026-10-05T06:05:06.948860+00:00"
+    }
+  },
+  "e1-20": {
+    "name": "クリアネスイエローアクセ",
+    "part": "アクセサリー",
+    "brand": "Angely Sugar",
+    "appealPoints": 450,
+    "verifiedFields": [
+      "name",
+      "part",
+      "appealPoints",
+      "brand"
+    ],
+    "uncertainFields": [],
+    "category": null,
+    "source": {
+      "kind": "official-card-image",
+      "method": "visual-transcription",
+      "url": "https://dcd.aikatsu.com/encore/images/cardlist/card/E1-20_R.webp",
+      "sha256": "eb6386b1793891dd15d8f99b27ceb5a5e43c9c9c62312d4912c57306644422e6",
+      "acquiredAt": "2026-10-05T06:05:07.242311+00:00"
+    }
+  },
+  "e1-21": {
+    "name": "ピンクステージベスト",
+    "part": "トップス",
+    "brand": null,
+    "appealPoints": 500,
+    "verifiedFields": [
+      "name",
+      "part",
+      "appealPoints"
+    ],
+    "uncertainFields": [
+      "brand"
+    ],
+    "category": null,
+    "source": {
+      "kind": "official-card-image",
+      "method": "visual-transcription",
+      "url": "https://dcd.aikatsu.com/encore/images/cardlist/card/E1-21_N.webp",
+      "sha256": "568731ab925c4d614a2b214f66b0afeb94bf2cd0e816fa93b2da6371ee496d44",
+      "acquiredAt": "2026-10-05T06:05:07.436140+00:00"
+    },
+    "note": "No printed brand logo on examined front image."
+  },
+  "e1-22": {
+    "name": "ピンクステージスカート",
+    "part": "ボトムス",
+    "brand": null,
+    "appealPoints": 400,
+    "verifiedFields": [
+      "name",
+      "part",
+      "appealPoints"
+    ],
+    "uncertainFields": [
+      "brand"
+    ],
+    "category": null,
+    "source": {
+      "kind": "official-card-image",
+      "method": "visual-transcription",
+      "url": "https://dcd.aikatsu.com/encore/images/cardlist/card/E1-22_N.webp",
+      "sha256": "48b05a31ffaaa69ab1e3a2c0da82c7527550b39d20f54a5b3d51c3e8fb92738b",
+      "acquiredAt": "2026-10-05T06:05:07.587411+00:00"
+    },
+    "note": "No printed brand logo on examined front image."
+  },
+  "e1-23": {
+    "name": "ピンクステージシューズ",
+    "part": "シューズ",
+    "brand": null,
+    "appealPoints": 350,
+    "verifiedFields": [
+      "name",
+      "part",
+      "appealPoints"
+    ],
+    "uncertainFields": [
+      "brand"
+    ],
+    "category": null,
+    "source": {
+      "kind": "official-card-image",
+      "method": "visual-transcription",
+      "url": "https://dcd.aikatsu.com/encore/images/cardlist/card/E1-23_N.webp",
+      "sha256": "cadc46ad3106bb30d27c3af55a8e6bf64e40e255fd2c98cc14b12233a421b5fe",
+      "acquiredAt": "2026-10-05T06:05:07.894415+00:00"
+    },
+    "note": "No printed brand logo on examined front image."
+  },
+  "e1-24": {
+    "name": "パフスリーブレモンカラーボレロ",
+    "part": "トップス",
+    "brand": null,
+    "appealPoints": 450,
+    "verifiedFields": [
+      "name",
+      "part",
+      "appealPoints"
+    ],
+    "uncertainFields": [
+      "brand"
+    ],
+    "category": null,
+    "source": {
+      "kind": "official-card-image",
+      "method": "visual-transcription",
+      "url": "https://dcd.aikatsu.com/encore/images/cardlist/card/E1-24_N.webp",
+      "sha256": "40463c5ceee8573fddeae305f3f7bbcefb0145fc97d98d33652cb105358cdec5",
+      "acquiredAt": "2026-10-05T06:05:08.091881+00:00"
+    },
+    "note": "No printed brand logo on examined front and back images."
+  },
+  "e1-25": {
+    "name": "ラベンダーフリルスカート",
+    "part": "ボトムス",
+    "brand": null,
+    "appealPoints": 450,
+    "verifiedFields": [
+      "name",
+      "part",
+      "appealPoints"
+    ],
+    "uncertainFields": [
+      "brand"
+    ],
+    "category": null,
+    "source": {
+      "kind": "official-card-image",
+      "method": "visual-transcription",
+      "url": "https://dcd.aikatsu.com/encore/images/cardlist/card/E1-25_N.webp",
+      "sha256": "8fd3c29afe5c1a28f0d5e9b4d6358b9ebb5229b4dae340f2bc7cc99b0f1c1ce5",
+      "acquiredAt": "2026-10-05T06:05:08.240537+00:00"
+    },
+    "note": "No printed brand logo on examined front image."
+  },
+  "e1-26": {
+    "name": "イエロー編み上げブーツ",
+    "part": "シューズ",
+    "brand": null,
+    "appealPoints": 350,
+    "verifiedFields": [
+      "name",
+      "part",
+      "appealPoints"
+    ],
+    "uncertainFields": [
+      "brand"
+    ],
+    "category": null,
+    "source": {
+      "kind": "official-card-image",
+      "method": "visual-transcription",
+      "url": "https://dcd.aikatsu.com/encore/images/cardlist/card/E1-26_N.webp",
+      "sha256": "bae9cfdead7a3ba66fd7cadb54e72810b60e2c10a8e6bbdfacb6fdbbc20f4498",
+      "acquiredAt": "2026-10-05T06:05:08.545467+00:00"
+    },
+    "note": "No printed brand logo on examined front image."
+  },
+  "e1-27": {
+    "name": "ピンクブロッサムトップス",
+    "part": "トップス",
+    "brand": null,
+    "appealPoints": 500,
+    "verifiedFields": [
+      "name",
+      "part",
+      "appealPoints"
+    ],
+    "uncertainFields": [
+      "brand"
+    ],
+    "category": null,
+    "source": {
+      "kind": "official-card-image",
+      "method": "visual-transcription",
+      "url": "https://dcd.aikatsu.com/encore/images/cardlist/card/E1-27_N.webp",
+      "sha256": "859ed5b801d217c400c6a253acb503f125c32010cf231154769053cf5bbb26c6",
+      "acquiredAt": "2026-10-05T06:05:08.810522+00:00"
+    },
+    "note": "No printed brand logo on examined front image."
+  },
+  "e1-28": {
+    "name": "ピンクブロッサムスカート",
+    "part": "ボトムス",
+    "brand": null,
+    "appealPoints": 400,
+    "verifiedFields": [
+      "name",
+      "part",
+      "appealPoints"
+    ],
+    "uncertainFields": [
+      "brand"
+    ],
+    "category": null,
+    "source": {
+      "kind": "official-card-image",
+      "method": "visual-transcription",
+      "url": "https://dcd.aikatsu.com/encore/images/cardlist/card/E1-28_N.webp",
+      "sha256": "cc0039c1872aa9a5f686d41260d8d7eba2aab9ea26cc5b8b7b148751310d188a",
+      "acquiredAt": "2026-10-05T06:05:08.988862+00:00"
+    },
+    "note": "No printed brand logo on examined front image."
+  },
+  "e1-29": {
+    "name": "ピンクブロッサムブーツ",
+    "part": "シューズ",
+    "brand": null,
+    "appealPoints": 350,
+    "verifiedFields": [
+      "name",
+      "part",
+      "appealPoints"
+    ],
+    "uncertainFields": [
+      "brand"
+    ],
+    "category": null,
+    "source": {
+      "kind": "official-card-image",
+      "method": "visual-transcription",
+      "url": "https://dcd.aikatsu.com/encore/images/cardlist/card/E1-29_N.webp",
+      "sha256": "7b1f976830e5aa3f661e5a3d39b1e5785d659760e702f223e01a8e24b330252c",
+      "acquiredAt": "2026-10-05T06:05:09.202197+00:00"
+    },
+    "note": "No printed brand logo on examined front image."
+  },
+  "e1-30": {
+    "name": "オデットスワン",
+    "part": "フルコーデ",
+    "brand": "Dreamy Crown",
+    "appealPoints": 3650,
+    "verifiedFields": [
+      "name",
+      "part",
+      "appealPoints",
+      "brand"
+    ],
+    "uncertainFields": [],
+    "category": null,
+    "source": {
+      "kind": "official-card-image",
+      "method": "visual-transcription",
+      "url": "https://dcd.aikatsu.com/encore/images/cardlist/card/E1-30_ER.webp",
+      "sha256": "739f659d0dd54c366f8a0609b75dc57abe772a6acbc1cba7d75bf57e36950aff",
+      "acquiredAt": "2026-10-05T06:05:09.460189+00:00"
+    }
+  },
+  "e1-31": {
+    "name": "リルリボンストーリー",
+    "part": "フルコーデ",
+    "brand": "Maple Ribbon",
+    "appealPoints": 3650,
+    "verifiedFields": [
+      "name",
+      "part",
+      "appealPoints",
+      "brand"
+    ],
+    "uncertainFields": [],
+    "category": null,
+    "source": {
+      "kind": "official-card-image",
+      "method": "visual-transcription",
+      "url": "https://dcd.aikatsu.com/encore/images/cardlist/card/E1-31_ER.webp",
+      "sha256": "950a9bf3d6f7a11f0fb4f171bd670d1261c38bd579226f1942aa3b77c7b0f192",
+      "acquiredAt": "2026-10-05T06:05:09.640825+00:00"
+    }
+  },
+  "e1-32": {
+    "name": "オーロラペガサス",
+    "part": "フルコーデ",
+    "brand": null,
+    "appealPoints": 3650,
+    "verifiedFields": [
+      "name",
+      "part",
+      "appealPoints"
+    ],
+    "uncertainFields": [
+      "brand"
+    ],
+    "category": null,
+    "source": {
+      "kind": "official-card-image",
+      "method": "visual-transcription",
+      "url": "https://dcd.aikatsu.com/encore/images/cardlist/card/E1-32_ER.webp",
+      "sha256": "de49e51656250fbc5f8cdcdf3bdc9063308b10dbe8692d983c95875cb0366d0b",
+      "acquiredAt": "2026-10-05T06:05:09.904797+00:00"
+    },
+    "note": "No printed brand logo on examined front and back images."
+  },
+  "e1-33": {
+    "name": "天の川コズミックワンショルダー",
+    "part": "トップス",
+    "brand": "FUTURING GIRL",
+    "appealPoints": 1100,
+    "verifiedFields": [
+      "name",
+      "part",
+      "appealPoints",
+      "brand"
+    ],
+    "uncertainFields": [],
+    "category": null,
+    "source": {
+      "kind": "official-card-image",
+      "method": "visual-transcription",
+      "url": "https://dcd.aikatsu.com/encore/images/cardlist/card/E1-33_PR.webp",
+      "sha256": "2c0d4cc3de7fb32a8851726b7a9876bbc4a788bd30ffe9f929b51bb08324337a",
+      "acquiredAt": "2026-10-05T06:05:10.173739+00:00"
+    }
+  },
+  "e1-34": {
+    "name": "天の川コズミックスカート",
+    "part": "ボトムス",
+    "brand": "FUTURING GIRL",
+    "appealPoints": 950,
+    "verifiedFields": [
+      "name",
+      "part",
+      "appealPoints",
+      "brand"
+    ],
+    "uncertainFields": [],
+    "category": null,
+    "source": {
+      "kind": "official-card-image",
+      "method": "visual-transcription",
+      "url": "https://dcd.aikatsu.com/encore/images/cardlist/card/E1-34_PR.webp",
+      "sha256": "ea3fa6c5b060a083ec8e2a64eafd576b618c416bb718983ac158448c0edc002a",
+      "acquiredAt": "2026-10-05T06:05:10.440975+00:00"
+    }
+  },
+  "e1-35": {
+    "name": "天の川コズミックブーツ",
+    "part": "シューズ",
+    "brand": "FUTURING GIRL",
+    "appealPoints": 1000,
+    "verifiedFields": [
+      "name",
+      "part",
+      "appealPoints",
+      "brand"
+    ],
+    "uncertainFields": [],
+    "category": null,
+    "source": {
+      "kind": "official-card-image",
+      "method": "visual-transcription",
+      "url": "https://dcd.aikatsu.com/encore/images/cardlist/card/E1-35_PR.webp",
+      "sha256": "67cd73bb01522bf665a852b8ec7a0c92e12b347d0ae89f65df408440a18995c3",
+      "acquiredAt": "2026-10-05T06:05:10.600605+00:00"
+    }
+  },
+  "e1-36": {
+    "name": "天の川コズミックカチューシャ",
+    "part": "アクセサリー",
+    "brand": "FUTURING GIRL",
+    "appealPoints": 700,
+    "verifiedFields": [
+      "name",
+      "part",
+      "appealPoints",
+      "brand"
+    ],
+    "uncertainFields": [],
+    "category": null,
+    "source": {
+      "kind": "official-card-image",
+      "method": "visual-transcription",
+      "url": "https://dcd.aikatsu.com/encore/images/cardlist/card/E1-36_PR.webp",
+      "sha256": "c4442131a5dc817fc99086457095c0172e1e596969bf0b7efee82702ffc1c334",
+      "acquiredAt": "2026-10-05T06:05:10.867294+00:00"
+    }
+  },
+  "e1-37": {
+    "name": "プリズムサイバーグラフィックワンピ",
+    "part": "トップス＆ボトムス",
+    "brand": "FUTURING GIRL",
+    "appealPoints": 1450,
+    "verifiedFields": [
+      "name",
+      "part",
+      "appealPoints",
+      "brand"
+    ],
+    "uncertainFields": [],
+    "category": null,
+    "source": {
+      "kind": "official-card-image",
+      "method": "visual-transcription",
+      "url": "https://dcd.aikatsu.com/encore/images/cardlist/card/E1-37_R.webp",
+      "sha256": "06a0f2165cf0fbc38170c19c3e21dbb05aa1841937ea67b9cdbb6c29d641f435",
+      "acquiredAt": "2026-10-05T06:05:11.183682+00:00"
+    }
+  },
+  "e1-38": {
+    "name": "ブラックモダンボレロ",
+    "part": "トップス",
+    "brand": "FUTURING GIRL",
+    "appealPoints": 700,
+    "verifiedFields": [
+      "name",
+      "part",
+      "appealPoints",
+      "brand"
+    ],
+    "uncertainFields": [],
+    "category": null,
+    "source": {
+      "kind": "official-card-image",
+      "method": "visual-transcription",
+      "url": "https://dcd.aikatsu.com/encore/images/cardlist/card/E1-38_R.webp",
+      "sha256": "5c9766527628798748f89cb4caea6b72c7dde6978f98ab352b4b5f9f0d8f8d62",
+      "acquiredAt": "2026-10-05T06:05:11.785795+00:00"
+    }
+  },
+  "e1-39": {
+    "name": "ブラックフューチャーエナメルショートパンツ",
+    "part": "ボトムス",
+    "brand": "FUTURING GIRL",
+    "appealPoints": 750,
+    "verifiedFields": [
+      "name",
+      "part",
+      "appealPoints",
+      "brand"
+    ],
+    "uncertainFields": [],
+    "category": null,
+    "source": {
+      "kind": "official-card-image",
+      "method": "visual-transcription",
+      "url": "https://dcd.aikatsu.com/encore/images/cardlist/card/E1-39_R.webp",
+      "sha256": "0698732b93c00354a41d194d3e42439015e013e6afdc1601082028a55a855004",
+      "acquiredAt": "2026-10-05T06:05:11.975611+00:00"
+    }
+  },
+  "e1-40": {
+    "name": "ブラックフューチャーブーツ",
+    "part": "シューズ",
+    "brand": "FUTURING GIRL",
+    "appealPoints": 650,
+    "verifiedFields": [
+      "name",
+      "part",
+      "appealPoints",
+      "brand"
+    ],
+    "uncertainFields": [],
+    "category": null,
+    "source": {
+      "kind": "official-card-image",
+      "method": "visual-transcription",
+      "url": "https://dcd.aikatsu.com/encore/images/cardlist/card/E1-40_R.webp",
+      "sha256": "4b21735933404cbec9526e07c7dc57db0f27aca0a6a4e9b39336235fbd28bd39",
+      "acquiredAt": "2026-10-05T06:05:12.124331+00:00"
+    }
+  },
+  "e1-41": {
+    "name": "ブルーステージブラウス",
+    "part": "トップス",
+    "brand": null,
+    "appealPoints": 400,
+    "verifiedFields": [
+      "name",
+      "part",
+      "appealPoints"
+    ],
+    "uncertainFields": [],
+    "category": null,
+    "source": {
+      "kind": "official-card-image",
+      "method": "visual-transcription",
+      "url": "https://dcd.aikatsu.com/encore/images/cardlist/card/E1-41_N.webp",
+      "sha256": "9b66aae23604359be387c3b8cbcdcc7fb546e9b6c7d9be64987db46ceb9c4c36",
+      "acquiredAt": "2026-10-05T06:05:12.428766+00:00"
+    }
+  },
+  "e1-42": {
+    "name": "ブルーステージスカート",
+    "part": "ボトムス",
+    "brand": null,
+    "appealPoints": 500,
+    "verifiedFields": [
+      "name",
+      "part",
+      "appealPoints"
+    ],
+    "uncertainFields": [],
+    "category": null,
+    "source": {
+      "kind": "official-card-image",
+      "method": "visual-transcription",
+      "url": "https://dcd.aikatsu.com/encore/images/cardlist/card/E1-42_N.webp",
+      "sha256": "340d82e13885a06e37a6123f45db44458caea045eb63489b86e8fb98120a7f91",
+      "acquiredAt": "2026-10-05T06:05:12.613383+00:00"
+    }
+  },
+  "e1-43": {
+    "name": "ブルーステージブーツ",
+    "part": "シューズ",
+    "brand": null,
+    "appealPoints": 350,
+    "verifiedFields": [
+      "name",
+      "part",
+      "appealPoints"
+    ],
+    "uncertainFields": [],
+    "category": null,
+    "source": {
+      "kind": "official-card-image",
+      "method": "visual-transcription",
+      "url": "https://dcd.aikatsu.com/encore/images/cardlist/card/E1-43_N.webp",
+      "sha256": "0ba4e964205fa7b6c2f19e5b70303b7f60f39ab1734a78fb5787625903dd01cd",
+      "acquiredAt": "2026-10-05T06:05:12.761835+00:00"
+    }
+  },
+  "e1-44": {
+    "name": "ブラックストライプジャケット",
+    "part": "トップス",
+    "brand": null,
+    "appealPoints": 400,
+    "verifiedFields": [
+      "name",
+      "part",
+      "appealPoints"
+    ],
+    "uncertainFields": [],
+    "category": null,
+    "source": {
+      "kind": "official-card-image",
+      "method": "visual-transcription",
+      "url": "https://dcd.aikatsu.com/encore/images/cardlist/card/E1-44_N.webp",
+      "sha256": "05610fb11acadff8574e23d676a8936e3f27a780405e67d3bdc2bbeebcc638ff",
+      "acquiredAt": "2026-10-05T06:05:13.073764+00:00"
+    }
+  },
+  "e1-45": {
+    "name": "ダイヤモンドチェックスカート",
+    "part": "ボトムス",
+    "brand": null,
+    "appealPoints": 450,
+    "verifiedFields": [
+      "name",
+      "part",
+      "appealPoints"
+    ],
+    "uncertainFields": [],
+    "category": null,
+    "source": {
+      "kind": "official-card-image",
+      "method": "visual-transcription",
+      "url": "https://dcd.aikatsu.com/encore/images/cardlist/card/E1-45_N.webp",
+      "sha256": "a9dfa267dfa5f22a603c98098b5477a0fc9790724db2aec7dc0eff6b6408ac8c",
+      "acquiredAt": "2026-10-05T06:05:13.244745+00:00"
+    }
+  },
+  "e1-46": {
+    "name": "ブルーストラップシューズ",
+    "part": "シューズ",
+    "brand": null,
+    "appealPoints": 400,
+    "verifiedFields": [
+      "name",
+      "part",
+      "appealPoints"
+    ],
+    "uncertainFields": [],
+    "category": null,
+    "source": {
+      "kind": "official-card-image",
+      "method": "visual-transcription",
+      "url": "https://dcd.aikatsu.com/encore/images/cardlist/card/E1-46_N.webp",
+      "sha256": "9887bca8b02cfd8a7b9861e5cdbb44cb312a0419ab7f03777f5b4844b9f55c1e",
+      "acquiredAt": "2026-10-05T06:05:13.412887+00:00"
+    }
+  },
+  "e1-47": {
+    "name": "ネイビーブロッサムトップス",
+    "part": "トップス",
+    "brand": null,
+    "appealPoints": 400,
+    "verifiedFields": [
+      "name",
+      "part",
+      "appealPoints"
+    ],
+    "uncertainFields": [],
+    "category": null,
+    "source": {
+      "kind": "official-card-image",
+      "method": "visual-transcription",
+      "url": "https://dcd.aikatsu.com/encore/images/cardlist/card/E1-47_N.webp",
+      "sha256": "2cc4071b7b15a70da53f2acc6807cc67020d5fd1e1c8b2f2f8527236c4b4e26f",
+      "acquiredAt": "2026-10-05T06:05:13.718791+00:00"
+    }
+  },
+  "e1-48": {
+    "name": "ネイビーブロッサムスカート",
+    "part": "ボトムス",
+    "brand": null,
+    "appealPoints": 500,
+    "verifiedFields": [
+      "name",
+      "part",
+      "appealPoints"
+    ],
+    "uncertainFields": [],
+    "category": null,
+    "source": {
+      "kind": "official-card-image",
+      "method": "visual-transcription",
+      "url": "https://dcd.aikatsu.com/encore/images/cardlist/card/E1-48_N.webp",
+      "sha256": "f99909638f0e46d988d3cfdc043238209085f0388b71d750fcbfba2696cfa704",
+      "acquiredAt": "2026-10-05T06:05:13.904169+00:00"
+    }
+  },
+  "e1-49": {
+    "name": "ネイビーブロッサムブーツ",
+    "part": "シューズ",
+    "brand": null,
+    "appealPoints": 350,
+    "verifiedFields": [
+      "name",
+      "part",
+      "appealPoints"
+    ],
+    "uncertainFields": [],
+    "category": null,
+    "source": {
+      "kind": "official-card-image",
+      "method": "visual-transcription",
+      "url": "https://dcd.aikatsu.com/encore/images/cardlist/card/E1-49_N.webp",
+      "sha256": "5173ff583a4f61e087beeaf3c71ed5ef6bf59ce1cffe5cf03eee7a143043c8b0",
+      "acquiredAt": "2026-10-05T06:05:14.060139+00:00"
+    }
+  },
+  "e1-50": {
+    "name": "ドリームエミネンス",
+    "part": "フルコーデ",
+    "brand": null,
+    "appealPoints": 3650,
+    "verifiedFields": [
+      "name",
+      "part",
+      "appealPoints"
+    ],
+    "uncertainFields": [],
+    "category": null,
+    "source": {
+      "kind": "official-card-image",
+      "method": "visual-transcription",
+      "url": "https://dcd.aikatsu.com/encore/images/cardlist/card/E1-50_ER.webp",
+      "sha256": "5b8d01adc1bb7fbb0f5d9c7533b45f0647f55bdfaf4cc4b5b64d9bc7156e954d",
+      "acquiredAt": "2026-10-05T06:05:14.367709+00:00"
+    }
+  },
+  "e1-51": {
+    "name": "レジェンダリールージュドレス",
+    "part": "トップス＆ボトムス",
+    "brand": null,
+    "appealPoints": 2000,
+    "verifiedFields": [
+      "name",
+      "part",
+      "appealPoints"
+    ],
+    "uncertainFields": [],
+    "category": null,
+    "source": {
+      "kind": "official-card-image",
+      "method": "visual-transcription",
+      "url": "https://dcd.aikatsu.com/encore/images/cardlist/card/E1-51_PR.webp",
+      "sha256": "bcdd5b1d3b31ffd7a6723fcb87852563f4315bf31c80c5b76cd3dc64ceb040d3",
+      "acquiredAt": "2026-10-05T06:05:14.571175+00:00"
+    }
+  },
+  "e1-52": {
+    "name": "レジェンダリールージュパンプス",
+    "part": "シューズ",
+    "brand": null,
+    "appealPoints": 1650,
+    "verifiedFields": [
+      "name",
+      "part",
+      "appealPoints"
+    ],
+    "uncertainFields": [],
+    "category": null,
+    "source": {
+      "kind": "official-card-image",
+      "method": "visual-transcription",
+      "url": "https://dcd.aikatsu.com/encore/images/cardlist/card/E1-52_PR.webp",
+      "sha256": "f8b8c93dee1cb9fdfa20c27b96997d623905f48f053d519ff47a0706289c5e09",
+      "acquiredAt": "2026-10-05T06:05:14.709252+00:00"
+    }
+  },
+  "e1-53": {
+    "name": "アゲハレッドコクーンワンピ",
+    "part": "トップス＆ボトムス",
+    "brand": "SPICY AGEHA",
+    "appealPoints": 1450,
+    "verifiedFields": [
+      "name",
+      "part",
+      "appealPoints",
+      "brand"
+    ],
+    "uncertainFields": [],
+    "category": null,
+    "source": {
+      "kind": "official-card-image",
+      "method": "visual-transcription",
+      "url": "https://dcd.aikatsu.com/encore/images/cardlist/card/E1-53_R.webp",
+      "sha256": "332cec26a90a2e408c03f383cbd7e4191e90f90da8e94ad3b0be86c1151a8077",
+      "acquiredAt": "2026-10-05T06:05:15.010316+00:00"
+    }
+  },
+  "e1-54": {
+    "name": "アゲハレッドミュール",
+    "part": "シューズ",
+    "brand": "SPICY AGEHA",
+    "appealPoints": 650,
+    "verifiedFields": [
+      "name",
+      "part",
+      "appealPoints",
+      "brand"
+    ],
+    "uncertainFields": [],
+    "category": null,
+    "source": {
+      "kind": "official-card-image",
+      "method": "visual-transcription",
+      "url": "https://dcd.aikatsu.com/encore/images/cardlist/card/E1-54_R.webp",
+      "sha256": "ba92c70bfda1f0ac92f5969f4b351fe5e746d1b0d0aa1b1f569cc89afe459eca",
+      "acquiredAt": "2026-10-05T06:05:15.234588+00:00"
+    }
+  },
+  "e1-55": {
+    "name": "パープルジュエリーワンピ",
+    "part": "トップス＆ボトムス",
+    "brand": "SPICY AGEHA",
+    "appealPoints": 1450,
+    "verifiedFields": [
+      "name",
+      "part",
+      "appealPoints",
+      "brand"
+    ],
+    "uncertainFields": [],
+    "category": null,
+    "source": {
+      "kind": "official-card-image",
+      "method": "visual-transcription",
+      "url": "https://dcd.aikatsu.com/encore/images/cardlist/card/E1-55_R.webp",
+      "sha256": "9e656c86e4ab877c33e1f51540b22ba47227a9917b1f0e602ab4a52293698377",
+      "acquiredAt": "2026-10-05T06:05:15.464255+00:00"
+    }
+  },
+  "e1-56": {
+    "name": "ゴールドチェーングラディエーター",
+    "part": "シューズ",
+    "brand": "SPICY AGEHA",
+    "appealPoints": 650,
+    "verifiedFields": [
+      "name",
+      "part",
+      "appealPoints",
+      "brand"
+    ],
+    "uncertainFields": [],
+    "category": null,
+    "source": {
+      "kind": "official-card-image",
+      "method": "visual-transcription",
+      "url": "https://dcd.aikatsu.com/encore/images/cardlist/card/E1-56_R.webp",
+      "sha256": "6b2b14ae630b4e3b29c307d904aea319dbc77f7d382e54456b4e1bd3f0d7d1ad",
+      "acquiredAt": "2026-10-05T06:05:15.637515+00:00"
+    }
+  },
+  "e1-57": {
+    "name": "アゲハロゴフリルトップス",
+    "part": "トップス",
+    "brand": "SPICY AGEHA",
+    "appealPoints": 700,
+    "verifiedFields": [
+      "name",
+      "part",
+      "appealPoints",
+      "brand"
+    ],
+    "uncertainFields": [],
+    "category": null,
+    "source": {
+      "kind": "official-card-image",
+      "method": "visual-transcription",
+      "url": "https://dcd.aikatsu.com/encore/images/cardlist/card/E1-57_R.webp",
+      "sha256": "0654b0a3da93554bb67f2123c359173e93cfab49879ef19c0f93757f6e5179dc",
+      "acquiredAt": "2026-10-05T06:05:15.898322+00:00"
+    }
+  },
+  "e1-58": {
+    "name": "アゲハファーつきスカート",
+    "part": "ボトムス",
+    "brand": "SPICY AGEHA",
+    "appealPoints": 750,
+    "verifiedFields": [
+      "name",
+      "part",
+      "appealPoints",
+      "brand"
+    ],
+    "uncertainFields": [],
+    "category": null,
+    "source": {
+      "kind": "official-card-image",
+      "method": "visual-transcription",
+      "url": "https://dcd.aikatsu.com/encore/images/cardlist/card/E1-58_R.webp",
+      "sha256": "eeffb1117ac313f2b06826499acaf4ece16a85929b4abe688d1f030e1b3eb28d",
+      "acquiredAt": "2026-10-05T06:05:16.134339+00:00"
+    }
+  },
+  "e1-59": {
+    "name": "ブラックシフォンカチューシャ",
+    "part": "アクセサリー",
+    "brand": null,
+    "appealPoints": 450,
+    "verifiedFields": [
+      "name",
+      "part",
+      "appealPoints"
+    ],
+    "uncertainFields": [],
+    "category": null,
+    "source": {
+      "kind": "official-card-image",
+      "method": "visual-transcription",
+      "url": "https://dcd.aikatsu.com/encore/images/cardlist/card/E1-59_R.webp",
+      "sha256": "d7f001729e9888cabb2400b651deffe3225e7d40cd23da3400fbbe3b7ede24ed",
+      "acquiredAt": "2026-10-05T06:05:16.442190+00:00"
+    }
+  },
+  "e1-60": {
+    "name": "パープルステージトップス",
+    "part": "トップス",
+    "brand": null,
+    "appealPoints": 500,
+    "verifiedFields": [
+      "name",
+      "part",
+      "appealPoints"
+    ],
+    "uncertainFields": [],
+    "category": null,
+    "source": {
+      "kind": "official-card-image",
+      "method": "visual-transcription",
+      "url": "https://dcd.aikatsu.com/encore/images/cardlist/card/E1-60_N.webp",
+      "sha256": "93664e1db6c5aa5c4f77cf32a921c0bf5443cd5b1a46ee283fa46f975d1d6f6f",
+      "acquiredAt": "2026-10-05T06:05:16.604109+00:00"
+    }
+  },
+  "e1-61": {
+    "name": "パープルステージスカート",
+    "part": "ボトムス",
+    "brand": null,
+    "appealPoints": 350,
+    "verifiedFields": [
+      "name",
+      "part",
+      "appealPoints"
+    ],
+    "uncertainFields": [],
+    "category": null,
+    "source": {
+      "kind": "official-card-image",
+      "method": "visual-transcription",
+      "url": "https://dcd.aikatsu.com/encore/images/cardlist/card/E1-61_N.webp",
+      "sha256": "143b36f8b5444bc99fcdd2863c4621729a650a88a31b34fbbd64afd756f8360a",
+      "acquiredAt": "2026-10-05T06:05:16.779370+00:00"
+    }
+  },
+  "e1-62": {
+    "name": "パープルステージニーハイパンプス",
+    "part": "シューズ",
+    "brand": null,
+    "appealPoints": 400,
+    "verifiedFields": [
+      "name",
+      "part",
+      "appealPoints"
+    ],
+    "uncertainFields": [],
+    "category": null,
+    "source": {
+      "kind": "official-card-image",
+      "method": "visual-transcription",
+      "url": "https://dcd.aikatsu.com/encore/images/cardlist/card/E1-62_N.webp",
+      "sha256": "e4f42530066b7809dd5c77667b5153598610a782107e3933f3aaf765018fc242",
+      "acquiredAt": "2026-10-05T06:05:17.094499+00:00"
+    }
+  },
+  "e1-63": {
+    "name": "プッチがらシャイニングトップス",
+    "part": "トップス",
+    "brand": null,
+    "appealPoints": 450,
+    "verifiedFields": [
+      "name",
+      "part",
+      "appealPoints"
+    ],
+    "uncertainFields": [],
+    "category": null,
+    "source": {
+      "kind": "official-card-image",
+      "method": "visual-transcription",
+      "url": "https://dcd.aikatsu.com/encore/images/cardlist/card/E1-63_N.webp",
+      "sha256": "99617b6d267bbab91603c47c8aa29c1b47e3a0060bf377f0875d51230e880e9c",
+      "acquiredAt": "2026-10-05T06:05:17.272188+00:00"
+    }
+  },
+  "e1-64": {
+    "name": "ブラックウォッシュデニムミニ",
+    "part": "ボトムス",
+    "brand": null,
+    "appealPoints": 450,
+    "verifiedFields": [
+      "name",
+      "part",
+      "appealPoints"
+    ],
+    "uncertainFields": [],
+    "category": null,
+    "source": {
+      "kind": "official-card-image",
+      "method": "visual-transcription",
+      "url": "https://dcd.aikatsu.com/encore/images/cardlist/card/E1-64_N.webp",
+      "sha256": "4305397385dc5e6f988c9fbe96762888e7cf534934f70a9342fcdfd45257eda6",
+      "acquiredAt": "2026-10-05T06:05:17.423807+00:00"
+    }
+  },
+  "e1-65": {
+    "name": "セクシーロゴチューブトップ",
+    "part": "トップス",
+    "brand": null,
+    "appealPoints": 400,
+    "verifiedFields": [
+      "name",
+      "part",
+      "appealPoints"
+    ],
+    "uncertainFields": [],
+    "category": null,
+    "source": {
+      "kind": "official-card-image",
+      "method": "visual-transcription",
+      "url": "https://dcd.aikatsu.com/encore/images/cardlist/card/E1-65_N.webp",
+      "sha256": "8f8a32117fc87c92323f9ff944a3e3ef052ef0030c8690a976936f93c364a4d4",
+      "acquiredAt": "2026-10-05T06:05:17.722857+00:00"
+    }
+  },
+  "e1-66": {
+    "name": "ベルトつきレザースカート",
+    "part": "ボトムス",
+    "brand": null,
+    "appealPoints": 450,
+    "verifiedFields": [
+      "name",
+      "part",
+      "appealPoints"
+    ],
+    "uncertainFields": [],
+    "category": null,
+    "source": {
+      "kind": "official-card-image",
+      "method": "visual-transcription",
+      "url": "https://dcd.aikatsu.com/encore/images/cardlist/card/E1-66_N.webp",
+      "sha256": "57d395e89bcac37bfaf3d93f13d5748cf943736c19213f23eecf048a02297f35",
+      "acquiredAt": "2026-10-05T06:05:17.924381+00:00"
+    }
+  },
+  "e1-67": {
+    "name": "サイハイレザーブーツ",
+    "part": "シューズ",
+    "brand": null,
+    "appealPoints": 400,
+    "verifiedFields": [
+      "name",
+      "part",
+      "appealPoints"
+    ],
+    "uncertainFields": [],
+    "category": null,
+    "source": {
+      "kind": "official-card-image",
+      "method": "visual-transcription",
+      "url": "https://dcd.aikatsu.com/encore/images/cardlist/card/E1-67_N.webp",
+      "sha256": "821403951259c30705a2b1c1c454a845e7abfb6b6613f6fcb80b567f3c35d570",
+      "acquiredAt": "2026-10-05T06:05:18.053497+00:00"
+    }
+  },
+  "e1-68": {
+    "name": "パープルブロッサムトップス",
+    "part": "トップス",
+    "brand": null,
+    "appealPoints": 500,
+    "verifiedFields": [
+      "name",
+      "part",
+      "appealPoints"
+    ],
+    "uncertainFields": [],
+    "category": null,
+    "source": {
+      "kind": "official-card-image",
+      "method": "visual-transcription",
+      "url": "https://dcd.aikatsu.com/encore/images/cardlist/card/E1-68_N.webp",
+      "sha256": "6b8567a3860102356d47b9c68299c153775aa57e1339fc6bdb07513722420707",
+      "acquiredAt": "2026-10-05T06:05:18.372469+00:00"
+    }
+  },
+  "e1-69": {
+    "name": "パープルブロッサムスカート",
+    "part": "ボトムス",
+    "brand": null,
+    "appealPoints": 350,
+    "verifiedFields": [
+      "name",
+      "part",
+      "appealPoints"
+    ],
+    "uncertainFields": [],
+    "category": null,
+    "source": {
+      "kind": "official-card-image",
+      "method": "visual-transcription",
+      "url": "https://dcd.aikatsu.com/encore/images/cardlist/card/E1-69_N.webp",
+      "sha256": "fc0ca282fb9f6da65acf8d1f3dd754153b75752307598d36bb376df72cc9b0d9",
+      "acquiredAt": "2026-10-05T06:05:18.579566+00:00"
+    }
+  },
+  "e1-70": {
+    "name": "パープルブロッサムブーツ",
+    "part": "シューズ",
+    "brand": null,
+    "appealPoints": 400,
+    "verifiedFields": [
+      "name",
+      "part",
+      "appealPoints"
+    ],
+    "uncertainFields": [],
+    "category": null,
+    "source": {
+      "kind": "official-card-image",
+      "method": "visual-transcription",
+      "url": "https://dcd.aikatsu.com/encore/images/cardlist/card/E1-70_N.webp",
+      "sha256": "43e071249684f5e930d19ed06597ec511f373f98557eac75252f268f2be0a9c1",
+      "acquiredAt": "2026-10-05T06:05:18.698087+00:00"
+    }
+  },
+  "e1-71": {
+    "name": "サンシャインスターウェイトップス",
+    "part": "トップス",
+    "brand": "Soleil",
+    "appealPoints": 1000,
+    "verifiedFields": [
+      "name",
+      "part",
+      "appealPoints",
+      "brand"
+    ],
+    "uncertainFields": [],
+    "category": null,
+    "source": {
+      "kind": "official-card-image",
+      "method": "visual-transcription",
+      "url": "https://dcd.aikatsu.com/encore/images/cardlist/card/E1-71_PR.webp",
+      "sha256": "5071b1ee04f1dc3432af39911d3bd4f4e8a1a678e2cd9f2c9cde9842b9c2da7a",
+      "acquiredAt": "2026-10-05T06:05:19.013082+00:00"
+    }
+  },
+  "e1-72": {
+    "name": "サンシャインスターウェイスカート",
+    "part": "ボトムス",
+    "brand": "Soleil",
+    "appealPoints": 1100,
+    "verifiedFields": [
+      "name",
+      "part",
+      "appealPoints",
+      "brand"
+    ],
+    "uncertainFields": [],
+    "category": null,
+    "source": {
+      "kind": "official-card-image",
+      "method": "visual-transcription",
+      "url": "https://dcd.aikatsu.com/encore/images/cardlist/card/E1-72_PR.webp",
+      "sha256": "de98bc517034149a4930822d2d19cb3e9aaf023df0158a7bbd2b779e9b731a9a",
+      "acquiredAt": "2026-10-05T06:05:19.223464+00:00"
+    }
+  },
+  "e1-73": {
+    "name": "サンシャインスターウェイシューズ",
+    "part": "シューズ",
+    "brand": "Soleil",
+    "appealPoints": 950,
+    "verifiedFields": [
+      "name",
+      "part",
+      "appealPoints",
+      "brand"
+    ],
+    "uncertainFields": [],
+    "category": null,
+    "source": {
+      "kind": "official-card-image",
+      "method": "visual-transcription",
+      "url": "https://dcd.aikatsu.com/encore/images/cardlist/card/E1-73_PR.webp",
+      "sha256": "3e8961197c77d5296c1dd6f33271fd314f41d9c3980b7b16c144ec63d20990cd",
+      "acquiredAt": "2026-10-05T06:05:19.347375+00:00"
+    }
+  },
+  "e1-74": {
+    "name": "サンシャインスターウェイカチューシャ",
+    "part": "アクセサリー",
+    "brand": "Soleil",
+    "appealPoints": 600,
+    "verifiedFields": [
+      "name",
+      "part",
+      "appealPoints",
+      "brand"
+    ],
+    "uncertainFields": [],
+    "category": null,
+    "source": {
+      "kind": "official-card-image",
+      "method": "visual-transcription",
+      "url": "https://dcd.aikatsu.com/encore/images/cardlist/card/E1-74_PR.webp",
+      "sha256": "57f5d4f0dcbe73297e9ab5b3dba350ec8be9d14457f2adfa82da8c54d4435512",
+      "acquiredAt": "2026-10-05T06:05:19.665796+00:00"
+    }
+  },
+  "e1-75": {
+    "name": "サンライズスターウェイトップス",
+    "part": "トップス",
+    "brand": "Soleil",
+    "appealPoints": 1100,
+    "verifiedFields": [
+      "name",
+      "part",
+      "appealPoints",
+      "brand"
+    ],
+    "uncertainFields": [],
+    "category": null,
+    "source": {
+      "kind": "official-card-image",
+      "method": "visual-transcription",
+      "url": "https://dcd.aikatsu.com/encore/images/cardlist/card/E1-75_PR.webp",
+      "sha256": "cf03ca64a44543ac75c634c1f4708f6be8eb087b24d09ab02587810abb946ea2",
+      "acquiredAt": "2026-10-05T06:05:19.856719+00:00"
+    }
+  },
+  "e1-76": {
+    "name": "サンライズスターウェイスカート",
+    "part": "ボトムス",
+    "brand": "Soleil",
+    "appealPoints": 950,
+    "verifiedFields": [
+      "name",
+      "part",
+      "appealPoints",
+      "brand"
+    ],
+    "uncertainFields": [],
+    "category": null,
+    "source": {
+      "kind": "official-card-image",
+      "method": "visual-transcription",
+      "url": "https://dcd.aikatsu.com/encore/images/cardlist/card/E1-76_PR.webp",
+      "sha256": "a2eb4e8955dd8caaf2dd08e0915244daaf11d18b17d85bd18fbe63d3a368adf5",
+      "acquiredAt": "2026-10-05T06:05:20.163245+00:00"
+    }
+  },
+  "e1-77": {
+    "name": "サンライズスターウェイシューズ",
+    "part": "シューズ",
+    "brand": "Soleil",
+    "appealPoints": 1000,
+    "verifiedFields": [
+      "name",
+      "part",
+      "appealPoints",
+      "brand"
+    ],
+    "uncertainFields": [],
+    "category": null,
+    "source": {
+      "kind": "official-card-image",
+      "method": "visual-transcription",
+      "url": "https://dcd.aikatsu.com/encore/images/cardlist/card/E1-77_PR.webp",
+      "sha256": "c151a90e386dc88db3dc4658c699a73ba1ec849b6a400c8daff704c27861e9a4",
+      "acquiredAt": "2026-10-05T06:05:20.316910+00:00"
+    }
+  },
+  "e1-78": {
+    "name": "サンライズスターウェイカチューシャ",
+    "part": "アクセサリー",
+    "brand": "Soleil",
+    "appealPoints": 600,
+    "verifiedFields": [
+      "name",
+      "part",
+      "appealPoints",
+      "brand"
+    ],
+    "uncertainFields": [],
+    "category": null,
+    "source": {
+      "kind": "official-card-image",
+      "method": "visual-transcription",
+      "url": "https://dcd.aikatsu.com/encore/images/cardlist/card/E1-78_PR.webp",
+      "sha256": "95440479620e13c1575e22bff79b79f06d9e2587440cc8b12f53239603de51fd",
+      "acquiredAt": "2026-10-05T06:05:20.505418+00:00"
+    }
+  },
+  "e1-79": {
+    "name": "サンセットスターウェイトップス",
+    "part": "トップス",
+    "brand": "Soleil",
+    "appealPoints": 950,
+    "verifiedFields": [
+      "name",
+      "part",
+      "appealPoints",
+      "brand"
+    ],
+    "uncertainFields": [],
+    "category": null,
+    "source": {
+      "kind": "official-card-image",
+      "method": "visual-transcription",
+      "url": "https://dcd.aikatsu.com/encore/images/cardlist/card/E1-79_PR.webp",
+      "sha256": "cb6c02f34d60d88fa7596d368070c2e63f97f630166fe13f6cc451e26db0686e",
+      "acquiredAt": "2026-10-05T06:05:20.827117+00:00"
+    }
+  },
+  "e1-80": {
+    "name": "サンセットスターウェイスカート",
+    "part": "ボトムス",
+    "brand": "Soleil",
+    "appealPoints": 1000,
+    "verifiedFields": [
+      "name",
+      "part",
+      "appealPoints",
+      "brand"
+    ],
+    "uncertainFields": [],
+    "category": null,
+    "source": {
+      "kind": "official-card-image",
+      "method": "visual-transcription",
+      "url": "https://dcd.aikatsu.com/encore/images/cardlist/card/E1-80_PR.webp",
+      "sha256": "b4699ba23575abd6e463d4263fbf17b37e79b516ae88faca39abace72417a9c1",
+      "acquiredAt": "2026-10-05T06:05:20.961999+00:00"
+    }
+  },
+  "e1-81": {
+    "name": "サンセットスターウェイシューズ",
+    "part": "シューズ",
+    "brand": "Soleil",
+    "appealPoints": 1100,
+    "verifiedFields": [
+      "name",
+      "part",
+      "appealPoints",
+      "brand"
+    ],
+    "uncertainFields": [],
+    "category": null,
+    "source": {
+      "kind": "official-card-image",
+      "method": "visual-transcription",
+      "url": "https://dcd.aikatsu.com/encore/images/cardlist/card/E1-81_PR.webp",
+      "sha256": "9fcf924ad1dcea67d6397cc5553ed65b7d470f686ba76fab8773b9866294b768",
+      "acquiredAt": "2026-10-05T06:05:21.165271+00:00"
+    }
+  },
+  "e1-82": {
+    "name": "サンセットスターウェイカチューシャ",
+    "part": "アクセサリー",
+    "brand": "Soleil",
+    "appealPoints": 600,
+    "verifiedFields": [
+      "name",
+      "part",
+      "appealPoints",
+      "brand"
+    ],
+    "uncertainFields": [],
+    "category": null,
+    "source": {
+      "kind": "official-card-image",
+      "method": "visual-transcription",
+      "url": "https://dcd.aikatsu.com/encore/images/cardlist/card/E1-82_PR.webp",
+      "sha256": "b60f70eecd06c24aab33cade8618cea22d8b2647f21e6e81844925fca12a78df",
+      "acquiredAt": "2026-10-05T06:05:21.453797+00:00"
+    }
+  },
+  "e1-83": {
+    "name": "イエローブロッサムトップス",
+    "part": "トップス",
+    "brand": null,
+    "appealPoints": 400,
+    "verifiedFields": [
+      "name",
+      "part",
+      "appealPoints"
+    ],
+    "uncertainFields": [
+      "brand: observed-no-logo on official front and back; promotional/publisher marks do not establish an item brand"
+    ],
+    "category": null,
+    "source": {
+      "kind": "official-card-image",
+      "method": "visual-transcription",
+      "url": "https://dcd.aikatsu.com/encore/images/cardlist/card/E1-83_N.webp",
+      "sha256": "8fbcc77b9e742b76361875efe4e3bd9a0e8463a30b34416fc5ef4eba877c1b11",
+      "acquiredAt": "2026-10-05T06:05:21.605752+00:00"
+    }
+  },
+  "e1-84": {
+    "name": "イエローブロッサムスカート",
+    "part": "ボトムス",
+    "brand": null,
+    "appealPoints": 350,
+    "verifiedFields": [
+      "name",
+      "part",
+      "appealPoints"
+    ],
+    "uncertainFields": [
+      "brand: observed-no-logo on official front and back; promotional/publisher marks do not establish an item brand"
+    ],
+    "category": null,
+    "source": {
+      "kind": "official-card-image",
+      "method": "visual-transcription",
+      "url": "https://dcd.aikatsu.com/encore/images/cardlist/card/E1-84_N.webp",
+      "sha256": "1d87633fa319c2ea22ebfbd449bef1867f971ddf86e44d427a1a1b5769cd0bf9",
+      "acquiredAt": "2026-10-05T06:05:21.795166+00:00"
+    }
+  },
+  "e1-85": {
+    "name": "イエローブロッサムブーツ",
+    "part": "シューズ",
+    "brand": null,
+    "appealPoints": 500,
+    "verifiedFields": [
+      "name",
+      "part",
+      "appealPoints"
+    ],
+    "uncertainFields": [
+      "brand: observed-no-logo on official front and back; promotional/publisher marks do not establish an item brand"
+    ],
+    "category": null,
+    "source": {
+      "kind": "official-card-image",
+      "method": "visual-transcription",
+      "url": "https://dcd.aikatsu.com/encore/images/cardlist/card/E1-85_N.webp",
+      "sha256": "4f9e4192f4c495a51bc8f599469ddc702bd308339020b97deee75cff237a94bd",
+      "acquiredAt": "2026-10-05T06:05:22.095515+00:00"
+    }
+  },
+  "ep-001": {
+    "name": "ピンクステージベスト＆スカート",
+    "part": "トップス＆ボトムス",
+    "brand": null,
+    "appealPoints": 900,
+    "verifiedFields": [
+      "name",
+      "part",
+      "appealPoints"
+    ],
+    "uncertainFields": [
+      "brand: observed-no-logo on official front and back; promotional/publisher marks do not establish an item brand"
+    ],
+    "category": null,
+    "source": {
+      "kind": "official-card-image",
+      "method": "visual-transcription",
+      "url": "https://dcd.aikatsu.com/encore/images/cardlist/card/EP-001_N.webp",
+      "sha256": "d00cfaab44f9e966071b521919350859c2d1ddc43dcb1670a8828673b2f8b1df",
+      "acquiredAt": "2026-10-05T06:05:22.235724+00:00"
+    }
+  },
+  "ep-002": {
+    "name": "レジェンダリールージュティアラ",
+    "part": "アクセサリー",
+    "brand": null,
+    "appealPoints": 600,
+    "verifiedFields": [
+      "name",
+      "part",
+      "appealPoints"
+    ],
+    "uncertainFields": [
+      "brand: observed-no-logo on official front and back; promotional/publisher marks do not establish an item brand"
+    ],
+    "category": null,
+    "source": {
+      "kind": "official-card-image",
+      "method": "visual-transcription",
+      "url": "https://dcd.aikatsu.com/encore/images/cardlist/card/EP-002_PR.webp",
+      "sha256": "7bc50103db1bff201512c20e5a147d4e6e5b850ad5efa537a3f3a8c12800b354",
+      "acquiredAt": "2026-10-05T06:05:22.429973+00:00"
+    }
+  },
+  "ep-003": {
+    "name": "エメラルドコクーンワンピ",
+    "part": "トップス＆ボトムス",
+    "brand": "SPICY AGEHA",
+    "appealPoints": 900,
+    "verifiedFields": [
+      "name",
+      "part",
+      "appealPoints",
+      "brand"
+    ],
+    "uncertainFields": [],
+    "category": null,
+    "source": {
+      "kind": "official-card-image",
+      "method": "visual-transcription",
+      "url": "https://dcd.aikatsu.com/encore/images/cardlist/card/EP-003_N.webp",
+      "sha256": "776162d827be222bbfdfaf677ac17c7aab496a376da91e0e403344aee41a8c70",
+      "acquiredAt": "2026-10-05T06:05:22.751207+00:00"
+    }
+  },
+  "ep-004": {
+    "name": "エメラルドアゲハミュール",
+    "part": "シューズ",
+    "brand": "SPICY AGEHA",
+    "appealPoints": 350,
+    "verifiedFields": [
+      "name",
+      "part",
+      "appealPoints",
+      "brand"
+    ],
+    "uncertainFields": [],
+    "category": null,
+    "source": {
+      "kind": "official-card-image",
+      "method": "visual-transcription",
+      "url": "https://dcd.aikatsu.com/encore/images/cardlist/card/EP-004_N.webp",
+      "sha256": "d19ae85884a85404907de27b8ed6be447c1f2bb2d9379b6015f73e1f558b3455",
+      "acquiredAt": "2026-10-05T06:05:22.883673+00:00"
+    }
+  },
+  "ep-005": {
+    "name": "ピンクシフォンカチューシャ",
+    "part": "アクセサリー",
+    "brand": null,
+    "appealPoints": 350,
+    "verifiedFields": [
+      "name",
+      "part",
+      "appealPoints"
+    ],
+    "uncertainFields": [
+      "brand: observed-no-logo on official front and back; promotional/publisher marks do not establish an item brand"
+    ],
+    "category": null,
+    "source": {
+      "kind": "official-card-image",
+      "method": "visual-transcription",
+      "url": "https://dcd.aikatsu.com/encore/images/cardlist/card/EP-005_N.webp",
+      "sha256": "1a9e1f7a86ee5bd1c5fa42327562ab6288547ad513f8ef557407156d187439bb",
+      "acquiredAt": "2026-10-05T06:05:23.081300+00:00"
+    }
+  },
+  "ep-006": {
+    "name": "ピンクリボンつきフリルシャツ",
+    "part": "トップス",
+    "brand": null,
+    "appealPoints": 400,
+    "verifiedFields": [
+      "name",
+      "part",
+      "appealPoints"
+    ],
+    "uncertainFields": [
+      "brand: observed-no-logo on official front and back; promotional/publisher marks do not establish an item brand"
+    ],
+    "category": null,
+    "source": {
+      "kind": "official-card-image",
+      "method": "visual-transcription",
+      "url": "https://dcd.aikatsu.com/encore/images/cardlist/card/EP-006_N.webp",
+      "sha256": "f11e517d7909c1f82603516de95b7cadec02c6832388ca9a3dd1887d6bf31bab",
+      "acquiredAt": "2026-10-05T06:05:23.405769+00:00"
+    }
+  },
+  "ep-007": {
+    "name": "ピンクアーガイルカーデ",
+    "part": "トップス",
+    "brand": "Angely Sugar",
+    "appealPoints": 400,
+    "verifiedFields": [
+      "name",
+      "part",
+      "appealPoints",
+      "brand"
+    ],
+    "uncertainFields": [],
+    "category": null,
+    "source": {
+      "kind": "official-card-image",
+      "method": "visual-transcription",
+      "url": "https://dcd.aikatsu.com/encore/images/cardlist/card/EP-007_N.webp",
+      "sha256": "8492459b2c4aa0b4bb9036f218596bb39051f66daae1405a3031ec03d794e180",
+      "acquiredAt": "2026-10-05T06:05:23.526278+00:00"
+    }
+  },
+  "ep-008": {
+    "name": "ピンクプリーツスカート",
+    "part": "ボトムス",
+    "brand": "Angely Sugar",
+    "appealPoints": 500,
+    "verifiedFields": [
+      "name",
+      "part",
+      "appealPoints",
+      "brand"
+    ],
+    "uncertainFields": [],
+    "category": null,
+    "source": {
+      "kind": "official-card-image",
+      "method": "visual-transcription",
+      "url": "https://dcd.aikatsu.com/encore/images/cardlist/card/EP-008_N.webp",
+      "sha256": "6a20512481b9acd0f7901a3800c1dc62e48078c6174d51e844f4fb7ac96b64bc",
+      "acquiredAt": "2026-10-05T06:05:23.733621+00:00"
+    }
+  },
+  "ep-009": {
+    "name": "ガーリーローファー",
+    "part": "シューズ",
+    "brand": "Angely Sugar",
+    "appealPoints": 350,
+    "verifiedFields": [
+      "name",
+      "part",
+      "appealPoints",
+      "brand"
+    ],
+    "uncertainFields": [],
+    "category": null,
+    "source": {
+      "kind": "official-card-image",
+      "method": "visual-transcription",
+      "url": "https://dcd.aikatsu.com/encore/images/cardlist/card/EP-009_N.webp",
+      "sha256": "4728431bd911484e30d19c4e9d2e147748ede3031427727e10f5749e6f8241b5",
+      "acquiredAt": "2026-10-05T06:05:24.040017+00:00"
+    }
+  },
+  "ep-010": {
+    "name": "ピンクリボンカチューシャ",
+    "part": "アクセサリー",
+    "brand": null,
+    "appealPoints": 350,
+    "verifiedFields": [
+      "name",
+      "part",
+      "appealPoints"
+    ],
+    "uncertainFields": [
+      "brand: observed-no-logo on official front and back; promotional/publisher marks do not establish an item brand"
+    ],
+    "category": null,
+    "source": {
+      "kind": "official-card-image",
+      "method": "visual-transcription",
+      "url": "https://dcd.aikatsu.com/encore/images/cardlist/card/EP-010_N.webp",
+      "sha256": "d2e9cf0e7defdc64aff691020fcd884631090af07952c5439762cd51aafcd30a",
+      "acquiredAt": "2026-10-05T06:05:24.186966+00:00"
+    }
+  },
+  "ep-011": {
+    "name": "スターライト学園ピンクジャージ",
+    "part": "トップス＆ボトムス",
+    "brand": null,
+    "appealPoints": 850,
+    "verifiedFields": [
+      "name",
+      "part",
+      "appealPoints"
+    ],
+    "uncertainFields": [
+      "brand: observed-no-logo on official front and back; promotional/publisher marks do not establish an item brand"
+    ],
+    "category": null,
+    "source": {
+      "kind": "official-card-image",
+      "method": "visual-transcription",
+      "url": "https://dcd.aikatsu.com/encore/images/cardlist/card/EP-011_N.webp",
+      "sha256": "9e3ce63b4d37e619de85672147702260949d891afd79cc7273c6f14dbb2c7a1d",
+      "acquiredAt": "2026-10-05T06:05:24.367489+00:00"
+    }
+  },
+  "ep-012": {
+    "name": "スターライト学園ブルージャージ",
+    "part": "トップス＆ボトムス",
+    "brand": null,
+    "appealPoints": 850,
+    "verifiedFields": [
+      "name",
+      "part",
+      "appealPoints"
+    ],
+    "uncertainFields": [
+      "brand: observed-no-logo on official front and back; promotional/publisher marks do not establish an item brand"
+    ],
+    "category": null,
+    "source": {
+      "kind": "official-card-image",
+      "method": "visual-transcription",
+      "url": "https://dcd.aikatsu.com/encore/images/cardlist/card/EP-012_N.webp",
+      "sha256": "45bcc15355f31534a0bfe232ffb1d7965047bbcb807a65dcf8c29958993d2191",
+      "acquiredAt": "2026-10-05T06:05:24.674816+00:00"
+    }
+  },
+  "ep-013": {
+    "name": "スターライト学園パープルジャージ",
+    "part": "トップス＆ボトムス",
+    "brand": null,
+    "appealPoints": 850,
+    "verifiedFields": [
+      "name",
+      "part",
+      "appealPoints"
+    ],
+    "uncertainFields": [
+      "brand: observed-no-logo on official front and back; promotional/publisher marks do not establish an item brand"
+    ],
+    "category": null,
+    "source": {
+      "kind": "official-card-image",
+      "method": "visual-transcription",
+      "url": "https://dcd.aikatsu.com/encore/images/cardlist/card/EP-013_N.webp",
+      "sha256": "4b5469cd1d0f4900110533cee6e1c5fc44d429f1659c1bd82a3e41f3369a3e2f",
+      "acquiredAt": "2026-10-05T06:05:24.828115+00:00"
+    }
+  },
+  "ep-014": {
+    "name": "スターライト学園オレンジジャージ",
+    "part": "トップス＆ボトムス",
+    "brand": null,
+    "appealPoints": 850,
+    "verifiedFields": [
+      "name",
+      "part",
+      "appealPoints"
+    ],
+    "uncertainFields": [
+      "brand: observed-no-logo on official front and back; promotional/publisher marks do not establish an item brand"
+    ],
+    "category": null,
+    "source": {
+      "kind": "official-card-image",
+      "method": "visual-transcription",
+      "url": "https://dcd.aikatsu.com/encore/images/cardlist/card/EP-014_N.webp",
+      "sha256": "f95840a4c2cdcbe558ba71b811a34ccec044f51fff3b297e755a552ec40c9014",
+      "acquiredAt": "2026-10-05T06:05:24.998920+00:00"
+    }
+  },
+  "ep-015": {
+    "name": "スターライト学園スニーカー",
+    "part": "シューズ",
+    "brand": null,
+    "appealPoints": 400,
+    "verifiedFields": [
+      "name",
+      "part",
+      "appealPoints"
+    ],
+    "uncertainFields": [
+      "brand: observed-no-logo on official front and back; promotional/publisher marks do not establish an item brand"
+    ],
+    "category": null,
+    "source": {
+      "kind": "official-card-image",
+      "method": "visual-transcription",
+      "url": "https://dcd.aikatsu.com/encore/images/cardlist/card/EP-015_N.webp",
+      "sha256": "6b3ddd3db975e482e1996521620dae41b5a36fcab5dc2e51fca148ea46b6dace",
+      "acquiredAt": "2026-10-05T06:05:25.322214+00:00"
+    }
+  },
+  "ep-016": {
+    "name": "ブラックダイヤモンドジュエリーワンピ",
+    "part": "トップス＆ボトムス",
+    "brand": null,
+    "appealPoints": 850,
+    "verifiedFields": [
+      "name",
+      "part",
+      "appealPoints"
+    ],
+    "uncertainFields": [
+      "brand: observed-no-logo on official front and back; promotional/publisher marks do not establish an item brand"
+    ],
+    "category": null,
+    "source": {
+      "kind": "official-card-image",
+      "method": "visual-transcription",
+      "url": "https://dcd.aikatsu.com/encore/images/cardlist/card/EP-016_N.webp",
+      "sha256": "61426eed7a09be65120c79fcae93f690a82ff5eed64c5f4cc65f625b3bbc13f4",
+      "acquiredAt": "2026-10-05T06:05:25.511527+00:00"
+    }
+  },
+  "ep-017": {
+    "name": "ピンクの小花柄ワンピ",
+    "part": "トップス＆ボトムス",
+    "brand": "Angely Sugar",
+    "appealPoints": 900,
+    "verifiedFields": [
+      "name",
+      "part",
+      "appealPoints",
+      "brand"
+    ],
+    "uncertainFields": [],
+    "category": null,
+    "source": {
+      "kind": "official-card-image",
+      "method": "visual-transcription",
+      "url": "https://dcd.aikatsu.com/encore/images/cardlist/card/EP-017_N.webp",
+      "sha256": "935bdb6fdad6745851288e06a5805054bc749ec2d6e63ab6d81d304f52ce857e",
+      "acquiredAt": "2026-10-05T06:05:25.640713+00:00"
+    }
+  },
+  "ep-018": {
+    "name": "編み上げラベンダーブーツ",
+    "part": "シューズ",
+    "brand": "Angely Sugar",
+    "appealPoints": 350,
+    "verifiedFields": [
+      "name",
+      "part",
+      "appealPoints",
+      "brand"
+    ],
+    "uncertainFields": [],
+    "category": null,
+    "source": {
+      "kind": "official-card-image",
+      "method": "visual-transcription",
+      "url": "https://dcd.aikatsu.com/encore/images/cardlist/card/EP-018_N.webp",
+      "sha256": "e7ba5f26ec2fa7f5b48d8c1a23ae12d36f3c891433a4318a67c03a14dd149608",
+      "acquiredAt": "2026-10-05T06:05:25.963317+00:00"
+    }
+  },
+  "ep-029": {
+    "name": "スターライト学園制服",
+    "part": "トップス＆ボトムス",
+    "brand": null,
+    "appealPoints": 1450,
+    "verifiedFields": [
+      "name",
+      "part",
+      "appealPoints"
+    ],
+    "uncertainFields": [
+      "brand: observed-no-logo on official front and back; promotional/publisher marks do not establish an item brand"
+    ],
+    "category": null,
+    "source": {
+      "kind": "official-card-image",
+      "method": "visual-transcription",
+      "url": "https://dcd.aikatsu.com/encore/images/cardlist/card/EP-029_R.webp",
+      "sha256": "8c3469ad427aec9930a14f0287cc70f0dd9867ff971483d5b387cda014c05ed0",
+      "acquiredAt": "2026-10-05T06:05:26.149717+00:00"
+    }
+  },
+  "ep-030": {
+    "name": "スターライト学園ブーツ",
+    "part": "シューズ",
+    "brand": null,
+    "appealPoints": 650,
+    "verifiedFields": [
+      "name",
+      "part",
+      "appealPoints"
+    ],
+    "uncertainFields": [
+      "brand: observed-no-logo on official front and back; promotional/publisher marks do not establish an item brand"
+    ],
+    "category": null,
+    "source": {
+      "kind": "official-card-image",
+      "method": "visual-transcription",
+      "url": "https://dcd.aikatsu.com/encore/images/cardlist/card/EP-030_R.webp",
+      "sha256": "63952cea01a65bc97737db8a23407903b349366870294cafba868f650d0782fa",
+      "acquiredAt": "2026-10-05T06:05:26.306974+00:00"
+    }
+  },
+  "ep-037": {
+    "name": "エンブレムつきセーラーマリントップス＆スカート",
+    "part": "トップス＆ボトムス",
+    "brand": null,
+    "appealPoints": 850,
+    "verifiedFields": [
+      "name",
+      "part",
+      "appealPoints"
+    ],
+    "uncertainFields": [
+      "brand: observed-no-logo on official front and back; promotional/publisher marks do not establish an item brand"
+    ],
+    "category": null,
+    "source": {
+      "kind": "official-card-image",
+      "method": "visual-transcription",
+      "url": "https://dcd.aikatsu.com/encore/images/cardlist/card/EP-037_N.webp",
+      "sha256": "7baba21454474243229a0091432c776200a1476bd1c53cfcdb1c6c6009b7d621",
+      "acquiredAt": "2026-10-05T06:05:26.603259+00:00"
+    }
+  },
+  "ep-038": {
+    "name": "ブルーワークブーツ",
+    "part": "シューズ",
+    "brand": null,
+    "appealPoints": 400,
+    "verifiedFields": [
+      "name",
+      "part",
+      "appealPoints"
+    ],
+    "uncertainFields": [
+      "brand: observed-no-logo on official front and back; promotional/publisher marks do not establish an item brand"
+    ],
+    "category": null,
+    "source": {
+      "kind": "official-card-image",
+      "method": "visual-transcription",
+      "url": "https://dcd.aikatsu.com/encore/images/cardlist/card/EP-038_N.webp",
+      "sha256": "eca17bd0bb681caf5306cbbade0bab030338f388f2e828933dd4f9b171e45b4d",
+      "acquiredAt": "2026-10-05T06:05:26.796081+00:00"
+    }
+  }
+}

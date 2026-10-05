@@ -1,0 +1,2570 @@
+[
+  {
+    "id": "e1-01",
+    "number": "E1-01",
+    "name": "オーロラキスキャミソール",
+    "rarity": "PR",
+    "verificationStatus": "verified",
+    "setId": "encore-1",
+    "sourceKey": "E1-01_PR",
+    "status": "active",
+    "source": {
+      "url": "https://dcd.aikatsu.com/encore/cardlist/?search=true&series=629001&display=3&sort=1",
+      "acquiredAt": "2026-10-05T06:02:49.529621+00:00",
+      "sourceSeriesId": "629001"
+    },
+    "metadata": {
+      "name": null,
+      "part": null,
+      "category": null,
+      "brand": null,
+      "availabilityText": null
+    },
+    "imageUrl": "/cards/E1-01_PR.webp",
+    "imageBackUrl": "/cards/E1-01_PR_b.webp"
+  },
+  {
+    "id": "e1-02",
+    "number": "E1-02",
+    "name": "オーロラキスドレープスカート",
+    "rarity": "PR",
+    "verificationStatus": "verified",
+    "setId": "encore-1",
+    "sourceKey": "E1-02_PR",
+    "status": "active",
+    "source": {
+      "url": "https://dcd.aikatsu.com/encore/cardlist/?search=true&series=629001&display=3&sort=1",
+      "acquiredAt": "2026-10-05T06:02:49.529621+00:00",
+      "sourceSeriesId": "629001"
+    },
+    "metadata": {
+      "name": null,
+      "part": null,
+      "category": null,
+      "brand": null,
+      "availabilityText": null
+    },
+    "imageUrl": "/cards/E1-02_PR.webp",
+    "imageBackUrl": "/cards/E1-02_PR_b.webp"
+  },
+  {
+    "id": "e1-03",
+    "number": "E1-03",
+    "name": "名称未確認",
+    "rarity": "PR",
+    "verificationStatus": "verified",
+    "setId": "encore-1",
+    "sourceKey": "E1-03_PR",
+    "status": "active",
+    "source": {
+      "url": "https://dcd.aikatsu.com/encore/cardlist/?search=true&series=629001&display=3&sort=1",
+      "acquiredAt": "2026-10-05T06:02:49.529621+00:00",
+      "sourceSeriesId": "629001"
+    },
+    "metadata": {
+      "name": null,
+      "part": null,
+      "category": null,
+      "brand": null,
+      "availabilityText": null
+    },
+    "imageUrl": "/cards/E1-03_PR.webp",
+    "imageBackUrl": "/cards/E1-03_PR_b.webp"
+  },
+  {
+    "id": "e1-04",
+    "number": "E1-04",
+    "name": "名称未確認",
+    "rarity": "PR",
+    "verificationStatus": "verified",
+    "setId": "encore-1",
+    "sourceKey": "E1-04_PR",
+    "status": "active",
+    "source": {
+      "url": "https://dcd.aikatsu.com/encore/cardlist/?search=true&series=629001&display=3&sort=1",
+      "acquiredAt": "2026-10-05T06:02:49.529621+00:00",
+      "sourceSeriesId": "629001"
+    },
+    "metadata": {
+      "name": null,
+      "part": null,
+      "category": null,
+      "brand": null,
+      "availabilityText": null
+    },
+    "imageUrl": "/cards/E1-04_PR.webp",
+    "imageBackUrl": "/cards/E1-04_PR_b.webp"
+  },
+  {
+    "id": "e1-05",
+    "number": "E1-05",
+    "name": "名称未確認",
+    "rarity": "R",
+    "verificationStatus": "verified",
+    "setId": "encore-1",
+    "sourceKey": "E1-05_R",
+    "status": "active",
+    "source": {
+      "url": "https://dcd.aikatsu.com/encore/cardlist/?search=true&series=629001&display=3&sort=1",
+      "acquiredAt": "2026-10-05T06:02:49.529621+00:00",
+      "sourceSeriesId": "629001"
+    },
+    "metadata": {
+      "name": null,
+      "part": null,
+      "category": null,
+      "brand": null,
+      "availabilityText": null
+    },
+    "imageUrl": "/cards/E1-05_R.webp",
+    "imageBackUrl": "/cards/E1-05_R_b.webp"
+  },
+  {
+    "id": "e1-06",
+    "number": "E1-06",
+    "name": "名称未確認",
+    "rarity": "R",
+    "verificationStatus": "verified",
+    "setId": "encore-1",
+    "sourceKey": "E1-06_R",
+    "status": "active",
+    "source": {
+      "url": "https://dcd.aikatsu.com/encore/cardlist/?search=true&series=629001&display=3&sort=1",
+      "acquiredAt": "2026-10-05T06:02:49.529621+00:00",
+      "sourceSeriesId": "629001"
+    },
+    "metadata": {
+      "name": null,
+      "part": null,
+      "category": null,
+      "brand": null,
+      "availabilityText": null
+    },
+    "imageUrl": "/cards/E1-06_R.webp",
+    "imageBackUrl": "/cards/E1-06_R_b.webp"
+  },
+  {
+    "id": "e1-07",
+    "number": "E1-07",
+    "name": "名称未確認",
+    "rarity": "R",
+    "verificationStatus": "verified",
+    "setId": "encore-1",
+    "sourceKey": "E1-07_R",
+    "status": "active",
+    "source": {
+      "url": "https://dcd.aikatsu.com/encore/cardlist/?search=true&series=629001&display=3&sort=1",
+      "acquiredAt": "2026-10-05T06:02:49.529621+00:00",
+      "sourceSeriesId": "629001"
+    },
+    "metadata": {
+      "name": null,
+      "part": null,
+      "category": null,
+      "brand": null,
+      "availabilityText": null
+    },
+    "imageUrl": "/cards/E1-07_R.webp",
+    "imageBackUrl": "/cards/E1-07_R_b.webp"
+  },
+  {
+    "id": "e1-08",
+    "number": "E1-08",
+    "name": "名称未確認",
+    "rarity": "R",
+    "verificationStatus": "verified",
+    "setId": "encore-1",
+    "sourceKey": "E1-08_R",
+    "status": "active",
+    "source": {
+      "url": "https://dcd.aikatsu.com/encore/cardlist/?search=true&series=629001&display=3&sort=1",
+      "acquiredAt": "2026-10-05T06:02:49.529621+00:00",
+      "sourceSeriesId": "629001"
+    },
+    "metadata": {
+      "name": null,
+      "part": null,
+      "category": null,
+      "brand": null,
+      "availabilityText": null
+    },
+    "imageUrl": "/cards/E1-08_R.webp",
+    "imageBackUrl": "/cards/E1-08_R_b.webp"
+  },
+  {
+    "id": "e1-09",
+    "number": "E1-09",
+    "name": "名称未確認",
+    "rarity": "R",
+    "verificationStatus": "verified",
+    "setId": "encore-1",
+    "sourceKey": "E1-09_R",
+    "status": "active",
+    "source": {
+      "url": "https://dcd.aikatsu.com/encore/cardlist/?search=true&series=629001&display=3&sort=1",
+      "acquiredAt": "2026-10-05T06:02:49.529621+00:00",
+      "sourceSeriesId": "629001"
+    },
+    "metadata": {
+      "name": null,
+      "part": null,
+      "category": null,
+      "brand": null,
+      "availabilityText": null
+    },
+    "imageUrl": "/cards/E1-09_R.webp",
+    "imageBackUrl": "/cards/E1-09_R_b.webp"
+  },
+  {
+    "id": "e1-10",
+    "number": "E1-10",
+    "name": "名称未確認",
+    "rarity": "R",
+    "verificationStatus": "verified",
+    "setId": "encore-1",
+    "sourceKey": "E1-10_R",
+    "status": "active",
+    "source": {
+      "url": "https://dcd.aikatsu.com/encore/cardlist/?search=true&series=629001&display=3&sort=1",
+      "acquiredAt": "2026-10-05T06:02:49.529621+00:00",
+      "sourceSeriesId": "629001"
+    },
+    "metadata": {
+      "name": null,
+      "part": null,
+      "category": null,
+      "brand": null,
+      "availabilityText": null
+    },
+    "imageUrl": "/cards/E1-10_R.webp",
+    "imageBackUrl": "/cards/E1-10_R_b.webp"
+  },
+  {
+    "id": "e1-11",
+    "number": "E1-11",
+    "name": "名称未確認",
+    "rarity": "R",
+    "verificationStatus": "verified",
+    "setId": "encore-1",
+    "sourceKey": "E1-11_R",
+    "status": "active",
+    "source": {
+      "url": "https://dcd.aikatsu.com/encore/cardlist/?search=true&series=629001&display=3&sort=1",
+      "acquiredAt": "2026-10-05T06:02:49.529621+00:00",
+      "sourceSeriesId": "629001"
+    },
+    "metadata": {
+      "name": null,
+      "part": null,
+      "category": null,
+      "brand": null,
+      "availabilityText": null
+    },
+    "imageUrl": "/cards/E1-11_R.webp",
+    "imageBackUrl": "/cards/E1-11_R_b.webp"
+  },
+  {
+    "id": "e1-12",
+    "number": "E1-12",
+    "name": "名称未確認",
+    "rarity": "R",
+    "verificationStatus": "verified",
+    "setId": "encore-1",
+    "sourceKey": "E1-12_R",
+    "status": "active",
+    "source": {
+      "url": "https://dcd.aikatsu.com/encore/cardlist/?search=true&series=629001&display=3&sort=1",
+      "acquiredAt": "2026-10-05T06:02:49.529621+00:00",
+      "sourceSeriesId": "629001"
+    },
+    "metadata": {
+      "name": null,
+      "part": null,
+      "category": null,
+      "brand": null,
+      "availabilityText": null
+    },
+    "imageUrl": "/cards/E1-12_R.webp",
+    "imageBackUrl": "/cards/E1-12_R_b.webp"
+  },
+  {
+    "id": "e1-13",
+    "number": "E1-13",
+    "name": "名称未確認",
+    "rarity": "R",
+    "verificationStatus": "verified",
+    "setId": "encore-1",
+    "sourceKey": "E1-13_R",
+    "status": "active",
+    "source": {
+      "url": "https://dcd.aikatsu.com/encore/cardlist/?search=true&series=629001&display=3&sort=1",
+      "acquiredAt": "2026-10-05T06:02:49.529621+00:00",
+      "sourceSeriesId": "629001"
+    },
+    "metadata": {
+      "name": null,
+      "part": null,
+      "category": null,
+      "brand": null,
+      "availabilityText": null
+    },
+    "imageUrl": "/cards/E1-13_R.webp",
+    "imageBackUrl": "/cards/E1-13_R_b.webp"
+  },
+  {
+    "id": "e1-14",
+    "number": "E1-14",
+    "name": "名称未確認",
+    "rarity": "R",
+    "verificationStatus": "verified",
+    "setId": "encore-1",
+    "sourceKey": "E1-14_R",
+    "status": "active",
+    "source": {
+      "url": "https://dcd.aikatsu.com/encore/cardlist/?search=true&series=629001&display=3&sort=1",
+      "acquiredAt": "2026-10-05T06:02:49.529621+00:00",
+      "sourceSeriesId": "629001"
+    },
+    "metadata": {
+      "name": null,
+      "part": null,
+      "category": null,
+      "brand": null,
+      "availabilityText": null
+    },
+    "imageUrl": "/cards/E1-14_R.webp",
+    "imageBackUrl": "/cards/E1-14_R_b.webp"
+  },
+  {
+    "id": "e1-15",
+    "number": "E1-15",
+    "name": "名称未確認",
+    "rarity": "R",
+    "verificationStatus": "verified",
+    "setId": "encore-1",
+    "sourceKey": "E1-15_R",
+    "status": "active",
+    "source": {
+      "url": "https://dcd.aikatsu.com/encore/cardlist/?search=true&series=629001&display=3&sort=1",
+      "acquiredAt": "2026-10-05T06:02:49.529621+00:00",
+      "sourceSeriesId": "629001"
+    },
+    "metadata": {
+      "name": null,
+      "part": null,
+      "category": null,
+      "brand": null,
+      "availabilityText": null
+    },
+    "imageUrl": "/cards/E1-15_R.webp",
+    "imageBackUrl": "/cards/E1-15_R_b.webp"
+  },
+  {
+    "id": "e1-16",
+    "number": "E1-16",
+    "name": "名称未確認",
+    "rarity": "R",
+    "verificationStatus": "verified",
+    "setId": "encore-1",
+    "sourceKey": "E1-16_R",
+    "status": "active",
+    "source": {
+      "url": "https://dcd.aikatsu.com/encore/cardlist/?search=true&series=629001&display=3&sort=1",
+      "acquiredAt": "2026-10-05T06:02:49.529621+00:00",
+      "sourceSeriesId": "629001"
+    },
+    "metadata": {
+      "name": null,
+      "part": null,
+      "category": null,
+      "brand": null,
+      "availabilityText": null
+    },
+    "imageUrl": "/cards/E1-16_R.webp",
+    "imageBackUrl": "/cards/E1-16_R_b.webp"
+  },
+  {
+    "id": "e1-17",
+    "number": "E1-17",
+    "name": "名称未確認",
+    "rarity": "R",
+    "verificationStatus": "verified",
+    "setId": "encore-1",
+    "sourceKey": "E1-17_R",
+    "status": "active",
+    "source": {
+      "url": "https://dcd.aikatsu.com/encore/cardlist/?search=true&series=629001&display=3&sort=1",
+      "acquiredAt": "2026-10-05T06:02:49.529621+00:00",
+      "sourceSeriesId": "629001"
+    },
+    "metadata": {
+      "name": null,
+      "part": null,
+      "category": null,
+      "brand": null,
+      "availabilityText": null
+    },
+    "imageUrl": "/cards/E1-17_R.webp",
+    "imageBackUrl": "/cards/E1-17_R_b.webp"
+  },
+  {
+    "id": "e1-18",
+    "number": "E1-18",
+    "name": "名称未確認",
+    "rarity": "R",
+    "verificationStatus": "verified",
+    "setId": "encore-1",
+    "sourceKey": "E1-18_R",
+    "status": "active",
+    "source": {
+      "url": "https://dcd.aikatsu.com/encore/cardlist/?search=true&series=629001&display=3&sort=1",
+      "acquiredAt": "2026-10-05T06:02:49.529621+00:00",
+      "sourceSeriesId": "629001"
+    },
+    "metadata": {
+      "name": null,
+      "part": null,
+      "category": null,
+      "brand": null,
+      "availabilityText": null
+    },
+    "imageUrl": "/cards/E1-18_R.webp",
+    "imageBackUrl": "/cards/E1-18_R_b.webp"
+  },
+  {
+    "id": "e1-19",
+    "number": "E1-19",
+    "name": "名称未確認",
+    "rarity": "R",
+    "verificationStatus": "verified",
+    "setId": "encore-1",
+    "sourceKey": "E1-19_R",
+    "status": "active",
+    "source": {
+      "url": "https://dcd.aikatsu.com/encore/cardlist/?search=true&series=629001&display=3&sort=1",
+      "acquiredAt": "2026-10-05T06:02:49.529621+00:00",
+      "sourceSeriesId": "629001"
+    },
+    "metadata": {
+      "name": null,
+      "part": null,
+      "category": null,
+      "brand": null,
+      "availabilityText": null
+    },
+    "imageUrl": "/cards/E1-19_R.webp",
+    "imageBackUrl": "/cards/E1-19_R_b.webp"
+  },
+  {
+    "id": "e1-20",
+    "number": "E1-20",
+    "name": "名称未確認",
+    "rarity": "R",
+    "verificationStatus": "verified",
+    "setId": "encore-1",
+    "sourceKey": "E1-20_R",
+    "status": "active",
+    "source": {
+      "url": "https://dcd.aikatsu.com/encore/cardlist/?search=true&series=629001&display=3&sort=1",
+      "acquiredAt": "2026-10-05T06:02:49.529621+00:00",
+      "sourceSeriesId": "629001"
+    },
+    "metadata": {
+      "name": null,
+      "part": null,
+      "category": null,
+      "brand": null,
+      "availabilityText": null
+    },
+    "imageUrl": "/cards/E1-20_R.webp",
+    "imageBackUrl": "/cards/E1-20_R_b.webp"
+  },
+  {
+    "id": "e1-21",
+    "number": "E1-21",
+    "name": "名称未確認",
+    "rarity": "N",
+    "verificationStatus": "verified",
+    "setId": "encore-1",
+    "sourceKey": "E1-21_N",
+    "status": "active",
+    "source": {
+      "url": "https://dcd.aikatsu.com/encore/cardlist/?search=true&series=629001&display=3&sort=1",
+      "acquiredAt": "2026-10-05T06:02:49.529621+00:00",
+      "sourceSeriesId": "629001"
+    },
+    "metadata": {
+      "name": null,
+      "part": null,
+      "category": null,
+      "brand": null,
+      "availabilityText": null
+    },
+    "imageUrl": "/cards/E1-21_N.webp",
+    "imageBackUrl": "/cards/E1-21_N_b.webp"
+  },
+  {
+    "id": "e1-22",
+    "number": "E1-22",
+    "name": "名称未確認",
+    "rarity": "N",
+    "verificationStatus": "verified",
+    "setId": "encore-1",
+    "sourceKey": "E1-22_N",
+    "status": "active",
+    "source": {
+      "url": "https://dcd.aikatsu.com/encore/cardlist/?search=true&series=629001&display=3&sort=1",
+      "acquiredAt": "2026-10-05T06:02:49.529621+00:00",
+      "sourceSeriesId": "629001"
+    },
+    "metadata": {
+      "name": null,
+      "part": null,
+      "category": null,
+      "brand": null,
+      "availabilityText": null
+    },
+    "imageUrl": "/cards/E1-22_N.webp",
+    "imageBackUrl": "/cards/E1-22_N_b.webp"
+  },
+  {
+    "id": "e1-23",
+    "number": "E1-23",
+    "name": "名称未確認",
+    "rarity": "N",
+    "verificationStatus": "verified",
+    "setId": "encore-1",
+    "sourceKey": "E1-23_N",
+    "status": "active",
+    "source": {
+      "url": "https://dcd.aikatsu.com/encore/cardlist/?search=true&series=629001&display=3&sort=1",
+      "acquiredAt": "2026-10-05T06:02:49.529621+00:00",
+      "sourceSeriesId": "629001"
+    },
+    "metadata": {
+      "name": null,
+      "part": null,
+      "category": null,
+      "brand": null,
+      "availabilityText": null
+    },
+    "imageUrl": "/cards/E1-23_N.webp",
+    "imageBackUrl": "/cards/E1-23_N_b.webp"
+  },
+  {
+    "id": "e1-24",
+    "number": "E1-24",
+    "name": "名称未確認",
+    "rarity": "N",
+    "verificationStatus": "verified",
+    "setId": "encore-1",
+    "sourceKey": "E1-24_N",
+    "status": "active",
+    "source": {
+      "url": "https://dcd.aikatsu.com/encore/cardlist/?search=true&series=629001&display=3&sort=1",
+      "acquiredAt": "2026-10-05T06:02:49.529621+00:00",
+      "sourceSeriesId": "629001"
+    },
+    "metadata": {
+      "name": null,
+      "part": null,
+      "category": null,
+      "brand": null,
+      "availabilityText": null
+    },
+    "imageUrl": "/cards/E1-24_N.webp",
+    "imageBackUrl": "/cards/E1-24_N_b.webp"
+  },
+  {
+    "id": "e1-25",
+    "number": "E1-25",
+    "name": "名称未確認",
+    "rarity": "N",
+    "verificationStatus": "verified",
+    "setId": "encore-1",
+    "sourceKey": "E1-25_N",
+    "status": "active",
+    "source": {
+      "url": "https://dcd.aikatsu.com/encore/cardlist/?search=true&series=629001&display=3&sort=1",
+      "acquiredAt": "2026-10-05T06:02:49.529621+00:00",
+      "sourceSeriesId": "629001"
+    },
+    "metadata": {
+      "name": null,
+      "part": null,
+      "category": null,
+      "brand": null,
+      "availabilityText": null
+    },
+    "imageUrl": "/cards/E1-25_N.webp",
+    "imageBackUrl": "/cards/E1-25_N_b.webp"
+  },
+  {
+    "id": "e1-26",
+    "number": "E1-26",
+    "name": "名称未確認",
+    "rarity": "N",
+    "verificationStatus": "verified",
+    "setId": "encore-1",
+    "sourceKey": "E1-26_N",
+    "status": "active",
+    "source": {
+      "url": "https://dcd.aikatsu.com/encore/cardlist/?search=true&series=629001&display=3&sort=1",
+      "acquiredAt": "2026-10-05T06:02:49.529621+00:00",
+      "sourceSeriesId": "629001"
+    },
+    "metadata": {
+      "name": null,
+      "part": null,
+      "category": null,
+      "brand": null,
+      "availabilityText": null
+    },
+    "imageUrl": "/cards/E1-26_N.webp",
+    "imageBackUrl": "/cards/E1-26_N_b.webp"
+  },
+  {
+    "id": "e1-27",
+    "number": "E1-27",
+    "name": "名称未確認",
+    "rarity": "N",
+    "verificationStatus": "verified",
+    "setId": "encore-1",
+    "sourceKey": "E1-27_N",
+    "status": "active",
+    "source": {
+      "url": "https://dcd.aikatsu.com/encore/cardlist/?search=true&series=629001&display=3&sort=1",
+      "acquiredAt": "2026-10-05T06:02:49.529621+00:00",
+      "sourceSeriesId": "629001"
+    },
+    "metadata": {
+      "name": null,
+      "part": null,
+      "category": null,
+      "brand": null,
+      "availabilityText": null
+    },
+    "imageUrl": "/cards/E1-27_N.webp",
+    "imageBackUrl": "/cards/E1-27_N_b.webp"
+  },
+  {
+    "id": "e1-28",
+    "number": "E1-28",
+    "name": "名称未確認",
+    "rarity": "N",
+    "verificationStatus": "verified",
+    "setId": "encore-1",
+    "sourceKey": "E1-28_N",
+    "status": "active",
+    "source": {
+      "url": "https://dcd.aikatsu.com/encore/cardlist/?search=true&series=629001&display=3&sort=1",
+      "acquiredAt": "2026-10-05T06:02:49.529621+00:00",
+      "sourceSeriesId": "629001"
+    },
+    "metadata": {
+      "name": null,
+      "part": null,
+      "category": null,
+      "brand": null,
+      "availabilityText": null
+    },
+    "imageUrl": "/cards/E1-28_N.webp",
+    "imageBackUrl": "/cards/E1-28_N_b.webp"
+  },
+  {
+    "id": "e1-29",
+    "number": "E1-29",
+    "name": "名称未確認",
+    "rarity": "N",
+    "verificationStatus": "verified",
+    "setId": "encore-1",
+    "sourceKey": "E1-29_N",
+    "status": "active",
+    "source": {
+      "url": "https://dcd.aikatsu.com/encore/cardlist/?search=true&series=629001&display=3&sort=1",
+      "acquiredAt": "2026-10-05T06:02:49.529621+00:00",
+      "sourceSeriesId": "629001"
+    },
+    "metadata": {
+      "name": null,
+      "part": null,
+      "category": null,
+      "brand": null,
+      "availabilityText": null
+    },
+    "imageUrl": "/cards/E1-29_N.webp",
+    "imageBackUrl": "/cards/E1-29_N_b.webp"
+  },
+  {
+    "id": "e1-30",
+    "number": "E1-30",
+    "name": "名称未確認",
+    "rarity": "ER",
+    "verificationStatus": "verified",
+    "setId": "encore-1",
+    "sourceKey": "E1-30_ER",
+    "status": "active",
+    "source": {
+      "url": "https://dcd.aikatsu.com/encore/cardlist/?search=true&series=629001&display=3&sort=1",
+      "acquiredAt": "2026-10-05T06:02:49.529621+00:00",
+      "sourceSeriesId": "629001"
+    },
+    "metadata": {
+      "name": null,
+      "part": null,
+      "category": null,
+      "brand": null,
+      "availabilityText": null
+    },
+    "imageUrl": "/cards/E1-30_ER.webp",
+    "imageBackUrl": "/cards/E1-30_ER_b.webp"
+  },
+  {
+    "id": "e1-31",
+    "number": "E1-31",
+    "name": "名称未確認",
+    "rarity": "ER",
+    "verificationStatus": "verified",
+    "setId": "encore-1",
+    "sourceKey": "E1-31_ER",
+    "status": "active",
+    "source": {
+      "url": "https://dcd.aikatsu.com/encore/cardlist/?search=true&series=629001&display=3&sort=1",
+      "acquiredAt": "2026-10-05T06:02:49.529621+00:00",
+      "sourceSeriesId": "629001"
+    },
+    "metadata": {
+      "name": null,
+      "part": null,
+      "category": null,
+      "brand": null,
+      "availabilityText": null
+    },
+    "imageUrl": "/cards/E1-31_ER.webp",
+    "imageBackUrl": "/cards/E1-31_ER_b.webp"
+  },
+  {
+    "id": "e1-32",
+    "number": "E1-32",
+    "name": "名称未確認",
+    "rarity": "ER",
+    "verificationStatus": "verified",
+    "setId": "encore-1",
+    "sourceKey": "E1-32_ER",
+    "status": "active",
+    "source": {
+      "url": "https://dcd.aikatsu.com/encore/cardlist/?search=true&series=629001&display=3&sort=1",
+      "acquiredAt": "2026-10-05T06:02:49.529621+00:00",
+      "sourceSeriesId": "629001"
+    },
+    "metadata": {
+      "name": null,
+      "part": null,
+      "category": null,
+      "brand": null,
+      "availabilityText": null
+    },
+    "imageUrl": "/cards/E1-32_ER.webp",
+    "imageBackUrl": "/cards/E1-32_ER_b.webp"
+  },
+  {
+    "id": "e1-33",
+    "number": "E1-33",
+    "name": "名称未確認",
+    "rarity": "PR",
+    "verificationStatus": "verified",
+    "setId": "encore-1",
+    "sourceKey": "E1-33_PR",
+    "status": "active",
+    "source": {
+      "url": "https://dcd.aikatsu.com/encore/cardlist/?search=true&series=629001&display=3&sort=1",
+      "acquiredAt": "2026-10-05T06:02:49.529621+00:00",
+      "sourceSeriesId": "629001"
+    },
+    "metadata": {
+      "name": null,
+      "part": null,
+      "category": null,
+      "brand": null,
+      "availabilityText": null
+    },
+    "imageUrl": "/cards/E1-33_PR.webp",
+    "imageBackUrl": "/cards/E1-33_PR_b.webp"
+  },
+  {
+    "id": "e1-34",
+    "number": "E1-34",
+    "name": "名称未確認",
+    "rarity": "PR",
+    "verificationStatus": "verified",
+    "setId": "encore-1",
+    "sourceKey": "E1-34_PR",
+    "status": "active",
+    "source": {
+      "url": "https://dcd.aikatsu.com/encore/cardlist/?search=true&series=629001&display=3&sort=1",
+      "acquiredAt": "2026-10-05T06:02:49.529621+00:00",
+      "sourceSeriesId": "629001"
+    },
+    "metadata": {
+      "name": null,
+      "part": null,
+      "category": null,
+      "brand": null,
+      "availabilityText": null
+    },
+    "imageUrl": "/cards/E1-34_PR.webp",
+    "imageBackUrl": "/cards/E1-34_PR_b.webp"
+  },
+  {
+    "id": "e1-35",
+    "number": "E1-35",
+    "name": "名称未確認",
+    "rarity": "PR",
+    "verificationStatus": "verified",
+    "setId": "encore-1",
+    "sourceKey": "E1-35_PR",
+    "status": "active",
+    "source": {
+      "url": "https://dcd.aikatsu.com/encore/cardlist/?search=true&series=629001&display=3&sort=1",
+      "acquiredAt": "2026-10-05T06:02:49.529621+00:00",
+      "sourceSeriesId": "629001"
+    },
+    "metadata": {
+      "name": null,
+      "part": null,
+      "category": null,
+      "brand": null,
+      "availabilityText": null
+    },
+    "imageUrl": "/cards/E1-35_PR.webp",
+    "imageBackUrl": "/cards/E1-35_PR_b.webp"
+  },
+  {
+    "id": "e1-36",
+    "number": "E1-36",
+    "name": "名称未確認",
+    "rarity": "PR",
+    "verificationStatus": "verified",
+    "setId": "encore-1",
+    "sourceKey": "E1-36_PR",
+    "status": "active",
+    "source": {
+      "url": "https://dcd.aikatsu.com/encore/cardlist/?search=true&series=629001&display=3&sort=1",
+      "acquiredAt": "2026-10-05T06:02:49.529621+00:00",
+      "sourceSeriesId": "629001"
+    },
+    "metadata": {
+      "name": null,
+      "part": null,
+      "category": null,
+      "brand": null,
+      "availabilityText": null
+    },
+    "imageUrl": "/cards/E1-36_PR.webp",
+    "imageBackUrl": "/cards/E1-36_PR_b.webp"
+  },
+  {
+    "id": "e1-37",
+    "number": "E1-37",
+    "name": "名称未確認",
+    "rarity": "R",
+    "verificationStatus": "verified",
+    "setId": "encore-1",
+    "sourceKey": "E1-37_R",
+    "status": "active",
+    "source": {
+      "url": "https://dcd.aikatsu.com/encore/cardlist/?search=true&series=629001&display=3&sort=1",
+      "acquiredAt": "2026-10-05T06:02:49.529621+00:00",
+      "sourceSeriesId": "629001"
+    },
+    "metadata": {
+      "name": null,
+      "part": null,
+      "category": null,
+      "brand": null,
+      "availabilityText": null
+    },
+    "imageUrl": "/cards/E1-37_R.webp",
+    "imageBackUrl": "/cards/E1-37_R_b.webp"
+  },
+  {
+    "id": "e1-38",
+    "number": "E1-38",
+    "name": "名称未確認",
+    "rarity": "R",
+    "verificationStatus": "verified",
+    "setId": "encore-1",
+    "sourceKey": "E1-38_R",
+    "status": "active",
+    "source": {
+      "url": "https://dcd.aikatsu.com/encore/cardlist/?search=true&series=629001&display=3&sort=1",
+      "acquiredAt": "2026-10-05T06:02:49.529621+00:00",
+      "sourceSeriesId": "629001"
+    },
+    "metadata": {
+      "name": null,
+      "part": null,
+      "category": null,
+      "brand": null,
+      "availabilityText": null
+    },
+    "imageUrl": "/cards/E1-38_R.webp",
+    "imageBackUrl": "/cards/E1-38_R_b.webp"
+  },
+  {
+    "id": "e1-39",
+    "number": "E1-39",
+    "name": "名称未確認",
+    "rarity": "R",
+    "verificationStatus": "verified",
+    "setId": "encore-1",
+    "sourceKey": "E1-39_R",
+    "status": "active",
+    "source": {
+      "url": "https://dcd.aikatsu.com/encore/cardlist/?search=true&series=629001&display=3&sort=1",
+      "acquiredAt": "2026-10-05T06:02:49.529621+00:00",
+      "sourceSeriesId": "629001"
+    },
+    "metadata": {
+      "name": null,
+      "part": null,
+      "category": null,
+      "brand": null,
+      "availabilityText": null
+    },
+    "imageUrl": "/cards/E1-39_R.webp",
+    "imageBackUrl": "/cards/E1-39_R_b.webp"
+  },
+  {
+    "id": "e1-40",
+    "number": "E1-40",
+    "name": "名称未確認",
+    "rarity": "R",
+    "verificationStatus": "verified",
+    "setId": "encore-1",
+    "sourceKey": "E1-40_R",
+    "status": "active",
+    "source": {
+      "url": "https://dcd.aikatsu.com/encore/cardlist/?search=true&series=629001&display=3&sort=1",
+      "acquiredAt": "2026-10-05T06:02:49.529621+00:00",
+      "sourceSeriesId": "629001"
+    },
+    "metadata": {
+      "name": null,
+      "part": null,
+      "category": null,
+      "brand": null,
+      "availabilityText": null
+    },
+    "imageUrl": "/cards/E1-40_R.webp",
+    "imageBackUrl": "/cards/E1-40_R_b.webp"
+  },
+  {
+    "id": "e1-41",
+    "number": "E1-41",
+    "name": "名称未確認",
+    "rarity": "N",
+    "verificationStatus": "verified",
+    "setId": "encore-1",
+    "sourceKey": "E1-41_N",
+    "status": "active",
+    "source": {
+      "url": "https://dcd.aikatsu.com/encore/cardlist/?search=true&series=629001&display=3&sort=1",
+      "acquiredAt": "2026-10-05T06:02:49.529621+00:00",
+      "sourceSeriesId": "629001"
+    },
+    "metadata": {
+      "name": null,
+      "part": null,
+      "category": null,
+      "brand": null,
+      "availabilityText": null
+    },
+    "imageUrl": "/cards/E1-41_N.webp",
+    "imageBackUrl": "/cards/E1-41_N_b.webp"
+  },
+  {
+    "id": "e1-42",
+    "number": "E1-42",
+    "name": "名称未確認",
+    "rarity": "N",
+    "verificationStatus": "verified",
+    "setId": "encore-1",
+    "sourceKey": "E1-42_N",
+    "status": "active",
+    "source": {
+      "url": "https://dcd.aikatsu.com/encore/cardlist/?search=true&series=629001&display=3&sort=1",
+      "acquiredAt": "2026-10-05T06:02:49.529621+00:00",
+      "sourceSeriesId": "629001"
+    },
+    "metadata": {
+      "name": null,
+      "part": null,
+      "category": null,
+      "brand": null,
+      "availabilityText": null
+    },
+    "imageUrl": "/cards/E1-42_N.webp",
+    "imageBackUrl": "/cards/E1-42_N_b.webp"
+  },
+  {
+    "id": "e1-43",
+    "number": "E1-43",
+    "name": "名称未確認",
+    "rarity": "N",
+    "verificationStatus": "verified",
+    "setId": "encore-1",
+    "sourceKey": "E1-43_N",
+    "status": "active",
+    "source": {
+      "url": "https://dcd.aikatsu.com/encore/cardlist/?search=true&series=629001&display=3&sort=1",
+      "acquiredAt": "2026-10-05T06:02:49.529621+00:00",
+      "sourceSeriesId": "629001"
+    },
+    "metadata": {
+      "name": null,
+      "part": null,
+      "category": null,
+      "brand": null,
+      "availabilityText": null
+    },
+    "imageUrl": "/cards/E1-43_N.webp",
+    "imageBackUrl": "/cards/E1-43_N_b.webp"
+  },
+  {
+    "id": "e1-44",
+    "number": "E1-44",
+    "name": "名称未確認",
+    "rarity": "N",
+    "verificationStatus": "verified",
+    "setId": "encore-1",
+    "sourceKey": "E1-44_N",
+    "status": "active",
+    "source": {
+      "url": "https://dcd.aikatsu.com/encore/cardlist/?search=true&series=629001&display=3&sort=1",
+      "acquiredAt": "2026-10-05T06:02:49.529621+00:00",
+      "sourceSeriesId": "629001"
+    },
+    "metadata": {
+      "name": null,
+      "part": null,
+      "category": null,
+      "brand": null,
+      "availabilityText": null
+    },
+    "imageUrl": "/cards/E1-44_N.webp",
+    "imageBackUrl": "/cards/E1-44_N_b.webp"
+  },
+  {
+    "id": "e1-45",
+    "number": "E1-45",
+    "name": "名称未確認",
+    "rarity": "N",
+    "verificationStatus": "verified",
+    "setId": "encore-1",
+    "sourceKey": "E1-45_N",
+    "status": "active",
+    "source": {
+      "url": "https://dcd.aikatsu.com/encore/cardlist/?search=true&series=629001&display=3&sort=1",
+      "acquiredAt": "2026-10-05T06:02:49.529621+00:00",
+      "sourceSeriesId": "629001"
+    },
+    "metadata": {
+      "name": null,
+      "part": null,
+      "category": null,
+      "brand": null,
+      "availabilityText": null
+    },
+    "imageUrl": "/cards/E1-45_N.webp",
+    "imageBackUrl": "/cards/E1-45_N_b.webp"
+  },
+  {
+    "id": "e1-46",
+    "number": "E1-46",
+    "name": "名称未確認",
+    "rarity": "N",
+    "verificationStatus": "verified",
+    "setId": "encore-1",
+    "sourceKey": "E1-46_N",
+    "status": "active",
+    "source": {
+      "url": "https://dcd.aikatsu.com/encore/cardlist/?search=true&series=629001&display=3&sort=1",
+      "acquiredAt": "2026-10-05T06:02:49.529621+00:00",
+      "sourceSeriesId": "629001"
+    },
+    "metadata": {
+      "name": null,
+      "part": null,
+      "category": null,
+      "brand": null,
+      "availabilityText": null
+    },
+    "imageUrl": "/cards/E1-46_N.webp",
+    "imageBackUrl": "/cards/E1-46_N_b.webp"
+  },
+  {
+    "id": "e1-47",
+    "number": "E1-47",
+    "name": "名称未確認",
+    "rarity": "N",
+    "verificationStatus": "verified",
+    "setId": "encore-1",
+    "sourceKey": "E1-47_N",
+    "status": "active",
+    "source": {
+      "url": "https://dcd.aikatsu.com/encore/cardlist/?search=true&series=629001&display=3&sort=1",
+      "acquiredAt": "2026-10-05T06:02:49.529621+00:00",
+      "sourceSeriesId": "629001"
+    },
+    "metadata": {
+      "name": null,
+      "part": null,
+      "category": null,
+      "brand": null,
+      "availabilityText": null
+    },
+    "imageUrl": "/cards/E1-47_N.webp",
+    "imageBackUrl": "/cards/E1-47_N_b.webp"
+  },
+  {
+    "id": "e1-48",
+    "number": "E1-48",
+    "name": "名称未確認",
+    "rarity": "N",
+    "verificationStatus": "verified",
+    "setId": "encore-1",
+    "sourceKey": "E1-48_N",
+    "status": "active",
+    "source": {
+      "url": "https://dcd.aikatsu.com/encore/cardlist/?search=true&series=629001&display=3&sort=1",
+      "acquiredAt": "2026-10-05T06:02:49.529621+00:00",
+      "sourceSeriesId": "629001"
+    },
+    "metadata": {
+      "name": null,
+      "part": null,
+      "category": null,
+      "brand": null,
+      "availabilityText": null
+    },
+    "imageUrl": "/cards/E1-48_N.webp",
+    "imageBackUrl": "/cards/E1-48_N_b.webp"
+  },
+  {
+    "id": "e1-49",
+    "number": "E1-49",
+    "name": "名称未確認",
+    "rarity": "N",
+    "verificationStatus": "verified",
+    "setId": "encore-1",
+    "sourceKey": "E1-49_N",
+    "status": "active",
+    "source": {
+      "url": "https://dcd.aikatsu.com/encore/cardlist/?search=true&series=629001&display=3&sort=1",
+      "acquiredAt": "2026-10-05T06:02:49.529621+00:00",
+      "sourceSeriesId": "629001"
+    },
+    "metadata": {
+      "name": null,
+      "part": null,
+      "category": null,
+      "brand": null,
+      "availabilityText": null
+    },
+    "imageUrl": "/cards/E1-49_N.webp",
+    "imageBackUrl": "/cards/E1-49_N_b.webp"
+  },
+  {
+    "id": "e1-50",
+    "number": "E1-50",
+    "name": "名称未確認",
+    "rarity": "ER",
+    "verificationStatus": "verified",
+    "setId": "encore-1",
+    "sourceKey": "E1-50_ER",
+    "status": "active",
+    "source": {
+      "url": "https://dcd.aikatsu.com/encore/cardlist/?search=true&series=629001&display=3&sort=1",
+      "acquiredAt": "2026-10-05T06:02:49.529621+00:00",
+      "sourceSeriesId": "629001"
+    },
+    "metadata": {
+      "name": null,
+      "part": null,
+      "category": null,
+      "brand": null,
+      "availabilityText": null
+    },
+    "imageUrl": "/cards/E1-50_ER.webp",
+    "imageBackUrl": "/cards/E1-50_ER_b.webp"
+  },
+  {
+    "id": "e1-51",
+    "number": "E1-51",
+    "name": "名称未確認",
+    "rarity": "PR",
+    "verificationStatus": "verified",
+    "setId": "encore-1",
+    "sourceKey": "E1-51_PR",
+    "status": "active",
+    "source": {
+      "url": "https://dcd.aikatsu.com/encore/cardlist/?search=true&series=629001&display=3&sort=1",
+      "acquiredAt": "2026-10-05T06:02:49.529621+00:00",
+      "sourceSeriesId": "629001"
+    },
+    "metadata": {
+      "name": null,
+      "part": null,
+      "category": null,
+      "brand": null,
+      "availabilityText": null
+    },
+    "imageUrl": "/cards/E1-51_PR.webp",
+    "imageBackUrl": "/cards/E1-51_PR_b.webp"
+  },
+  {
+    "id": "e1-52",
+    "number": "E1-52",
+    "name": "名称未確認",
+    "rarity": "PR",
+    "verificationStatus": "verified",
+    "setId": "encore-1",
+    "sourceKey": "E1-52_PR",
+    "status": "active",
+    "source": {
+      "url": "https://dcd.aikatsu.com/encore/cardlist/?search=true&series=629001&display=3&sort=1",
+      "acquiredAt": "2026-10-05T06:02:49.529621+00:00",
+      "sourceSeriesId": "629001"
+    },
+    "metadata": {
+      "name": null,
+      "part": null,
+      "category": null,
+      "brand": null,
+      "availabilityText": null
+    },
+    "imageUrl": "/cards/E1-52_PR.webp",
+    "imageBackUrl": "/cards/E1-52_PR_b.webp"
+  },
+  {
+    "id": "e1-53",
+    "number": "E1-53",
+    "name": "名称未確認",
+    "rarity": "R",
+    "verificationStatus": "verified",
+    "setId": "encore-1",
+    "sourceKey": "E1-53_R",
+    "status": "active",
+    "source": {
+      "url": "https://dcd.aikatsu.com/encore/cardlist/?search=true&series=629001&display=3&sort=1",
+      "acquiredAt": "2026-10-05T06:02:49.529621+00:00",
+      "sourceSeriesId": "629001"
+    },
+    "metadata": {
+      "name": null,
+      "part": null,
+      "category": null,
+      "brand": null,
+      "availabilityText": null
+    },
+    "imageUrl": "/cards/E1-53_R.webp",
+    "imageBackUrl": "/cards/E1-53_R_b.webp"
+  },
+  {
+    "id": "e1-54",
+    "number": "E1-54",
+    "name": "名称未確認",
+    "rarity": "R",
+    "verificationStatus": "verified",
+    "setId": "encore-1",
+    "sourceKey": "E1-54_R",
+    "status": "active",
+    "source": {
+      "url": "https://dcd.aikatsu.com/encore/cardlist/?search=true&series=629001&display=3&sort=1",
+      "acquiredAt": "2026-10-05T06:02:49.529621+00:00",
+      "sourceSeriesId": "629001"
+    },
+    "metadata": {
+      "name": null,
+      "part": null,
+      "category": null,
+      "brand": null,
+      "availabilityText": null
+    },
+    "imageUrl": "/cards/E1-54_R.webp",
+    "imageBackUrl": "/cards/E1-54_R_b.webp"
+  },
+  {
+    "id": "e1-55",
+    "number": "E1-55",
+    "name": "名称未確認",
+    "rarity": "R",
+    "verificationStatus": "verified",
+    "setId": "encore-1",
+    "sourceKey": "E1-55_R",
+    "status": "active",
+    "source": {
+      "url": "https://dcd.aikatsu.com/encore/cardlist/?search=true&series=629001&display=3&sort=1",
+      "acquiredAt": "2026-10-05T06:02:49.529621+00:00",
+      "sourceSeriesId": "629001"
+    },
+    "metadata": {
+      "name": null,
+      "part": null,
+      "category": null,
+      "brand": null,
+      "availabilityText": null
+    },
+    "imageUrl": "/cards/E1-55_R.webp",
+    "imageBackUrl": "/cards/E1-55_R_b.webp"
+  },
+  {
+    "id": "e1-56",
+    "number": "E1-56",
+    "name": "名称未確認",
+    "rarity": "R",
+    "verificationStatus": "verified",
+    "setId": "encore-1",
+    "sourceKey": "E1-56_R",
+    "status": "active",
+    "source": {
+      "url": "https://dcd.aikatsu.com/encore/cardlist/?search=true&series=629001&display=3&sort=1",
+      "acquiredAt": "2026-10-05T06:02:49.529621+00:00",
+      "sourceSeriesId": "629001"
+    },
+    "metadata": {
+      "name": null,
+      "part": null,
+      "category": null,
+      "brand": null,
+      "availabilityText": null
+    },
+    "imageUrl": "/cards/E1-56_R.webp",
+    "imageBackUrl": "/cards/E1-56_R_b.webp"
+  },
+  {
+    "id": "e1-57",
+    "number": "E1-57",
+    "name": "名称未確認",
+    "rarity": "R",
+    "verificationStatus": "verified",
+    "setId": "encore-1",
+    "sourceKey": "E1-57_R",
+    "status": "active",
+    "source": {
+      "url": "https://dcd.aikatsu.com/encore/cardlist/?search=true&series=629001&display=3&sort=1",
+      "acquiredAt": "2026-10-05T06:02:49.529621+00:00",
+      "sourceSeriesId": "629001"
+    },
+    "metadata": {
+      "name": null,
+      "part": null,
+      "category": null,
+      "brand": null,
+      "availabilityText": null
+    },
+    "imageUrl": "/cards/E1-57_R.webp",
+    "imageBackUrl": "/cards/E1-57_R_b.webp"
+  },
+  {
+    "id": "e1-58",
+    "number": "E1-58",
+    "name": "名称未確認",
+    "rarity": "R",
+    "verificationStatus": "verified",
+    "setId": "encore-1",
+    "sourceKey": "E1-58_R",
+    "status": "active",
+    "source": {
+      "url": "https://dcd.aikatsu.com/encore/cardlist/?search=true&series=629001&display=3&sort=1",
+      "acquiredAt": "2026-10-05T06:02:49.529621+00:00",
+      "sourceSeriesId": "629001"
+    },
+    "metadata": {
+      "name": null,
+      "part": null,
+      "category": null,
+      "brand": null,
+      "availabilityText": null
+    },
+    "imageUrl": "/cards/E1-58_R.webp",
+    "imageBackUrl": "/cards/E1-58_R_b.webp"
+  },
+  {
+    "id": "e1-59",
+    "number": "E1-59",
+    "name": "名称未確認",
+    "rarity": "R",
+    "verificationStatus": "verified",
+    "setId": "encore-1",
+    "sourceKey": "E1-59_R",
+    "status": "active",
+    "source": {
+      "url": "https://dcd.aikatsu.com/encore/cardlist/?search=true&series=629001&display=3&sort=1",
+      "acquiredAt": "2026-10-05T06:02:49.529621+00:00",
+      "sourceSeriesId": "629001"
+    },
+    "metadata": {
+      "name": null,
+      "part": null,
+      "category": null,
+      "brand": null,
+      "availabilityText": null
+    },
+    "imageUrl": "/cards/E1-59_R.webp",
+    "imageBackUrl": "/cards/E1-59_R_b.webp"
+  },
+  {
+    "id": "e1-60",
+    "number": "E1-60",
+    "name": "名称未確認",
+    "rarity": "N",
+    "verificationStatus": "verified",
+    "setId": "encore-1",
+    "sourceKey": "E1-60_N",
+    "status": "active",
+    "source": {
+      "url": "https://dcd.aikatsu.com/encore/cardlist/?search=true&series=629001&display=3&sort=1",
+      "acquiredAt": "2026-10-05T06:02:49.529621+00:00",
+      "sourceSeriesId": "629001"
+    },
+    "metadata": {
+      "name": null,
+      "part": null,
+      "category": null,
+      "brand": null,
+      "availabilityText": null
+    },
+    "imageUrl": "/cards/E1-60_N.webp",
+    "imageBackUrl": "/cards/E1-60_N_b.webp"
+  },
+  {
+    "id": "e1-61",
+    "number": "E1-61",
+    "name": "名称未確認",
+    "rarity": "N",
+    "verificationStatus": "verified",
+    "setId": "encore-1",
+    "sourceKey": "E1-61_N",
+    "status": "active",
+    "source": {
+      "url": "https://dcd.aikatsu.com/encore/cardlist/?search=true&series=629001&display=3&sort=1",
+      "acquiredAt": "2026-10-05T06:02:49.529621+00:00",
+      "sourceSeriesId": "629001"
+    },
+    "metadata": {
+      "name": null,
+      "part": null,
+      "category": null,
+      "brand": null,
+      "availabilityText": null
+    },
+    "imageUrl": "/cards/E1-61_N.webp",
+    "imageBackUrl": "/cards/E1-61_N_b.webp"
+  },
+  {
+    "id": "e1-62",
+    "number": "E1-62",
+    "name": "名称未確認",
+    "rarity": "N",
+    "verificationStatus": "verified",
+    "setId": "encore-1",
+    "sourceKey": "E1-62_N",
+    "status": "active",
+    "source": {
+      "url": "https://dcd.aikatsu.com/encore/cardlist/?search=true&series=629001&display=3&sort=1",
+      "acquiredAt": "2026-10-05T06:02:49.529621+00:00",
+      "sourceSeriesId": "629001"
+    },
+    "metadata": {
+      "name": null,
+      "part": null,
+      "category": null,
+      "brand": null,
+      "availabilityText": null
+    },
+    "imageUrl": "/cards/E1-62_N.webp",
+    "imageBackUrl": "/cards/E1-62_N_b.webp"
+  },
+  {
+    "id": "e1-63",
+    "number": "E1-63",
+    "name": "名称未確認",
+    "rarity": "N",
+    "verificationStatus": "verified",
+    "setId": "encore-1",
+    "sourceKey": "E1-63_N",
+    "status": "active",
+    "source": {
+      "url": "https://dcd.aikatsu.com/encore/cardlist/?search=true&series=629001&display=3&sort=1",
+      "acquiredAt": "2026-10-05T06:02:49.529621+00:00",
+      "sourceSeriesId": "629001"
+    },
+    "metadata": {
+      "name": null,
+      "part": null,
+      "category": null,
+      "brand": null,
+      "availabilityText": null
+    },
+    "imageUrl": "/cards/E1-63_N.webp",
+    "imageBackUrl": "/cards/E1-63_N_b.webp"
+  },
+  {
+    "id": "e1-64",
+    "number": "E1-64",
+    "name": "名称未確認",
+    "rarity": "N",
+    "verificationStatus": "verified",
+    "setId": "encore-1",
+    "sourceKey": "E1-64_N",
+    "status": "active",
+    "source": {
+      "url": "https://dcd.aikatsu.com/encore/cardlist/?search=true&series=629001&display=3&sort=1",
+      "acquiredAt": "2026-10-05T06:02:49.529621+00:00",
+      "sourceSeriesId": "629001"
+    },
+    "metadata": {
+      "name": null,
+      "part": null,
+      "category": null,
+      "brand": null,
+      "availabilityText": null
+    },
+    "imageUrl": "/cards/E1-64_N.webp",
+    "imageBackUrl": "/cards/E1-64_N_b.webp"
+  },
+  {
+    "id": "e1-65",
+    "number": "E1-65",
+    "name": "名称未確認",
+    "rarity": "N",
+    "verificationStatus": "verified",
+    "setId": "encore-1",
+    "sourceKey": "E1-65_N",
+    "status": "active",
+    "source": {
+      "url": "https://dcd.aikatsu.com/encore/cardlist/?search=true&series=629001&display=3&sort=1",
+      "acquiredAt": "2026-10-05T06:02:49.529621+00:00",
+      "sourceSeriesId": "629001"
+    },
+    "metadata": {
+      "name": null,
+      "part": null,
+      "category": null,
+      "brand": null,
+      "availabilityText": null
+    },
+    "imageUrl": "/cards/E1-65_N.webp",
+    "imageBackUrl": "/cards/E1-65_N_b.webp"
+  },
+  {
+    "id": "e1-66",
+    "number": "E1-66",
+    "name": "名称未確認",
+    "rarity": "N",
+    "verificationStatus": "verified",
+    "setId": "encore-1",
+    "sourceKey": "E1-66_N",
+    "status": "active",
+    "source": {
+      "url": "https://dcd.aikatsu.com/encore/cardlist/?search=true&series=629001&display=3&sort=1",
+      "acquiredAt": "2026-10-05T06:02:49.529621+00:00",
+      "sourceSeriesId": "629001"
+    },
+    "metadata": {
+      "name": null,
+      "part": null,
+      "category": null,
+      "brand": null,
+      "availabilityText": null
+    },
+    "imageUrl": "/cards/E1-66_N.webp",
+    "imageBackUrl": "/cards/E1-66_N_b.webp"
+  },
+  {
+    "id": "e1-67",
+    "number": "E1-67",
+    "name": "名称未確認",
+    "rarity": "N",
+    "verificationStatus": "verified",
+    "setId": "encore-1",
+    "sourceKey": "E1-67_N",
+    "status": "active",
+    "source": {
+      "url": "https://dcd.aikatsu.com/encore/cardlist/?search=true&series=629001&display=3&sort=1",
+      "acquiredAt": "2026-10-05T06:02:49.529621+00:00",
+      "sourceSeriesId": "629001"
+    },
+    "metadata": {
+      "name": null,
+      "part": null,
+      "category": null,
+      "brand": null,
+      "availabilityText": null
+    },
+    "imageUrl": "/cards/E1-67_N.webp",
+    "imageBackUrl": "/cards/E1-67_N_b.webp"
+  },
+  {
+    "id": "e1-68",
+    "number": "E1-68",
+    "name": "名称未確認",
+    "rarity": "N",
+    "verificationStatus": "verified",
+    "setId": "encore-1",
+    "sourceKey": "E1-68_N",
+    "status": "active",
+    "source": {
+      "url": "https://dcd.aikatsu.com/encore/cardlist/?search=true&series=629001&display=3&sort=1",
+      "acquiredAt": "2026-10-05T06:02:49.529621+00:00",
+      "sourceSeriesId": "629001"
+    },
+    "metadata": {
+      "name": null,
+      "part": null,
+      "category": null,
+      "brand": null,
+      "availabilityText": null
+    },
+    "imageUrl": "/cards/E1-68_N.webp",
+    "imageBackUrl": "/cards/E1-68_N_b.webp"
+  },
+  {
+    "id": "e1-69",
+    "number": "E1-69",
+    "name": "名称未確認",
+    "rarity": "N",
+    "verificationStatus": "verified",
+    "setId": "encore-1",
+    "sourceKey": "E1-69_N",
+    "status": "active",
+    "source": {
+      "url": "https://dcd.aikatsu.com/encore/cardlist/?search=true&series=629001&display=3&sort=1",
+      "acquiredAt": "2026-10-05T06:02:49.529621+00:00",
+      "sourceSeriesId": "629001"
+    },
+    "metadata": {
+      "name": null,
+      "part": null,
+      "category": null,
+      "brand": null,
+      "availabilityText": null
+    },
+    "imageUrl": "/cards/E1-69_N.webp",
+    "imageBackUrl": "/cards/E1-69_N_b.webp"
+  },
+  {
+    "id": "e1-70",
+    "number": "E1-70",
+    "name": "名称未確認",
+    "rarity": "N",
+    "verificationStatus": "verified",
+    "setId": "encore-1",
+    "sourceKey": "E1-70_N",
+    "status": "active",
+    "source": {
+      "url": "https://dcd.aikatsu.com/encore/cardlist/?search=true&series=629001&display=3&sort=1",
+      "acquiredAt": "2026-10-05T06:02:49.529621+00:00",
+      "sourceSeriesId": "629001"
+    },
+    "metadata": {
+      "name": null,
+      "part": null,
+      "category": null,
+      "brand": null,
+      "availabilityText": null
+    },
+    "imageUrl": "/cards/E1-70_N.webp",
+    "imageBackUrl": "/cards/E1-70_N_b.webp"
+  },
+  {
+    "id": "e1-71",
+    "number": "E1-71",
+    "name": "名称未確認",
+    "rarity": "PR",
+    "verificationStatus": "verified",
+    "setId": "encore-1",
+    "sourceKey": "E1-71_PR",
+    "status": "active",
+    "source": {
+      "url": "https://dcd.aikatsu.com/encore/cardlist/?search=true&series=629001&display=3&sort=1",
+      "acquiredAt": "2026-10-05T06:02:49.529621+00:00",
+      "sourceSeriesId": "629001"
+    },
+    "metadata": {
+      "name": null,
+      "part": null,
+      "category": null,
+      "brand": null,
+      "availabilityText": null
+    },
+    "imageUrl": "/cards/E1-71_PR.webp",
+    "imageBackUrl": "/cards/E1-71_PR_b.webp"
+  },
+  {
+    "id": "e1-72",
+    "number": "E1-72",
+    "name": "名称未確認",
+    "rarity": "PR",
+    "verificationStatus": "verified",
+    "setId": "encore-1",
+    "sourceKey": "E1-72_PR",
+    "status": "active",
+    "source": {
+      "url": "https://dcd.aikatsu.com/encore/cardlist/?search=true&series=629001&display=3&sort=1",
+      "acquiredAt": "2026-10-05T06:02:49.529621+00:00",
+      "sourceSeriesId": "629001"
+    },
+    "metadata": {
+      "name": null,
+      "part": null,
+      "category": null,
+      "brand": null,
+      "availabilityText": null
+    },
+    "imageUrl": "/cards/E1-72_PR.webp",
+    "imageBackUrl": "/cards/E1-72_PR_b.webp"
+  },
+  {
+    "id": "e1-73",
+    "number": "E1-73",
+    "name": "名称未確認",
+    "rarity": "PR",
+    "verificationStatus": "verified",
+    "setId": "encore-1",
+    "sourceKey": "E1-73_PR",
+    "status": "active",
+    "source": {
+      "url": "https://dcd.aikatsu.com/encore/cardlist/?search=true&series=629001&display=3&sort=1",
+      "acquiredAt": "2026-10-05T06:02:49.529621+00:00",
+      "sourceSeriesId": "629001"
+    },
+    "metadata": {
+      "name": null,
+      "part": null,
+      "category": null,
+      "brand": null,
+      "availabilityText": null
+    },
+    "imageUrl": "/cards/E1-73_PR.webp",
+    "imageBackUrl": "/cards/E1-73_PR_b.webp"
+  },
+  {
+    "id": "e1-74",
+    "number": "E1-74",
+    "name": "名称未確認",
+    "rarity": "PR",
+    "verificationStatus": "verified",
+    "setId": "encore-1",
+    "sourceKey": "E1-74_PR",
+    "status": "active",
+    "source": {
+      "url": "https://dcd.aikatsu.com/encore/cardlist/?search=true&series=629001&display=3&sort=1",
+      "acquiredAt": "2026-10-05T06:02:49.529621+00:00",
+      "sourceSeriesId": "629001"
+    },
+    "metadata": {
+      "name": null,
+      "part": null,
+      "category": null,
+      "brand": null,
+      "availabilityText": null
+    },
+    "imageUrl": "/cards/E1-74_PR.webp",
+    "imageBackUrl": "/cards/E1-74_PR_b.webp"
+  },
+  {
+    "id": "e1-75",
+    "number": "E1-75",
+    "name": "名称未確認",
+    "rarity": "PR",
+    "verificationStatus": "verified",
+    "setId": "encore-1",
+    "sourceKey": "E1-75_PR",
+    "status": "active",
+    "source": {
+      "url": "https://dcd.aikatsu.com/encore/cardlist/?search=true&series=629001&display=3&sort=1",
+      "acquiredAt": "2026-10-05T06:02:49.529621+00:00",
+      "sourceSeriesId": "629001"
+    },
+    "metadata": {
+      "name": null,
+      "part": null,
+      "category": null,
+      "brand": null,
+      "availabilityText": null
+    },
+    "imageUrl": "/cards/E1-75_PR.webp",
+    "imageBackUrl": "/cards/E1-75_PR_b.webp"
+  },
+  {
+    "id": "e1-76",
+    "number": "E1-76",
+    "name": "名称未確認",
+    "rarity": "PR",
+    "verificationStatus": "verified",
+    "setId": "encore-1",
+    "sourceKey": "E1-76_PR",
+    "status": "active",
+    "source": {
+      "url": "https://dcd.aikatsu.com/encore/cardlist/?search=true&series=629001&display=3&sort=1",
+      "acquiredAt": "2026-10-05T06:02:49.529621+00:00",
+      "sourceSeriesId": "629001"
+    },
+    "metadata": {
+      "name": null,
+      "part": null,
+      "category": null,
+      "brand": null,
+      "availabilityText": null
+    },
+    "imageUrl": "/cards/E1-76_PR.webp",
+    "imageBackUrl": "/cards/E1-76_PR_b.webp"
+  },
+  {
+    "id": "e1-77",
+    "number": "E1-77",
+    "name": "名称未確認",
+    "rarity": "PR",
+    "verificationStatus": "verified",
+    "setId": "encore-1",
+    "sourceKey": "E1-77_PR",
+    "status": "active",
+    "source": {
+      "url": "https://dcd.aikatsu.com/encore/cardlist/?search=true&series=629001&display=3&sort=1",
+      "acquiredAt": "2026-10-05T06:02:49.529621+00:00",
+      "sourceSeriesId": "629001"
+    },
+    "metadata": {
+      "name": null,
+      "part": null,
+      "category": null,
+      "brand": null,
+      "availabilityText": null
+    },
+    "imageUrl": "/cards/E1-77_PR.webp",
+    "imageBackUrl": "/cards/E1-77_PR_b.webp"
+  },
+  {
+    "id": "e1-78",
+    "number": "E1-78",
+    "name": "名称未確認",
+    "rarity": "PR",
+    "verificationStatus": "verified",
+    "setId": "encore-1",
+    "sourceKey": "E1-78_PR",
+    "status": "active",
+    "source": {
+      "url": "https://dcd.aikatsu.com/encore/cardlist/?search=true&series=629001&display=3&sort=1",
+      "acquiredAt": "2026-10-05T06:02:49.529621+00:00",
+      "sourceSeriesId": "629001"
+    },
+    "metadata": {
+      "name": null,
+      "part": null,
+      "category": null,
+      "brand": null,
+      "availabilityText": null
+    },
+    "imageUrl": "/cards/E1-78_PR.webp",
+    "imageBackUrl": "/cards/E1-78_PR_b.webp"
+  },
+  {
+    "id": "e1-79",
+    "number": "E1-79",
+    "name": "名称未確認",
+    "rarity": "PR",
+    "verificationStatus": "verified",
+    "setId": "encore-1",
+    "sourceKey": "E1-79_PR",
+    "status": "active",
+    "source": {
+      "url": "https://dcd.aikatsu.com/encore/cardlist/?search=true&series=629001&display=3&sort=1",
+      "acquiredAt": "2026-10-05T06:02:49.529621+00:00",
+      "sourceSeriesId": "629001"
+    },
+    "metadata": {
+      "name": null,
+      "part": null,
+      "category": null,
+      "brand": null,
+      "availabilityText": null
+    },
+    "imageUrl": "/cards/E1-79_PR.webp",
+    "imageBackUrl": "/cards/E1-79_PR_b.webp"
+  },
+  {
+    "id": "e1-80",
+    "number": "E1-80",
+    "name": "名称未確認",
+    "rarity": "PR",
+    "verificationStatus": "verified",
+    "setId": "encore-1",
+    "sourceKey": "E1-80_PR",
+    "status": "active",
+    "source": {
+      "url": "https://dcd.aikatsu.com/encore/cardlist/?search=true&series=629001&display=3&sort=1",
+      "acquiredAt": "2026-10-05T06:02:49.529621+00:00",
+      "sourceSeriesId": "629001"
+    },
+    "metadata": {
+      "name": null,
+      "part": null,
+      "category": null,
+      "brand": null,
+      "availabilityText": null
+    },
+    "imageUrl": "/cards/E1-80_PR.webp",
+    "imageBackUrl": "/cards/E1-80_PR_b.webp"
+  },
+  {
+    "id": "e1-81",
+    "number": "E1-81",
+    "name": "名称未確認",
+    "rarity": "PR",
+    "verificationStatus": "verified",
+    "setId": "encore-1",
+    "sourceKey": "E1-81_PR",
+    "status": "active",
+    "source": {
+      "url": "https://dcd.aikatsu.com/encore/cardlist/?search=true&series=629001&display=3&sort=1",
+      "acquiredAt": "2026-10-05T06:02:49.529621+00:00",
+      "sourceSeriesId": "629001"
+    },
+    "metadata": {
+      "name": null,
+      "part": null,
+      "category": null,
+      "brand": null,
+      "availabilityText": null
+    },
+    "imageUrl": "/cards/E1-81_PR.webp",
+    "imageBackUrl": "/cards/E1-81_PR_b.webp"
+  },
+  {
+    "id": "e1-82",
+    "number": "E1-82",
+    "name": "名称未確認",
+    "rarity": "PR",
+    "verificationStatus": "verified",
+    "setId": "encore-1",
+    "sourceKey": "E1-82_PR",
+    "status": "active",
+    "source": {
+      "url": "https://dcd.aikatsu.com/encore/cardlist/?search=true&series=629001&display=3&sort=1",
+      "acquiredAt": "2026-10-05T06:02:49.529621+00:00",
+      "sourceSeriesId": "629001"
+    },
+    "metadata": {
+      "name": null,
+      "part": null,
+      "category": null,
+      "brand": null,
+      "availabilityText": null
+    },
+    "imageUrl": "/cards/E1-82_PR.webp",
+    "imageBackUrl": "/cards/E1-82_PR_b.webp"
+  },
+  {
+    "id": "e1-83",
+    "number": "E1-83",
+    "name": "名称未確認",
+    "rarity": "N",
+    "verificationStatus": "verified",
+    "setId": "encore-1",
+    "sourceKey": "E1-83_N",
+    "status": "active",
+    "source": {
+      "url": "https://dcd.aikatsu.com/encore/cardlist/?search=true&series=629001&display=3&sort=1",
+      "acquiredAt": "2026-10-05T06:02:49.529621+00:00",
+      "sourceSeriesId": "629001"
+    },
+    "metadata": {
+      "name": null,
+      "part": null,
+      "category": null,
+      "brand": null,
+      "availabilityText": null
+    },
+    "imageUrl": "/cards/E1-83_N.webp",
+    "imageBackUrl": "/cards/E1-83_N_b.webp"
+  },
+  {
+    "id": "e1-84",
+    "number": "E1-84",
+    "name": "名称未確認",
+    "rarity": "N",
+    "verificationStatus": "verified",
+    "setId": "encore-1",
+    "sourceKey": "E1-84_N",
+    "status": "active",
+    "source": {
+      "url": "https://dcd.aikatsu.com/encore/cardlist/?search=true&series=629001&display=3&sort=1",
+      "acquiredAt": "2026-10-05T06:02:49.529621+00:00",
+      "sourceSeriesId": "629001"
+    },
+    "metadata": {
+      "name": null,
+      "part": null,
+      "category": null,
+      "brand": null,
+      "availabilityText": null
+    },
+    "imageUrl": "/cards/E1-84_N.webp",
+    "imageBackUrl": "/cards/E1-84_N_b.webp"
+  },
+  {
+    "id": "e1-85",
+    "number": "E1-85",
+    "name": "名称未確認",
+    "rarity": "N",
+    "verificationStatus": "verified",
+    "setId": "encore-1",
+    "sourceKey": "E1-85_N",
+    "status": "active",
+    "source": {
+      "url": "https://dcd.aikatsu.com/encore/cardlist/?search=true&series=629001&display=3&sort=1",
+      "acquiredAt": "2026-10-05T06:02:49.529621+00:00",
+      "sourceSeriesId": "629001"
+    },
+    "metadata": {
+      "name": null,
+      "part": null,
+      "category": null,
+      "brand": null,
+      "availabilityText": null
+    },
+    "imageUrl": "/cards/E1-85_N.webp",
+    "imageBackUrl": "/cards/E1-85_N_b.webp"
+  },
+  {
+    "id": "ep-001",
+    "number": "EP-001",
+    "name": "名称未確認",
+    "rarity": "N",
+    "verificationStatus": "verified",
+    "setId": "encore-promo",
+    "sourceKey": "EP-001_N",
+    "status": "active",
+    "source": {
+      "url": "https://dcd.aikatsu.com/encore/cardlist/?search=true&series=629901&display=3&sort=1",
+      "acquiredAt": "2026-10-05T06:02:49.530258+00:00",
+      "sourceSeriesId": "629901"
+    },
+    "metadata": {
+      "name": null,
+      "part": null,
+      "category": null,
+      "brand": null,
+      "availabilityText": "アイカツ！はじめようプレゼントキャンペーン"
+    },
+    "imageUrl": "/cards/EP-001_N.webp",
+    "imageBackUrl": "/cards/EP-001_N_b.webp"
+  },
+  {
+    "id": "ep-002",
+    "number": "EP-002",
+    "name": "名称未確認",
+    "rarity": "PR",
+    "verificationStatus": "verified",
+    "setId": "encore-promo",
+    "sourceKey": "EP-002_PR",
+    "status": "active",
+    "source": {
+      "url": "https://dcd.aikatsu.com/encore/cardlist/?search=true&series=629901&display=3&sort=1",
+      "acquiredAt": "2026-10-05T06:02:49.530258+00:00",
+      "sourceSeriesId": "629901"
+    },
+    "metadata": {
+      "name": null,
+      "part": null,
+      "category": null,
+      "brand": null,
+      "availabilityText": "アイカツ！はじめようプレゼントキャンペーン"
+    },
+    "imageUrl": "/cards/EP-002_PR.webp",
+    "imageBackUrl": "/cards/EP-002_PR_b.webp"
+  },
+  {
+    "id": "ep-003",
+    "number": "EP-003",
+    "name": "名称未確認",
+    "rarity": "N",
+    "verificationStatus": "verified",
+    "setId": "encore-promo",
+    "sourceKey": "EP-003_N",
+    "status": "active",
+    "source": {
+      "url": "https://dcd.aikatsu.com/encore/cardlist/?search=true&series=629901&display=3&sort=1",
+      "acquiredAt": "2026-10-05T06:02:49.530258+00:00",
+      "sourceSeriesId": "629901"
+    },
+    "metadata": {
+      "name": null,
+      "part": null,
+      "category": null,
+      "brand": null,
+      "availabilityText": "アイカツ！スタイル購入特典配布"
+    },
+    "imageUrl": "/cards/EP-003_N.webp",
+    "imageBackUrl": "/cards/EP-003_N_b.webp"
+  },
+  {
+    "id": "ep-004",
+    "number": "EP-004",
+    "name": "名称未確認",
+    "rarity": "N",
+    "verificationStatus": "verified",
+    "setId": "encore-promo",
+    "sourceKey": "EP-004_N",
+    "status": "active",
+    "source": {
+      "url": "https://dcd.aikatsu.com/encore/cardlist/?search=true&series=629901&display=3&sort=1",
+      "acquiredAt": "2026-10-05T06:02:49.530258+00:00",
+      "sourceSeriesId": "629901"
+    },
+    "metadata": {
+      "name": null,
+      "part": null,
+      "category": null,
+      "brand": null,
+      "availabilityText": "アイカツ！スタイル購入特典配布"
+    },
+    "imageUrl": "/cards/EP-004_N.webp",
+    "imageBackUrl": "/cards/EP-004_N_b.webp"
+  },
+  {
+    "id": "ep-005",
+    "number": "EP-005",
+    "name": "名称未確認",
+    "rarity": "N",
+    "verificationStatus": "verified",
+    "setId": "encore-promo",
+    "sourceKey": "EP-005_N",
+    "status": "active",
+    "source": {
+      "url": "https://dcd.aikatsu.com/encore/cardlist/?search=true&series=629901&display=3&sort=1",
+      "acquiredAt": "2026-10-05T06:02:49.530258+00:00",
+      "sourceSeriesId": "629901"
+    },
+    "metadata": {
+      "name": null,
+      "part": null,
+      "category": null,
+      "brand": null,
+      "availabilityText": "アイカツ！スタイル購入特典配布"
+    },
+    "imageUrl": "/cards/EP-005_N.webp",
+    "imageBackUrl": "/cards/EP-005_N_b.webp"
+  },
+  {
+    "id": "ep-006",
+    "number": "EP-006",
+    "name": "名称未確認",
+    "rarity": "N",
+    "verificationStatus": "verified",
+    "setId": "encore-promo",
+    "sourceKey": "EP-006_N",
+    "status": "active",
+    "source": {
+      "url": "https://dcd.aikatsu.com/encore/cardlist/?search=true&series=629901&display=3&sort=1",
+      "acquiredAt": "2026-10-05T06:02:49.530258+00:00",
+      "sourceSeriesId": "629901"
+    },
+    "metadata": {
+      "name": null,
+      "part": null,
+      "category": null,
+      "brand": null,
+      "availabilityText": "パフュームハンド　アイカツ！"
+    },
+    "imageUrl": "/cards/EP-006_N.webp",
+    "imageBackUrl": "/cards/EP-006_N_b.webp"
+  },
+  {
+    "id": "ep-007",
+    "number": "EP-007",
+    "name": "名称未確認",
+    "rarity": "N",
+    "verificationStatus": "verified",
+    "setId": "encore-promo",
+    "sourceKey": "EP-007_N",
+    "status": "active",
+    "source": {
+      "url": "https://dcd.aikatsu.com/encore/cardlist/?search=true&series=629901&display=3&sort=1",
+      "acquiredAt": "2026-10-05T06:02:49.530258+00:00",
+      "sourceSeriesId": "629901"
+    },
+    "metadata": {
+      "name": null,
+      "part": null,
+      "category": null,
+      "brand": null,
+      "availabilityText": "アイカツフォン アンコール"
+    },
+    "imageUrl": "/cards/EP-007_N.webp",
+    "imageBackUrl": "/cards/EP-007_N_b.webp"
+  },
+  {
+    "id": "ep-008",
+    "number": "EP-008",
+    "name": "名称未確認",
+    "rarity": "N",
+    "verificationStatus": "verified",
+    "setId": "encore-promo",
+    "sourceKey": "EP-008_N",
+    "status": "active",
+    "source": {
+      "url": "https://dcd.aikatsu.com/encore/cardlist/?search=true&series=629901&display=3&sort=1",
+      "acquiredAt": "2026-10-05T06:02:49.530258+00:00",
+      "sourceSeriesId": "629901"
+    },
+    "metadata": {
+      "name": null,
+      "part": null,
+      "category": null,
+      "brand": null,
+      "availabilityText": "アイカツフォン アンコール"
+    },
+    "imageUrl": "/cards/EP-008_N.webp",
+    "imageBackUrl": "/cards/EP-008_N_b.webp"
+  },
+  {
+    "id": "ep-009",
+    "number": "EP-009",
+    "name": "名称未確認",
+    "rarity": "N",
+    "verificationStatus": "verified",
+    "setId": "encore-promo",
+    "sourceKey": "EP-009_N",
+    "status": "active",
+    "source": {
+      "url": "https://dcd.aikatsu.com/encore/cardlist/?search=true&series=629901&display=3&sort=1",
+      "acquiredAt": "2026-10-05T06:02:49.530258+00:00",
+      "sourceSeriesId": "629901"
+    },
+    "metadata": {
+      "name": null,
+      "part": null,
+      "category": null,
+      "brand": null,
+      "availabilityText": "アイカツフォン アンコール"
+    },
+    "imageUrl": "/cards/EP-009_N.webp",
+    "imageBackUrl": "/cards/EP-009_N_b.webp"
+  },
+  {
+    "id": "ep-010",
+    "number": "EP-010",
+    "name": "名称未確認",
+    "rarity": "N",
+    "verificationStatus": "verified",
+    "setId": "encore-promo",
+    "sourceKey": "EP-010_N",
+    "status": "active",
+    "source": {
+      "url": "https://dcd.aikatsu.com/encore/cardlist/?search=true&series=629901&display=3&sort=1",
+      "acquiredAt": "2026-10-05T06:02:49.530258+00:00",
+      "sourceSeriesId": "629901"
+    },
+    "metadata": {
+      "name": null,
+      "part": null,
+      "category": null,
+      "brand": null,
+      "availabilityText": "アイカツフォンキャリー"
+    },
+    "imageUrl": "/cards/EP-010_N.webp",
+    "imageBackUrl": "/cards/EP-010_N_b.webp"
+  },
+  {
+    "id": "ep-011",
+    "number": "EP-011",
+    "name": "名称未確認",
+    "rarity": "N",
+    "verificationStatus": "verified",
+    "setId": "encore-promo",
+    "sourceKey": "EP-011_N",
+    "status": "active",
+    "source": {
+      "url": "https://dcd.aikatsu.com/encore/cardlist/?search=true&series=629901&display=3&sort=1",
+      "acquiredAt": "2026-10-05T06:02:49.530258+00:00",
+      "sourceSeriesId": "629901"
+    },
+    "metadata": {
+      "name": null,
+      "part": null,
+      "category": null,
+      "brand": null,
+      "availabilityText": "アイカツ！おうえんスターライト キュートタイプver."
+    },
+    "imageUrl": "/cards/EP-011_N.webp",
+    "imageBackUrl": "/cards/EP-011_N_b.webp"
+  },
+  {
+    "id": "ep-012",
+    "number": "EP-012",
+    "name": "名称未確認",
+    "rarity": "N",
+    "verificationStatus": "verified",
+    "setId": "encore-promo",
+    "sourceKey": "EP-012_N",
+    "status": "active",
+    "source": {
+      "url": "https://dcd.aikatsu.com/encore/cardlist/?search=true&series=629901&display=3&sort=1",
+      "acquiredAt": "2026-10-05T06:02:49.530258+00:00",
+      "sourceSeriesId": "629901"
+    },
+    "metadata": {
+      "name": null,
+      "part": null,
+      "category": null,
+      "brand": null,
+      "availabilityText": "アイカツ！おうえんスターライト クールタイプver."
+    },
+    "imageUrl": "/cards/EP-012_N.webp",
+    "imageBackUrl": "/cards/EP-012_N_b.webp"
+  },
+  {
+    "id": "ep-013",
+    "number": "EP-013",
+    "name": "名称未確認",
+    "rarity": "N",
+    "verificationStatus": "verified",
+    "setId": "encore-promo",
+    "sourceKey": "EP-013_N",
+    "status": "active",
+    "source": {
+      "url": "https://dcd.aikatsu.com/encore/cardlist/?search=true&series=629901&display=3&sort=1",
+      "acquiredAt": "2026-10-05T06:02:49.530258+00:00",
+      "sourceSeriesId": "629901"
+    },
+    "metadata": {
+      "name": null,
+      "part": null,
+      "category": null,
+      "brand": null,
+      "availabilityText": "アイカツ！おうえんスターライト セクシータイプver."
+    },
+    "imageUrl": "/cards/EP-013_N.webp",
+    "imageBackUrl": "/cards/EP-013_N_b.webp"
+  },
+  {
+    "id": "ep-014",
+    "number": "EP-014",
+    "name": "名称未確認",
+    "rarity": "N",
+    "verificationStatus": "verified",
+    "setId": "encore-promo",
+    "sourceKey": "EP-014_N",
+    "status": "active",
+    "source": {
+      "url": "https://dcd.aikatsu.com/encore/cardlist/?search=true&series=629901&display=3&sort=1",
+      "acquiredAt": "2026-10-05T06:02:49.530258+00:00",
+      "sourceSeriesId": "629901"
+    },
+    "metadata": {
+      "name": null,
+      "part": null,
+      "category": null,
+      "brand": null,
+      "availabilityText": "アイカツ！おうえんスターライト ポップタイプver."
+    },
+    "imageUrl": "/cards/EP-014_N.webp",
+    "imageBackUrl": "/cards/EP-014_N_b.webp"
+  },
+  {
+    "id": "ep-015",
+    "number": "EP-015",
+    "name": "名称未確認",
+    "rarity": "N",
+    "verificationStatus": "verified",
+    "setId": "encore-promo",
+    "sourceKey": "EP-015_N",
+    "status": "active",
+    "source": {
+      "url": "https://dcd.aikatsu.com/encore/cardlist/?search=true&series=629901&display=3&sort=1",
+      "acquiredAt": "2026-10-05T06:02:49.530258+00:00",
+      "sourceSeriesId": "629901"
+    },
+    "metadata": {
+      "name": null,
+      "part": null,
+      "category": null,
+      "brand": null,
+      "availabilityText": "アイカツ！おうえんスターライト キュートタイプver.\nアイカツ！おうえんスターライト クールタイプver.\nアイカツ！おうえんスターライト セクシータイプver.\nアイカツ！おうえんスターライト ポップタイプver."
+    },
+    "imageUrl": "/cards/EP-015_N.webp",
+    "imageBackUrl": "/cards/EP-015_N_b.webp"
+  },
+  {
+    "id": "ep-016",
+    "number": "EP-016",
+    "name": "名称未確認",
+    "rarity": "N",
+    "verificationStatus": "verified",
+    "setId": "encore-promo",
+    "sourceKey": "EP-016_N",
+    "status": "active",
+    "source": {
+      "url": "https://dcd.aikatsu.com/encore/cardlist/?search=true&series=629901&display=3&sort=1",
+      "acquiredAt": "2026-10-05T06:02:49.530258+00:00",
+      "sourceSeriesId": "629901"
+    },
+    "metadata": {
+      "name": null,
+      "part": null,
+      "category": null,
+      "brand": null,
+      "availabilityText": "アイカツ！オフィシャルストア購入特典"
+    },
+    "imageUrl": "/cards/EP-016_N.webp",
+    "imageBackUrl": "/cards/EP-016_N_b.webp"
+  },
+  {
+    "id": "ep-017",
+    "number": "EP-017",
+    "name": "名称未確認",
+    "rarity": "N",
+    "verificationStatus": "verified",
+    "setId": "encore-promo",
+    "sourceKey": "EP-017_N",
+    "status": "active",
+    "source": {
+      "url": "https://dcd.aikatsu.com/encore/cardlist/?search=true&series=629901&display=3&sort=1",
+      "acquiredAt": "2026-10-05T06:02:49.530258+00:00",
+      "sourceSeriesId": "629901"
+    },
+    "metadata": {
+      "name": null,
+      "part": null,
+      "category": null,
+      "brand": null,
+      "availabilityText": "アイカツ！オフィシャルストア購入特典"
+    },
+    "imageUrl": "/cards/EP-017_N.webp",
+    "imageBackUrl": "/cards/EP-017_N_b.webp"
+  },
+  {
+    "id": "ep-018",
+    "number": "EP-018",
+    "name": "名称未確認",
+    "rarity": "N",
+    "verificationStatus": "verified",
+    "setId": "encore-promo",
+    "sourceKey": "EP-018_N",
+    "status": "active",
+    "source": {
+      "url": "https://dcd.aikatsu.com/encore/cardlist/?search=true&series=629901&display=3&sort=1",
+      "acquiredAt": "2026-10-05T06:02:49.530258+00:00",
+      "sourceSeriesId": "629901"
+    },
+    "metadata": {
+      "name": null,
+      "part": null,
+      "category": null,
+      "brand": null,
+      "availabilityText": "アイカツ！オフィシャルストア購入特典"
+    },
+    "imageUrl": "/cards/EP-018_N.webp",
+    "imageBackUrl": "/cards/EP-018_N_b.webp"
+  },
+  {
+    "id": "ep-029",
+    "number": "EP-029",
+    "name": "名称未確認",
+    "rarity": "R",
+    "verificationStatus": "verified",
+    "setId": "encore-promo",
+    "sourceKey": "EP-029_R",
+    "status": "active",
+    "source": {
+      "url": "https://dcd.aikatsu.com/encore/cardlist/?search=true&series=629901&display=3&sort=1",
+      "acquiredAt": "2026-10-05T06:02:49.530258+00:00",
+      "sourceSeriesId": "629901"
+    },
+    "metadata": {
+      "name": null,
+      "part": null,
+      "category": null,
+      "brand": null,
+      "availabilityText": "アイカツ！はじめようプレゼントキャンペーン"
+    },
+    "imageUrl": "/cards/EP-029_R.webp",
+    "imageBackUrl": "/cards/EP-029_R_b.webp"
+  },
+  {
+    "id": "ep-030",
+    "number": "EP-030",
+    "name": "名称未確認",
+    "rarity": "R",
+    "verificationStatus": "verified",
+    "setId": "encore-promo",
+    "sourceKey": "EP-030_R",
+    "status": "active",
+    "source": {
+      "url": "https://dcd.aikatsu.com/encore/cardlist/?search=true&series=629901&display=3&sort=1",
+      "acquiredAt": "2026-10-05T06:02:49.530258+00:00",
+      "sourceSeriesId": "629901"
+    },
+    "metadata": {
+      "name": null,
+      "part": null,
+      "category": null,
+      "brand": null,
+      "availabilityText": "アイカツ！はじめようプレゼントキャンペーン"
+    },
+    "imageUrl": "/cards/EP-030_R.webp",
+    "imageBackUrl": "/cards/EP-030_R_b.webp"
+  },
+  {
+    "id": "ep-037",
+    "number": "EP-037",
+    "name": "名称未確認",
+    "rarity": "N",
+    "verificationStatus": "verified",
+    "setId": "encore-promo",
+    "sourceKey": "EP-037_N",
+    "status": "active",
+    "source": {
+      "url": "https://dcd.aikatsu.com/encore/cardlist/?search=true&series=629901&display=3&sort=1",
+      "acquiredAt": "2026-10-05T06:02:49.530258+00:00",
+      "sourceSeriesId": "629901"
+    },
+    "metadata": {
+      "name": null,
+      "part": null,
+      "category": null,
+      "brand": null,
+      "availabilityText": "ちゃお2026年11月号ふろく"
+    },
+    "imageUrl": "/cards/EP-037_N.webp",
+    "imageBackUrl": "/cards/EP-037_N_b.webp"
+  },
+  {
+    "id": "ep-038",
+    "number": "EP-038",
+    "name": "名称未確認",
+    "rarity": "N",
+    "verificationStatus": "verified",
+    "setId": "encore-promo",
+    "sourceKey": "EP-038_N",
+    "status": "active",
+    "source": {
+      "url": "https://dcd.aikatsu.com/encore/cardlist/?search=true&series=629901&display=3&sort=1",
+      "acquiredAt": "2026-10-05T06:02:49.530258+00:00",
+      "sourceSeriesId": "629901"
+    },
+    "metadata": {
+      "name": null,
+      "part": null,
+      "category": null,
+      "brand": null,
+      "availabilityText": "ちゃお2026年11月号ふろく"
+    },
+    "imageUrl": "/cards/EP-038_N.webp",
+    "imageBackUrl": "/cards/EP-038_N_b.webp"
+  }
+]

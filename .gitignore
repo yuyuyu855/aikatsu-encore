@@ -6,3 +6,5 @@ playwright-report/
 test-results/
 *.tsbuildinfo
 .DS_Store
+apps/web/public/cards/
+catalog-staging/
