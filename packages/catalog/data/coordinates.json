@@ -1,0 +1,493 @@
+{
+  "coverage": "partial",
+  "limitations": [
+    "裏面の組み合わせを確認したコーデのみ収録しています。未確認の組み合わせとフルコーデカードは集計に含めていません。",
+    "パラレル版の独立したカードIDと構成を確認できていないため、パラレルコーデは未収録です。",
+    "弾の表示範囲を選択しても、コーデに必要な他の弾のカードは完成判定に含まれます。"
+  ],
+  "coordinates": [
+    {
+      "id": "encore-1-aurora-kiss-normal",
+      "name": "オーロラキス",
+      "setId": "encore-1",
+      "variant": "normal",
+      "evidence": {
+        "kind": "official-card-back",
+        "method": "visual-transcription",
+        "url": "https://dcd.aikatsu.com/encore/images/cardlist/card/E1-01_PR_b.webp",
+        "sha256": "baf1b26ef9c56b08302b6cea85ae231b999e511f657b487f0ca703d775e7130c",
+        "acquiredAt": "2026-10-05T06:05:00.291476+00:00",
+        "printedMemberNames": [
+          "オーロラキスキャミソール",
+          "オーロラキスドレープスカート",
+          "オーロラキスバレエシューズ",
+          "オーロラキスリボン"
+        ]
+      },
+      "note": "裏面に記載された組み合わせ。",
+      "requiredCardIds": [
+        "e1-01",
+        "e1-02",
+        "e1-03",
+        "e1-04"
+      ],
+      "optionalCardIds": [],
+      "completionRule": "アプリの完成条件: 裏面に掲載された同名コーデの専用パーツをすべて所持。汎用アクセサリーはおすすめとして別表示。"
+    },
+    {
+      "id": "encore-1-ice-blue-normal",
+      "name": "アイスブルー",
+      "setId": "encore-1",
+      "variant": "normal",
+      "evidence": {
+        "kind": "official-card-back",
+        "method": "visual-transcription",
+        "url": "https://dcd.aikatsu.com/encore/images/cardlist/card/E1-05_R_b.webp",
+        "sha256": "dc5f0c306d5792cc6eff99e31150396dbe3f467b157911c2ca2ac9a98f19f3a1",
+        "acquiredAt": "2026-10-05T06:05:03.099793+00:00",
+        "printedMemberNames": [
+          "アイスブルーフリルキャミソール",
+          "アイスブルーフリルパニエ",
+          "アイスブルーシューズ",
+          "ジュエルつきパープルリボン"
+        ]
+      },
+      "note": "裏面には汎用アクセサリーE1-08も掲載。参考画面に合わせ、完成条件はアイスブルー3枚。",
+      "requiredCardIds": [
+        "e1-05",
+        "e1-06",
+        "e1-07"
+      ],
+      "optionalCardIds": [
+        "e1-08"
+      ],
+      "completionRule": "アプリの完成条件: 裏面に掲載された同名コーデの専用パーツをすべて所持。汎用アクセサリーはおすすめとして別表示。"
+    },
+    {
+      "id": "encore-1-dreamy-star-normal",
+      "name": "ドリーミースター",
+      "setId": "encore-1",
+      "variant": "normal",
+      "evidence": {
+        "kind": "official-card-back",
+        "method": "visual-transcription",
+        "url": "https://dcd.aikatsu.com/encore/images/cardlist/card/E1-10_R_b.webp",
+        "sha256": "08e798e7a29ac7bba0792aa21c24ca0f6fa565c160bbb78e48d623fc2f543d7f",
+        "acquiredAt": "2026-10-05T06:05:05.090186+00:00",
+        "printedMemberNames": [
+          "ドリーミースタートップス",
+          "ドリーミースタースカート",
+          "ドリーミースターパンプス"
+        ]
+      },
+      "note": "裏面に記載された組み合わせ。",
+      "requiredCardIds": [
+        "e1-10",
+        "e1-11",
+        "e1-12"
+      ],
+      "optionalCardIds": [],
+      "completionRule": "アプリの完成条件: 裏面に掲載された同名コーデの専用パーツをすべて所持。汎用アクセサリーはおすすめとして別表示。"
+    },
+    {
+      "id": "encore-1-charming-ribbon-normal",
+      "name": "チャーミーリボン",
+      "setId": "encore-1",
+      "variant": "normal",
+      "evidence": {
+        "kind": "official-card-back",
+        "method": "visual-transcription",
+        "url": "https://dcd.aikatsu.com/encore/images/cardlist/card/E1-13_R_b.webp",
+        "sha256": "5917643234e08049a7b51b59294829f57e7c6e49767330e03e181cdf325d29cf",
+        "acquiredAt": "2026-10-05T06:05:05.768855+00:00",
+        "printedMemberNames": [
+          "チャーミーリボントップス",
+          "チャーミーリボンスカート",
+          "チャーミーリボンサンダル",
+          "チャーミーリボンアクセ"
+        ]
+      },
+      "note": "裏面に記載された組み合わせ。",
+      "requiredCardIds": [
+        "e1-13",
+        "e1-14",
+        "e1-15",
+        "e1-16"
+      ],
+      "optionalCardIds": [],
+      "completionRule": "アプリの完成条件: 裏面に掲載された同名コーデの専用パーツをすべて所持。汎用アクセサリーはおすすめとして別表示。"
+    },
+    {
+      "id": "encore-1-clearness-yellow-normal",
+      "name": "クリアネスイエロー",
+      "setId": "encore-1",
+      "variant": "normal",
+      "evidence": {
+        "kind": "official-card-back",
+        "method": "visual-transcription",
+        "url": "https://dcd.aikatsu.com/encore/images/cardlist/card/E1-17_R_b.webp",
+        "sha256": "a241c8b01219298fbf360660d2b1291abd4d455c47237e9929516c7d43ab343a",
+        "acquiredAt": "2026-10-05T06:05:06.620658+00:00",
+        "printedMemberNames": [
+          "クリアネスイエロートップス",
+          "クリアネスイエロースカート",
+          "クリアネスイエローパンプス",
+          "クリアネスイエローアクセ"
+        ]
+      },
+      "note": "裏面に記載された組み合わせ。",
+      "requiredCardIds": [
+        "e1-17",
+        "e1-18",
+        "e1-19",
+        "e1-20"
+      ],
+      "optionalCardIds": [],
+      "completionRule": "アプリの完成条件: 裏面に掲載された同名コーデの専用パーツをすべて所持。汎用アクセサリーはおすすめとして別表示。"
+    },
+    {
+      "id": "encore-1-pink-stage-normal",
+      "name": "ピンクステージ",
+      "setId": "encore-1",
+      "variant": "normal",
+      "evidence": {
+        "kind": "official-card-back",
+        "method": "visual-transcription",
+        "url": "https://dcd.aikatsu.com/encore/images/cardlist/card/E1-21_N_b.webp",
+        "sha256": "2f7d5b53bfee2a2f09ed0b2ebc2f40e6b3a0eaa9ea14efb9876f338aea4a1944",
+        "acquiredAt": "2026-10-05T06:05:07.568266+00:00",
+        "printedMemberNames": [
+          "ピンクステージベスト",
+          "ピンクステージスカート",
+          "ピンクステージシューズ"
+        ]
+      },
+      "note": "裏面に記載された組み合わせ。",
+      "requiredCardIds": [
+        "e1-21",
+        "e1-22",
+        "e1-23"
+      ],
+      "optionalCardIds": [],
+      "completionRule": "アプリの完成条件: 裏面に掲載された同名コーデの専用パーツをすべて所持。汎用アクセサリーはおすすめとして別表示。"
+    },
+    {
+      "id": "encore-1-pink-blossom-normal",
+      "name": "ピンクブロッサム",
+      "setId": "encore-1",
+      "variant": "normal",
+      "evidence": {
+        "kind": "official-card-back",
+        "method": "visual-transcription",
+        "url": "https://dcd.aikatsu.com/encore/images/cardlist/card/E1-27_N_b.webp",
+        "sha256": "46188c7df0b5e5dc7e1d7207a19f359ed2ebf5bf0c799348848b88aac538885b",
+        "acquiredAt": "2026-10-05T06:05:08.881387+00:00",
+        "printedMemberNames": [
+          "ピンクブロッサムトップス",
+          "ピンクブロッサムスカート",
+          "ピンクブロッサムブーツ"
+        ]
+      },
+      "note": "裏面に記載された組み合わせ。",
+      "requiredCardIds": [
+        "e1-27",
+        "e1-28",
+        "e1-29"
+      ],
+      "optionalCardIds": [],
+      "completionRule": "アプリの完成条件: 裏面に掲載された同名コーデの専用パーツをすべて所持。汎用アクセサリーはおすすめとして別表示。"
+    },
+    {
+      "id": "encore-1-milky-way-cosmic-normal",
+      "name": "天の川コズミック",
+      "setId": "encore-1",
+      "variant": "normal",
+      "evidence": {
+        "kind": "official-card-back",
+        "method": "visual-transcription",
+        "url": "https://dcd.aikatsu.com/encore/images/cardlist/card/E1-33_PR_b.webp",
+        "sha256": "185bc509397f378920d7a0dd85a6464374aa0adc115904529b77f1e5612f8079",
+        "acquiredAt": "2026-10-05T06:05:10.239090+00:00",
+        "printedMemberNames": [
+          "天の川コズミックワンショルダー",
+          "天の川コズミックスカート",
+          "天の川コズミックブーツ",
+          "天の川コズミックカチューシャ"
+        ]
+      },
+      "note": "裏面に記載された組み合わせ。",
+      "requiredCardIds": [
+        "e1-33",
+        "e1-34",
+        "e1-35",
+        "e1-36"
+      ],
+      "optionalCardIds": [],
+      "completionRule": "アプリの完成条件: 裏面に掲載された同名コーデの専用パーツをすべて所持。汎用アクセサリーはおすすめとして別表示。"
+    },
+    {
+      "id": "encore-1-blue-stage-normal",
+      "name": "ブルーステージ",
+      "setId": "encore-1",
+      "variant": "normal",
+      "evidence": {
+        "kind": "official-card-back",
+        "method": "visual-transcription",
+        "url": "https://dcd.aikatsu.com/encore/images/cardlist/card/E1-41_N_b.webp",
+        "sha256": "9c34dc132c733cd23c2421730b035d30dd16466384b9e7197bef7d7126a3c04d",
+        "acquiredAt": "2026-10-05T06:05:12.439128+00:00",
+        "printedMemberNames": [
+          "ブルーステージブラウス",
+          "ブルーステージスカート",
+          "ブルーステージブーツ"
+        ]
+      },
+      "note": "裏面に記載された組み合わせ。",
+      "requiredCardIds": [
+        "e1-41",
+        "e1-42",
+        "e1-43"
+      ],
+      "optionalCardIds": [],
+      "completionRule": "アプリの完成条件: 裏面に掲載された同名コーデの専用パーツをすべて所持。汎用アクセサリーはおすすめとして別表示。"
+    },
+    {
+      "id": "encore-1-navy-blossom-normal",
+      "name": "ネイビーブロッサム",
+      "setId": "encore-1",
+      "variant": "normal",
+      "evidence": {
+        "kind": "official-card-back",
+        "method": "visual-transcription",
+        "url": "https://dcd.aikatsu.com/encore/images/cardlist/card/E1-47_N_b.webp",
+        "sha256": "03404a06fd2d6da3ac42f8976b07cccef2349bb8752d64b89e0719aa6a33c820",
+        "acquiredAt": "2026-10-05T06:05:13.727890+00:00",
+        "printedMemberNames": [
+          "ネイビーブロッサムトップス",
+          "ネイビーブロッサムスカート",
+          "ネイビーブロッサムブーツ"
+        ]
+      },
+      "note": "裏面に記載された組み合わせ。",
+      "requiredCardIds": [
+        "e1-47",
+        "e1-48",
+        "e1-49"
+      ],
+      "optionalCardIds": [],
+      "completionRule": "アプリの完成条件: 裏面に掲載された同名コーデの専用パーツをすべて所持。汎用アクセサリーはおすすめとして別表示。"
+    },
+    {
+      "id": "encore-1-legendary-rouge-normal",
+      "name": "レジェンダリールージュ",
+      "setId": "encore-1",
+      "variant": "normal",
+      "evidence": {
+        "kind": "official-card-back",
+        "method": "visual-transcription",
+        "url": "https://dcd.aikatsu.com/encore/images/cardlist/card/E1-51_PR_b.webp",
+        "sha256": "c19d7620e9ce64649979483fbfb9dfa884cb9e46656a9134c48e4e09150101f4",
+        "acquiredAt": "2026-10-05T06:05:14.695981+00:00",
+        "printedMemberNames": [
+          "レジェンダリールージュドレス",
+          "レジェンダリールージュパンプス",
+          "レジェンダリールージュティアラ"
+        ]
+      },
+      "note": "裏面に掲載された同名専用アクセサリーEP-002もアプリの完成条件に含めます。",
+      "requiredCardIds": [
+        "e1-51",
+        "e1-52",
+        "ep-002"
+      ],
+      "optionalCardIds": [],
+      "completionRule": "アプリの完成条件: 裏面に掲載された同名コーデの専用パーツをすべて所持。汎用アクセサリーはおすすめとして別表示。"
+    },
+    {
+      "id": "encore-1-ageha-red-normal",
+      "name": "アゲハレッド",
+      "setId": "encore-1",
+      "variant": "normal",
+      "evidence": {
+        "kind": "official-card-back",
+        "method": "visual-transcription",
+        "url": "https://dcd.aikatsu.com/encore/images/cardlist/card/E1-53_R_b.webp",
+        "sha256": "45039cc68ad4506aa53fddb5dcd0cacc31b9cbeeee392434ae05eb1271230935",
+        "acquiredAt": "2026-10-05T06:05:15.147926+00:00",
+        "printedMemberNames": [
+          "アゲハレッドコクーンワンピ",
+          "アゲハレッドミュール"
+        ]
+      },
+      "note": "裏面に記載された組み合わせ。",
+      "requiredCardIds": [
+        "e1-53",
+        "e1-54"
+      ],
+      "optionalCardIds": [],
+      "completionRule": "アプリの完成条件: 裏面に掲載された同名コーデの専用パーツをすべて所持。汎用アクセサリーはおすすめとして別表示。"
+    },
+    {
+      "id": "encore-1-purple-stage-normal",
+      "name": "パープルステージ",
+      "setId": "encore-1",
+      "variant": "normal",
+      "evidence": {
+        "kind": "official-card-back",
+        "method": "visual-transcription",
+        "url": "https://dcd.aikatsu.com/encore/images/cardlist/card/E1-60_N_b.webp",
+        "sha256": "510ae66ea287cfc49fc7543007df7ac8fde3f985eb85fcdbaccc36e46f545f47",
+        "acquiredAt": "2026-10-05T06:05:16.776101+00:00",
+        "printedMemberNames": [
+          "パープルステージトップス",
+          "パープルステージスカート",
+          "パープルステージニーハイパンプス"
+        ]
+      },
+      "note": "裏面に記載された組み合わせ。",
+      "requiredCardIds": [
+        "e1-60",
+        "e1-61",
+        "e1-62"
+      ],
+      "optionalCardIds": [],
+      "completionRule": "アプリの完成条件: 裏面に掲載された同名コーデの専用パーツをすべて所持。汎用アクセサリーはおすすめとして別表示。"
+    },
+    {
+      "id": "encore-1-purple-blossom-normal",
+      "name": "パープルブロッサム",
+      "setId": "encore-1",
+      "variant": "normal",
+      "evidence": {
+        "kind": "official-card-back",
+        "method": "visual-transcription",
+        "url": "https://dcd.aikatsu.com/encore/images/cardlist/card/E1-68_N_b.webp",
+        "sha256": "85928d522957ca2b9e5aed09e7c4d295058e1a29582734dc7b467595a422a47f",
+        "acquiredAt": "2026-10-05T06:05:18.372749+00:00",
+        "printedMemberNames": [
+          "パープルブロッサムトップス",
+          "パープルブロッサムスカート",
+          "パープルブロッサムブーツ"
+        ]
+      },
+      "note": "裏面に記載された組み合わせ。",
+      "requiredCardIds": [
+        "e1-68",
+        "e1-69",
+        "e1-70"
+      ],
+      "optionalCardIds": [],
+      "completionRule": "アプリの完成条件: 裏面に掲載された同名コーデの専用パーツをすべて所持。汎用アクセサリーはおすすめとして別表示。"
+    },
+    {
+      "id": "encore-1-sunshine-starway-normal",
+      "name": "サンシャインスターウェイ",
+      "setId": "encore-1",
+      "variant": "normal",
+      "evidence": {
+        "kind": "official-card-back",
+        "method": "visual-transcription",
+        "url": "https://dcd.aikatsu.com/encore/images/cardlist/card/E1-71_PR_b.webp",
+        "sha256": "94afec991200ce8d7bd0e2a7d84627b2c6a88e3a7039a7be88ec8ee66ec7e83f",
+        "acquiredAt": "2026-10-05T06:05:19.032813+00:00",
+        "printedMemberNames": [
+          "サンシャインスターウェイトップス",
+          "サンシャインスターウェイスカート",
+          "サンシャインスターウェイシューズ",
+          "サンシャインスターウェイカチューシャ"
+        ]
+      },
+      "note": "裏面に記載された組み合わせ。",
+      "requiredCardIds": [
+        "e1-71",
+        "e1-72",
+        "e1-73",
+        "e1-74"
+      ],
+      "optionalCardIds": [],
+      "completionRule": "アプリの完成条件: 裏面に掲載された同名コーデの専用パーツをすべて所持。汎用アクセサリーはおすすめとして別表示。"
+    },
+    {
+      "id": "encore-1-sunrise-starway-normal",
+      "name": "サンライズスターウェイ",
+      "setId": "encore-1",
+      "variant": "normal",
+      "evidence": {
+        "kind": "official-card-back",
+        "method": "visual-transcription",
+        "url": "https://dcd.aikatsu.com/encore/images/cardlist/card/E1-75_PR_b.webp",
+        "sha256": "f9e51e614aaa9aa820b436fffcdef0ef2c646323cdf24f022ed7f4f15c52f9ee",
+        "acquiredAt": "2026-10-05T06:05:19.993015+00:00",
+        "printedMemberNames": [
+          "サンライズスターウェイトップス",
+          "サンライズスターウェイスカート",
+          "サンライズスターウェイシューズ",
+          "サンライズスターウェイカチューシャ"
+        ]
+      },
+      "note": "裏面に記載された組み合わせ。",
+      "requiredCardIds": [
+        "e1-75",
+        "e1-76",
+        "e1-77",
+        "e1-78"
+      ],
+      "optionalCardIds": [],
+      "completionRule": "アプリの完成条件: 裏面に掲載された同名コーデの専用パーツをすべて所持。汎用アクセサリーはおすすめとして別表示。"
+    },
+    {
+      "id": "encore-1-sunset-starway-normal",
+      "name": "サンセットスターウェイ",
+      "setId": "encore-1",
+      "variant": "normal",
+      "evidence": {
+        "kind": "official-card-back",
+        "method": "visual-transcription",
+        "url": "https://dcd.aikatsu.com/encore/images/cardlist/card/E1-79_PR_b.webp",
+        "sha256": "076c89b65ef575d4d5292ca30986e4fc5feb33af79ebc00fac86d6ef06c84b35",
+        "acquiredAt": "2026-10-05T06:05:20.836923+00:00",
+        "printedMemberNames": [
+          "サンセットスターウェイトップス",
+          "サンセットスターウェイスカート",
+          "サンセットスターウェイシューズ",
+          "サンセットスターウェイカチューシャ"
+        ]
+      },
+      "note": "裏面に記載された組み合わせ。",
+      "requiredCardIds": [
+        "e1-79",
+        "e1-80",
+        "e1-81",
+        "e1-82"
+      ],
+      "optionalCardIds": [],
+      "completionRule": "アプリの完成条件: 裏面に掲載された同名コーデの専用パーツをすべて所持。汎用アクセサリーはおすすめとして別表示。"
+    },
+    {
+      "id": "encore-1-yellow-blossom-normal",
+      "name": "イエローブロッサム",
+      "setId": "encore-1",
+      "variant": "normal",
+      "evidence": {
+        "kind": "official-card-back",
+        "method": "visual-transcription",
+        "url": "https://dcd.aikatsu.com/encore/images/cardlist/card/E1-83_N_b.webp",
+        "sha256": "a0b724264d56e9743780366dc568d46e143e4fd1197bb34849ee3449bcb7f45d",
+        "acquiredAt": "2026-10-05T06:05:21.774433+00:00",
+        "printedMemberNames": [
+          "イエローブロッサムトップス",
+          "イエローブロッサムスカート",
+          "イエローブロッサムブーツ"
+        ]
+      },
+      "note": "裏面に記載された組み合わせ。",
+      "requiredCardIds": [
+        "e1-83",
+        "e1-84",
+        "e1-85"
+      ],
+      "optionalCardIds": [],
+      "completionRule": "アプリの完成条件: 裏面に掲載された同名コーデの専用パーツをすべて所持。汎用アクセサリーはおすすめとして別表示。"
+    }
+  ]
+}

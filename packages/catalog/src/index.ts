@@ -1,4 +1,5 @@
 import type { CatalogCard } from '@aikatsu/domain';
+export * from './coordinates';
 import cards from '../data/cards.json';
 import manifest from '../data/manifest.json';
 import labels from '../data/labels.json';

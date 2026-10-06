@@ -1,23 +1,7 @@
 import { readdir, readFile } from 'node:fs/promises';
 import { resolve } from 'node:path';
-import { test as browserTest, expect } from '../fixtures';
-import { card, change, wanted, quantity, expectItem, addOwned, exportBackup } from '../workflow-helpers';
-
-const test = browserTest.extend({
-  page: async ({ page }, use) => {
-    const failures: string[] = [];
-    const cardImageRequests: string[] = [];
-    page.on('requestfailed', (request) => failures.push(`${request.url()}: ${request.failure()?.errorText}`));
-    page.on('response', (response) => { if (response.status() >= 400) failures.push(`${response.status()} ${response.url()}`); });
-    page.on('request', (request) => {
-      const url = new URL(request.url());
-      if (url.pathname.includes('/cards/') || url.hostname === 'dcd.aikatsu.com') cardImageRequests.push(request.url());
-    });
-    await use(page);
-    expect(failures, 'Publishing build must have no failed network requests').toEqual([]);
-    expect(cardImageRequests, 'Publishing build must not request official card images').toEqual([]);
-  },
-});
+import { test, expect } from './fixtures';
+import { card, change, wanted, quantity, expectItem, addOwned, exportBackup, screenshotFullPage } from '../workflow-helpers';
 
 test.beforeEach(async ({ page }) => {
   await page.goto('./');
@@ -40,7 +24,7 @@ test('loads the 107-card publishing artifact under the repository subpath withou
   await expect(card(page, 'E1-01').getByRole('link', { name: 'E1-01 カード表面の画像を開く' })).toHaveCount(0);
   await expect(card(page, 'E1-01').getByRole('button', { name: 'E1-01 カードの裏面を表示' })).toHaveCount(0);
   await page.getByRole('searchbox', { name: 'カード名・番号で検索' }).fill('E1-01');
-  await page.screenshot({ path: '/tmp/aikatsu-pages-desktop.png', fullPage: true });
+  await screenshotFullPage(page, '/tmp/aikatsu-pages-desktop.png');
 });
 
 test('preserves edited inventory on reload and exports the full JSON backup from the subpath', async ({ page }) => {
@@ -53,7 +37,7 @@ test('preserves edited inventory on reload and exports the full JSON backup from
   await expectItem(page, 'E1-01', 2, 1, true);
   await expectItem(page, 'E1-02', 0, 0, false);
   const backup = await exportBackup(page);
-  expect(backup.schemaVersion).toBe(1);
+  expect(backup.schemaVersion).toBe(2);
   expect(backup.inventory).toHaveLength(107);
   expect(new Set(backup.inventory.map((item) => item.cardId)).size).toBe(107);
   expect(backup.inventory.find((item) => item.cardId === 'e1-01')).toEqual({ cardId: 'e1-01', owned: 2, offered: 1, wanted: true });
@@ -71,7 +55,7 @@ test('keeps set filters, card controls, and backup usable on a small phone', asy
   await addOwned(page, 'E1-01', 1);
   await expectItem(page, 'E1-01', 1, 0, false);
   expect(await page.evaluate(() => document.documentElement.scrollWidth <= innerWidth)).toBe(true);
-  await page.screenshot({ path: '/tmp/aikatsu-pages-mobile.png', fullPage: true });
+  await screenshotFullPage(page, '/tmp/aikatsu-pages-mobile.png');
   await page.getByRole('button', { name: 'バックアップ', exact: true }).click();
   await expect(page.getByRole('button', { name: 'JSONをダウンロード' })).toBeEnabled();
   await expect(page.getByLabel('バックアップJSONファイル')).toBeEnabled();

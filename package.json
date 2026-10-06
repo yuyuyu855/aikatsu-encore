@@ -9,7 +9,7 @@
     "build:pages": "pnpm typecheck && pnpm --filter @aikatsu/web build:pages && node scripts/publish/verify-pages.mjs",
     "preview:pages": "pnpm --filter @aikatsu/web preview:pages",
     "typecheck": "pnpm -r typecheck",
-    "test": "pnpm -r test && node --test scripts/catalog/test/official.test.mjs",
+    "test": "pnpm -r test && node --experimental-strip-types --test scripts/catalog/test/official.test.mjs apps/web/src/features/exchange/export.test.mjs scripts/stores/test/stores.test.mjs",
     "test:e2e": "playwright test",
     "test:e2e:pages": "pnpm build:pages && playwright test --config apps/web/e2e/pages/playwright.config.ts",
     "catalog:fetch": "node scripts/catalog/fetch-images.mjs",

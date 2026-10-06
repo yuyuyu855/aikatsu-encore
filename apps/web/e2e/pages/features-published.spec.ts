@@ -1,0 +1,57 @@
+import { test, expect } from './fixtures';
+import { addOwned, exportBackup, importText, seedLegacyInventory } from '../workflow-helpers';
+import { downloadPng, exchangeFixture, observeCanvasText, recordStore, type DrawnText } from '../feature-helpers';
+
+test('keeps coordination and the last exchange PNG page functional without official image requests', async ({ page }) => {
+  await seedLegacyInventory(page, exchangeFixture(25, 13));
+  await page.getByRole('button', { name: 'コーデ', exact: true }).click();
+  await expect(page.locator('.coordinate-group')).toHaveCount(18);
+  await expect(page.locator('.coordinate-member img')).toHaveCount(0);
+  await expect(page.locator('.coordinate-member .card-image-fallback').first()).toContainText('テスト公開では画像を掲載していません');
+  await page.getByRole('button', { name: '譲・求', exact: true }).click();
+  await expect(page.locator('.exchange-list img')).toHaveCount(0);
+  await observeCanvasText(page);
+  await page.getByRole('button', { name: '交換リスト画像を作成', exact: true }).click();
+  const dialog = page.getByRole('dialog', { name: '交換リスト画像', exact: true });
+  await expect(dialog).toContainText('全3ページ');
+  await dialog.getByRole('combobox', { name: '画像のページ' }).selectOption('2');
+  await dialog.getByRole('button', { name: 'このページの画像を作成', exact: true }).click();
+  await expect(dialog.getByRole('img', { name: '交換リスト 3ページのプレビュー' })).toBeVisible();
+  const draws = await page.evaluate(() => (window as typeof window & { exchangeDraws: DrawnText[] }).exchangeDraws);
+  expect(draws.filter((row) => row.y < 720 && /^E1-\d{2}$/.test(row.text)).map((row) => row.text)).toEqual(['E1-25']);
+  expect(draws.filter((row) => row.y >= 720 && /^E1-\d{2}$/.test(row.text))).toEqual([]);
+  expect(draws.some((row) => row.y >= 720 && row.text === 'このページにはありません')).toBe(true);
+  await downloadPng(page, '/tmp/aikatsu-pages-exchange-last.png');
+  await page.setViewportSize({ width: 375, height: 812 });
+  expect(await page.evaluate(() => document.documentElement.scrollWidth <= innerWidth)).toBe(true);
+  await page.screenshot({ path: '/tmp/aikatsu-exchange-mobile.png' });
+});
+
+test('persists store records, undo, and complete backup restoration under the public subpath', async ({ page }) => {
+  await page.goto('./');
+  await addOwned(page, 'E1-01', 1);
+  await recordStore(page, '公開版での訪問記録', 0);
+  const original = await exportBackup(page);
+  expect(original.schemaVersion).toBe(2);
+  expect(original.storePreferences[0]).toMatchObject({ favorite: true, machineCount: 0, note: '公開版での訪問記録' });
+  await page.getByRole('button', { name: '直近の操作を元に戻す', exact: true }).click();
+  await expect(page.getByRole('status')).toContainText('直近の操作を元に戻し');
+  await page.reload();
+  const undone = await exportBackup(page);
+  expect(undone.inventory).toEqual(original.inventory);
+  expect(undone.storePreferences[0]).toMatchObject({ favorite: true, note: '', machineCount: null });
+  expect(undone.history.at(-1)).toMatchObject({ action: 'undo', undoOf: original.history.at(-1)!.id });
+  await importText(page, JSON.stringify(original));
+  const dialog = page.getByRole('dialog', { name: 'バックアップを復元しますか？' });
+  await expect(dialog).toContainText('店舗設定 1 件も入れ替えます');
+  await dialog.getByRole('button', { name: '置き換えて復元' }).click();
+  await expect(dialog).not.toBeVisible();
+  await page.reload();
+  const restored = await exportBackup(page);
+  expect(restored.inventory).toEqual(original.inventory);
+  expect(restored.storePreferences).toEqual(original.storePreferences);
+  expect(restored.history.filter((event) => event.importedFromId)).toHaveLength(original.history.length);
+  expect(restored.history.at(-1)!.action).toBe('restore');
+  await page.getByRole('button', { name: '履歴', exact: true }).click();
+  await expect(page.locator('.history-page').getByRole('button', { name: '元に戻す', exact: true })).toHaveCount(0);
+});

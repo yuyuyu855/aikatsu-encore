@@ -50,7 +50,9 @@ test('opens the real two-card schema-1 database without losing legacy inventory'
   await expectItem(page, 'E1-02', 0, 0, true);
   await expectItem(page, 'E1-03', 0, 0, false);
   const backup = await exportBackup(page);
-  expect(backup.schemaVersion).toBe(1);
+  expect(backup.schemaVersion).toBe(2);
+  expect(backup.history).toEqual([]);
+  expect(backup.storePreferences).toEqual([]);
   expect(backup.inventory).toHaveLength(107);
   expect(new Set(backup.inventory.map((item) => item.cardId))).toEqual(new Set(cards.map((entry) => entry.id)));
   expect(backup.inventory.filter((item) => legacyBackup.inventory.some((old) => old.cardId === item.cardId))).toEqual(legacyBackup.inventory);

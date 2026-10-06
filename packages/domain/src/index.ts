@@ -22,10 +22,13 @@ export interface Inventory {
   wanted: boolean;
 }
 
-export interface Backup {
-  schemaVersion: 1;
-  inventory: Inventory[];
-}
+import { validateHistory, validateStorePreferences } from './state';
+import type { HistoryEvent, StorePreference } from './state';
+export * from './state';
+
+export type Backup =
+  | { schemaVersion: 1; inventory: Inventory[] }
+  | { schemaVersion: 2; inventory: Inventory[]; history: HistoryEvent[]; storePreferences: StorePreference[] };
 
 export type ValidationResult<T> =
   | { ok: true; value: T }
@@ -85,7 +88,7 @@ export function validateBackup(
   }
 
   const errors: string[] = [];
-  if (value.schemaVersion !== 1) errors.push('対応していないバックアップ形式です（schemaVersion: 1のみ対応）。');
+  if (value.schemaVersion !== 1 && value.schemaVersion !== 2) errors.push('対応していないバックアップ形式です（schemaVersion: 1または2のみ対応）。');
   if (!Array.isArray(value.inventory)) {
     errors.push('バックアップに所持データの配列が必要です。');
     return { ok: false, errors };
@@ -108,9 +111,16 @@ export function validateBackup(
     inventory.push(item);
   }
 
-  return errors.length > 0
-    ? { ok: false, errors }
-    : { ok: true, value: { schemaVersion: 1, inventory } };
+  if (value.schemaVersion === 2) {
+    const history = validateHistory(value.history, catalog);
+    const preferences = validateStorePreferences(value.storePreferences);
+    if (!history.ok) errors.push(...history.errors);
+    if (!preferences.ok) errors.push(...preferences.errors);
+    return errors.length === 0 && history.ok && preferences.ok
+      ? { ok: true, value: { schemaVersion: 2, inventory, history: history.value, storePreferences: preferences.value } }
+      : { ok: false, errors };
+  }
+  return errors.length > 0 ? { ok: false, errors } : { ok: true, value: { schemaVersion: 1, inventory } };
 }
 
 export function parseBackup(

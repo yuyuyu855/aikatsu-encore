@@ -1,0 +1,43 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import { readFile, mkdtemp, writeFile } from 'node:fs/promises';
+import { tmpdir } from 'node:os';
+import { join } from 'node:path';
+import { pathToFileURL } from 'node:url';
+import ts from 'typescript';
+const snapshot = JSON.parse(await readFile(new URL('../../../apps/web/src/features/stores/data/stores.json', import.meta.url), 'utf8'));
+const source = await readFile(new URL('../../../apps/web/src/features/stores/catalog.ts', import.meta.url), 'utf8');
+const directory = await mkdtemp(join(tmpdir(), 'stores-test-'));
+const modulePath = join(directory, 'catalog.mjs');
+await writeFile(modulePath, ts.transpileModule(source.replace("import snapshot from './data/stores.json';", `const snapshot = ${JSON.stringify(snapshot)};`), { compilerOptions: { target: ts.ScriptTarget.ES2022, module: ts.ModuleKind.ESNext } }).outputText);
+const { filterStores, storeMapUrl } = await import(pathToFileURL(modulePath).href);
+test('official snapshot retains complete source coverage and unknown machine counts', () => {
+  assert.equal(snapshot.sourceAsOf, '2026-10-02');
+  assert.match(snapshot.sourceSha256, /^[a-f0-9]{64}$/);
+  assert.equal(snapshot.total, 1370);
+  assert.equal(snapshot.stores.length, snapshot.total);
+  assert.equal(Object.keys(snapshot.prefectureCounts).length, 47);
+  assert.equal(snapshot.prefectureCounts['福岡県'], 54);
+  assert.equal(new Set(snapshot.stores.map(store => store.id)).size, snapshot.total);
+  assert.equal(new Set(snapshot.stores.map(store => `${store.prefecture}|${store.name}|${store.address}`)).size, snapshot.total);
+  for (const [prefecture, count] of Object.entries(snapshot.prefectureCounts)) assert.equal(snapshot.stores.filter(store => store.prefecture === prefecture).length, count);
+  assert.ok(snapshot.stores.every(store => store.machineCount === null && store.address.startsWith(store.prefecture)));
+});
+test('search normalizes fullwidth characters and intersects prefecture/favorites', () => {
+  const shop = snapshot.stores.find(store => store.prefecture === '福岡県' && store.name.includes('GiGO'));
+  assert.ok(shop);
+  const preferences = { [shop.id]: { favorite: true, note: '', machineCount: null }, retired: { favorite: true, note: 'retained', machineCount: 1 } };
+  assert.ok(filterStores('ＧｉＧＯ', '福岡県', false, preferences).some(store => store.id === shop.id));
+  assert.deepEqual(filterStores(shop.address, '福岡県', true, preferences).map(store => store.id), [shop.id]);
+  assert.equal(filterStores('', '北海道', true, preferences).length, 0);
+  assert.equal(filterStores('存在しない店舗zzzz', '', false, {}).length, 0);
+});
+test('map links safely encode store name and source address without automatic geolocation', () => {
+  const shop = { name: '店舗 & # A', address: '東京都 1/2?3', id: 'test', prefecture: '東京都', machineCount: null };
+  const search = new URL(storeMapUrl(shop));
+  const directions = new URL(storeMapUrl(shop, true));
+  assert.equal(search.hostname, 'www.google.com');
+  assert.equal(search.searchParams.get('query'), `${shop.name} ${shop.address}`);
+  assert.equal(directions.searchParams.get('destination'), `${shop.name} ${shop.address}`);
+  assert.equal(directions.searchParams.get('origin'), null);
+});
